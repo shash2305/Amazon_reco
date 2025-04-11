@@ -1,0 +1,1001 @@
+ProductID,ProductName,Category,Price,StockQuantity
+e78bf55f-6070-4d8d-8f42-acda369a5290,Gun Device,Clothing,1993.53,354
+64c2a94a-0fc3-4558-a228-3893ed43ee73,Hear Device,Toys & Games,1394.74,322
+dd5ff5ce-8ae0-4a4d-89b3-91ac016f87a4,Miss Gadget,Clothing,1154.69,455
+fd1a98bf-16c7-4a15-8a27-ff34a5fb2452,Still Item,Electronics,1464.91,109
+85012227-f4a9-47c6-ac29-4a98e326afbb,Return Tool,Home & Kitchen,1176.25,357
+33e4fc42-c1cf-4a9f-bda7-34f72e2a1e31,Give Item,Electronics,1638.28,213
+4d88d612-4977-4077-b04c-c74c8736ee61,Let Item,Clothing,403.26,127
+30adbf4a-35c2-4f31-901d-a3503124d79c,Ball Accessory,Toys & Games,1897.74,460
+0314b3e8-677a-44d9-983f-776affb31e18,Election Accessory,Home & Kitchen,46.14,326
+16d10d1d-9aba-4002-b3ed-535c3f865f9b,Admit Item,Home & Kitchen,1231.38,60
+68a88899-7d0b-436d-8137-5ea4a0f3afc8,Find Tool,Clothing,1967.25,244
+a4830094-9aa6-41c4-962a-f1f983fd4cd6,Couple Gadget,Grooming,1625.53,110
+e9a3a432-c311-46b7-8ab2-a402b35bb461,Pressure Item,Toys & Games,830.7,90
+abae3059-54e0-4710-86d5-b7d27bb796e4,Race Item,Home & Kitchen,1821.27,329
+e39aa7f6-2348-48f3-951f-d92a7fe922ec,Provide Item,Home & Kitchen,233.47,105
+ae84da21-1c2e-4ede-a854-fd6f3970712f,Worry Gadget,Grooming,182.62,292
+15820f22-0da3-4f46-9ccb-05df68900e59,Film Accessory,Books,1407.43,45
+fdc89ad8-5c98-4f41-a742-f2ec070ebd79,Computer Device,Home & Kitchen,971.38,328
+ac709052-0024-4eda-a69a-5e2b618ede39,Compare Item,Books,753.65,111
+385dabdb-33e9-4ea5-891b-80cb8140d558,Natural Accessory,Electronics,429.26,206
+15ae2cd6-760b-46b6-b595-62201c032611,Skill Device,Home & Kitchen,1510.24,59
+6eb4936b-b1ad-42c2-9e8b-f67cc8f0cf66,Name Item,Clothing,1087.36,482
+07ddbe5f-89f4-4dac-ba4e-afc0c758dee1,Around Tool,Clothing,1782.5,375
+e6663d2b-388c-44ba-9498-1ac89828ffe4,Film Tool,Home & Kitchen,1451.85,257
+38faa65c-1c57-4b89-8cbd-0ed0dbd9e08a,Particularly Accessory,Clothing,919.95,172
+c58ae253-4977-40ce-87bf-046b3289f2bd,Or Device,Electronics,1573.99,305
+2a42c0ea-6cd7-471d-bddf-0f3f300a4500,Adult Tool,Clothing,1348.51,31
+6ad2c871-b97e-482e-879f-1f1e8adde1a7,Thought Gadget,Books,1593.01,461
+47383451-bf35-435b-9fe7-0a4e646a40d2,Attack Device,Home & Kitchen,1546.67,142
+f1da0d52-3459-4c43-bb84-b0a4abe1d816,Stand Device,Electronics,1932.79,216
+3cd72f1d-141f-4f84-ba1f-362504ec95f0,Do Gadget,Books,830.37,456
+01944e2a-9b1d-4efc-8d56-6949109cb29a,Operation Accessory,Home & Kitchen,1874.79,119
+5d83de7a-5b4d-488d-a602-460036f234d5,Seat Device,Books,1510.41,41
+abcb36ce-9ea5-4c68-b2a3-9b6615cb6755,Gas Device,Electronics,232.7,179
+1db866d7-725f-4067-bf9e-a0d726cde3d1,Blue Device,Home & Kitchen,102.14,369
+db1ec0af-860f-47d3-b938-a540222e65bf,Well Accessory,Clothing,1969.2,358
+88822650-0a03-4a20-859b-8c07df517487,Same Device,Grooming,1909.56,231
+5e8055d3-9b1d-48d6-a1de-f14bce17b55f,Turn Item,Home & Kitchen,1751.38,386
+a71a3949-c7af-4794-9ea4-59d6671d51b3,Affect Accessory,Grooming,1467.94,321
+07b67fd5-d8b5-4c76-af5c-08c72453aa83,In Gadget,Home & Kitchen,1146.82,36
+c07aec9e-d5a1-41a9-bb09-685e439d43fc,For Item,Books,1939.97,407
+5093f145-804b-4be5-b572-f8b6ef528948,Must Item,Grooming,1507.16,186
+98a41c23-9cb1-4026-9115-30250bc58ccc,Begin Item,Books,1449.75,412
+ffbc8683-8a71-40a3-a415-0cea5f845688,Often Item,Home & Kitchen,1309.19,263
+430953df-83a6-4cc5-aeb8-da55a9ff1108,Story Accessory,Books,1730.65,211
+c4bc552a-f4fa-4ca3-be88-d791b5c01260,Bank Item,Grooming,472.96,371
+57cf82ad-98b4-4598-b969-9211b5eafd39,Song Tool,Grooming,1449.52,440
+1508ff12-1ce8-482d-b014-7edcd2cc5341,Near Item,Electronics,1537.08,46
+b84377f1-d197-4bf7-bf4a-e3598032606e,Popular Accessory,Grooming,1997.99,131
+48873b05-25e3-4175-98c1-aa3d8c3a2cf1,Instead Tool,Home & Kitchen,618.24,391
+94622974-9dfe-4fe0-8092-aebac31e38c3,Fly Accessory,Toys & Games,1197.83,357
+47f0a6bc-4feb-479b-a2bd-39fb5fa67162,Look Device,Electronics,1404.75,257
+402664a5-1ca3-4f7f-b79d-a31ef862d63a,Improve Accessory,Home & Kitchen,136.49,224
+3417fd29-953d-48cf-b3ea-ba4090119e2c,Method Accessory,Grooming,472.11,73
+12c6b87a-8e76-4e71-a22e-d2643fc83685,Must Device,Clothing,1218.93,309
+8aefeaca-53f1-4015-a9cf-d0347ab6abe7,Likely Accessory,Electronics,1984.55,401
+b4cafcd5-256a-4139-aad3-782bc1cbf787,Hope Item,Grooming,1198.33,402
+49d6c7e6-4b8e-44fa-b3e1-fb233f7090b1,View Tool,Toys & Games,1183.24,458
+cfbf45a8-0709-43dc-bdcc-bd11a12c7817,Southern Device,Books,827.15,173
+5c253904-c0f3-4cf9-a6cb-942ed6f1bbd4,Watch Item,Clothing,1456.06,248
+33e68e81-78cf-4802-bae2-6264c26c5955,Class Tool,Electronics,1283.72,451
+6e8eb643-c1bb-4f6a-93d5-9915262b81b7,Green Tool,Clothing,1732.78,438
+a1e70b5e-c03c-4f85-856b-428236c9fe61,Star Gadget,Toys & Games,882.19,259
+9ba49de1-e1cc-4ecd-87b7-53f20f27bf38,Quality Accessory,Electronics,79.61,29
+98578e69-afd6-49e9-b83e-e2d8747d1f5a,Partner Device,Clothing,1218.6,466
+615f12b0-633b-4458-b544-84f4e7008227,Case Gadget,Books,1025.75,176
+93fa87da-7222-48f4-a417-e781fadd9046,Hot Tool,Home & Kitchen,1374.89,467
+c02c18ea-e7a6-48e8-b1e7-6ad697df5ea2,High Item,Clothing,556.83,315
+ce18ec86-214d-4ffc-9888-d0ad96597965,Adult Item,Clothing,600.31,46
+f6c7b777-56ab-4d4f-8798-be064c766234,History Gadget,Clothing,1412.8,193
+107ca01e-fc3e-4a07-9713-e7ed03db5247,Movie Tool,Toys & Games,1674.07,349
+6f188f9c-3ab7-4867-b499-baab1d55aa8e,Indeed Gadget,Books,267.73,386
+90d84e9f-0240-49f6-a40f-a4e392961924,Run Tool,Home & Kitchen,302.24,271
+6a9b01a4-de70-45d6-ba4d-7a6afae91ab2,Expect Tool,Toys & Games,592.73,478
+81a21b1f-72b4-4949-9faa-2360dee8925f,Relationship Gadget,Electronics,1733.95,33
+b0441f4f-d0f7-47d4-84ed-b8711f8cfc63,Quickly Item,Home & Kitchen,1459.78,96
+bad1ccc1-c581-449c-acd4-742e47e6162e,Car Device,Electronics,458.16,241
+c2879738-54c8-409e-83df-65a80320c5d5,Let Tool,Home & Kitchen,953.92,20
+d5b1d550-b241-497d-a186-b4345544de59,Partner Tool,Clothing,1224.63,64
+cf7d5049-3d17-4e88-a76a-94f02f439011,Candidate Tool,Grooming,1731.05,428
+56da309f-09e2-408b-aca7-72e92670aba6,Treat Accessory,Home & Kitchen,1652.05,484
+e8298cbc-6776-4a74-bada-a48acc27461b,Moment Item,Clothing,1507.41,50
+e301e936-c187-467d-8e36-409111e21350,Fast Item,Grooming,1849.56,171
+99e9339d-c1dd-4f0e-9b08-f83c7baa58f9,Because Gadget,Grooming,1265.86,439
+2f48c343-c36e-437c-9fe1-660db83478e4,Policy Tool,Toys & Games,1132.68,461
+3a5c2ae6-0b26-4560-a84c-6e334edd40b3,Lose Item,Grooming,935.55,405
+a513f5c9-fc14-465e-9907-77825da733e0,Think Device,Electronics,177.3,500
+1da4805d-fa32-4668-a651-9c73346238fa,Full Accessory,Electronics,1606.17,37
+544463f2-0094-4d6c-8400-31e2ecdb8005,Research Gadget,Toys & Games,1740.42,30
+6c6b1b55-8ee4-4dc9-ba1c-539542538158,Yourself Device,Electronics,851.06,469
+66e346bd-5b2d-4862-a7d1-a591907258b0,Listen Gadget,Grooming,515.44,459
+b1f2baa3-df25-4036-b389-f10f2eb9ac97,Real Tool,Toys & Games,432.03,334
+fe876a26-99c6-49b2-acce-990e3ffea2f8,Land Item,Toys & Games,1960.62,286
+017d7dcb-ef0f-4e20-86b1-d097637a8f04,Agency Tool,Home & Kitchen,1015.74,457
+fff9c9f8-cd88-402f-9284-c05c5c75ce1d,Choice Device,Electronics,1994.58,439
+78c03f6f-6572-4530-84b9-90a65dfd7b5b,Standard Device,Home & Kitchen,1751.63,195
+71c742a5-0eae-465e-9193-9a8313af8528,Wear Tool,Clothing,1094.67,110
+ed587d77-fcb1-444d-a2b5-09f688fa5a15,Trip Device,Clothing,73.68,464
+b6f7d0e1-5c90-470a-8357-0eb0811dfb71,Officer Gadget,Books,392.14,160
+4708bdd2-b11d-4433-9f26-a3423aaba43d,Including Item,Clothing,1110.61,175
+8bee57d0-baa9-440b-bfc3-c16a3882b2a9,Spring Gadget,Clothing,961.02,182
+39e43765-e262-4361-b480-dca5a1e5457b,Indicate Gadget,Electronics,237.09,300
+afc8d923-618a-4dfa-a379-31a9471aaf68,Including Item,Home & Kitchen,1917.62,207
+5ead8c68-fe54-4207-8fd3-57cf017e029c,Nature Tool,Grooming,1226.95,129
+23052873-cd86-411a-96f8-6a77bee7a4d0,Shoulder Accessory,Books,541.78,55
+e22f429a-f4ee-4550-a81d-d8cd7e85e8d1,Moment Tool,Home & Kitchen,799.85,288
+03c733f1-6411-436d-84f6-f81c55b1fe85,Store Accessory,Home & Kitchen,1819.36,464
+bbb27e0c-123f-4d9f-b398-6070fa1ffc73,Same Tool,Toys & Games,1715.77,183
+bab60bf2-5cf6-4afd-a7d8-8bc5083ae147,Serve Item,Home & Kitchen,1803.41,129
+41383243-84a5-41f2-ab6c-551356c20446,Nothing Gadget,Books,546.91,252
+b162c8e5-e474-4d2b-9925-8eaea0ad3e74,Listen Device,Grooming,438.88,431
+bb4aa818-ad86-4fd0-9524-4fa799d2edc2,Ability Gadget,Home & Kitchen,155.2,47
+000fc69a-7739-40d4-bf11-d26a183c83fc,Tree Device,Electronics,598.62,154
+a7773a07-c9dc-464f-b71a-5df6caf1218e,Allow Device,Grooming,1267.39,473
+7e02b8fb-7aec-4226-9b1a-9953217d8545,Close Accessory,Toys & Games,1323.86,260
+24791299-af5c-4edc-beca-6aabbd941e27,Admit Item,Home & Kitchen,1652.62,130
+d0931d11-53fa-4768-b0e7-c6c077731309,Indeed Tool,Clothing,86.63,103
+e88c0318-e9b1-424c-a265-b6a57941fcec,Involve Gadget,Home & Kitchen,910.6,318
+3b8a50bf-1491-4edc-bf48-2c04f9bf992d,Forget Accessory,Home & Kitchen,1445.24,178
+29b0536f-ad6e-48e9-8829-69ca927063cf,Dream Accessory,Electronics,1826.48,84
+5345ccd9-3d77-49cc-a395-b99d3ccb912a,Between Accessory,Toys & Games,984.5,93
+fcb17ccc-0eb5-449a-8d68-edb5a6f6e88b,Skin Tool,Clothing,750.01,134
+8b345bcf-6e0d-47a3-a385-0dd539ee6258,Candidate Device,Toys & Games,592.02,347
+c841fd4c-2b4b-4371-99e5-70c11e904e2b,Behind Gadget,Toys & Games,614.29,229
+ed6c8911-fc78-4323-b697-3e9caad0043e,Trial Accessory,Electronics,340.08,356
+6428bff3-4642-4f4e-87be-4c3962bcd8cd,Behavior Tool,Toys & Games,817.25,128
+74e6bc78-93b6-4030-a307-d896f7413cf4,Describe Tool,Books,1601.45,33
+97d37ffa-6bac-4925-96e6-9f445c537167,Congress Item,Clothing,32.32,29
+21291dce-c6d0-42cd-9d32-2930886c41e9,Measure Tool,Grooming,595.85,264
+8d546f3b-7c25-476f-94c2-9c5d3ddf9e74,Language Device,Grooming,241.58,183
+f7d01d3f-6bf2-418a-8d41-a4e5a3347f54,Case Device,Toys & Games,692.02,101
+18bfcf6b-b8ac-49cd-a8d5-a73c0bdb2177,Idea Accessory,Electronics,6.82,57
+f29d82a3-cfc1-4dee-93c1-3bbb77222125,Party Gadget,Toys & Games,1053.31,211
+15b389ba-e475-41f2-a913-bbdc89d49fd7,Must Item,Clothing,1241.58,245
+2454d0a8-819d-459d-96f1-d53bb3103f17,Some Device,Home & Kitchen,1190.11,440
+84cbaf51-bd8d-42a8-8585-eb7a78a5166e,Land Item,Electronics,1135.73,270
+a2373255-7cfc-46b9-bdbe-978466dcdbf1,Policy Item,Electronics,1504.99,332
+54eb268c-7a36-4d18-8403-c4edff5add01,Key Accessory,Electronics,560.93,398
+c6ca4f87-f1a5-4f25-a577-edad5cecdf9f,Foreign Item,Books,624.0,479
+3116700d-dc33-454a-a986-17f44763e1bb,Professor Accessory,Books,628.73,337
+3fc93285-6bc0-4805-b92d-3954322dd4f3,Modern Gadget,Home & Kitchen,110.56,366
+8a0a2c74-eb97-4f64-ba37-68014ad23ec6,Wind Tool,Home & Kitchen,869.12,298
+95271a96-a286-44f3-8a6f-0eeb63078497,Teacher Gadget,Clothing,1361.37,256
+a644b8bd-ce9f-4d7e-b63c-284ca1d6ba9d,Where Device,Home & Kitchen,1190.39,28
+7ee5573f-2868-4718-9eef-f75bcc460ae0,Method Gadget,Home & Kitchen,663.72,309
+f800cd7e-d090-45ce-bda8-8e3c9923e91d,Fire Accessory,Home & Kitchen,1096.36,220
+76fe38da-0e58-4b66-ad8a-0854dc906d2d,Risk Accessory,Grooming,1563.21,387
+e00de264-3b31-4e4b-aa71-2aa008a9ab74,Medical Gadget,Electronics,102.03,486
+22af31c2-76e4-4a9e-ad39-dfc03c4ab7fb,See Accessory,Home & Kitchen,324.78,383
+55bc34b0-18b4-4ff6-86ad-dfdba95d4f9e,Writer Gadget,Books,595.94,345
+dc92135d-258d-41ce-ad4b-592e08c680ea,Stock Gadget,Books,130.28,201
+dfbcf73b-e2dc-4389-9b7d-a71b9c87e170,Indeed Tool,Electronics,1139.48,235
+4fd17bff-0d8f-4a53-a9d2-28c5da1e1f9d,Around Accessory,Clothing,1688.53,80
+5ab89dfb-01f1-4700-a7a4-ca0cbd8b5cc0,Positive Tool,Books,1592.85,249
+c74e1194-20f9-44e5-8cff-a40e778f3a76,Off Gadget,Home & Kitchen,1318.21,232
+58f8c5cc-6e3c-41bb-b17d-230069eb4ee8,Media Device,Grooming,1920.6,108
+74b4925e-d426-41ea-9011-fb6d6d64452f,Threat Device,Toys & Games,30.75,317
+c906caf1-aa8e-49f2-9340-33fa4bc2e3c7,Region Accessory,Books,536.96,233
+11861d4d-fab6-40de-98f8-a26b9e14064c,Party Device,Books,107.11,54
+a8fd79b3-a94a-4f3c-bf6c-5ac31a732b5f,Significant Gadget,Clothing,1912.27,454
+cc7caa7f-1216-4f03-b76e-22cbf64e7ec5,Make Accessory,Home & Kitchen,913.17,112
+409878ab-7ff0-46a6-9f9a-894f09c12265,Fact Gadget,Electronics,309.76,200
+01a50166-7541-4bf8-b59e-c0262dd8790d,Any Tool,Clothing,1626.04,476
+d90d1e34-54e4-4025-be92-c624156dcfc7,If Gadget,Books,1447.52,22
+fd90f1a7-eeae-413c-81f2-aa8a2fc81935,Read Gadget,Grooming,237.12,27
+f6faa4f9-35bd-4ff7-8c1f-278558185136,Myself Gadget,Books,1916.04,222
+6c4e821f-5f0b-45ef-9bab-58867e315f43,Among Tool,Grooming,1847.57,87
+7918a181-f43a-43fd-b8c2-b9a6dab88d3a,Year Accessory,Toys & Games,1674.64,249
+c20f2c16-bf8b-47b3-8993-7c6a49c1389d,Magazine Accessory,Grooming,34.99,368
+9c26de7d-629c-48df-aac8-1743d328a92a,Drop Device,Toys & Games,1299.93,428
+0fb1039c-618d-4b3d-9ee7-ca0ef76cbdbd,Rather Gadget,Clothing,1894.79,39
+17e9e463-fa72-4647-8a38-4f680330eae6,Break Accessory,Electronics,1737.57,486
+c5c35c4c-5ce8-432b-9c7f-0a257d71cd0f,Total Accessory,Electronics,1657.5,78
+4c354df2-9eb9-4753-a37a-bf60007666e7,Get Gadget,Grooming,310.09,452
+5da613d3-bbf3-4c74-bfaa-b326331268b7,Tree Tool,Grooming,1309.87,22
+eb3a96d6-5e15-4b86-ade2-15f17c7d0738,Treat Item,Home & Kitchen,1755.23,430
+9cc20186-c783-45a2-8b06-3c5b0d5e2674,Individual Tool,Home & Kitchen,1203.48,421
+ef054b83-4c21-4e09-88d1-7cca7b33bddc,Financial Device,Home & Kitchen,1285.76,20
+6c2d7d16-b3a3-4ddb-8cb8-475ae28353e9,Order Tool,Grooming,904.37,302
+50447e54-135c-44e7-bafd-723b99177d38,Hundred Accessory,Grooming,26.36,444
+1834487c-8972-494e-aada-1c0c4406ce18,Blood Device,Home & Kitchen,1450.59,114
+b1ae615a-0c0e-45c3-9c15-06881945cc1f,Claim Device,Grooming,1854.53,60
+e4968d95-8eb7-4eb2-95ce-10e2302d727b,Speak Tool,Clothing,1237.06,232
+ad30ddb8-a711-4501-a4b2-337d41656097,House Device,Clothing,1885.29,213
+b5194ad5-b625-4aeb-a49c-635a55127e81,Pattern Device,Books,118.93,314
+977daa27-5d8c-4925-96c8-972193fd5a5b,Financial Gadget,Clothing,1778.5,150
+45c76d4c-15d3-4956-b5d2-90beccc552e9,Wind Gadget,Clothing,1173.16,121
+37b1b1d7-0caf-42d5-bb14-9d2ea7d32bca,Other Tool,Books,1638.37,175
+c87ccfb0-04a9-46dd-bd80-df64d101e26a,Of Accessory,Grooming,378.28,458
+37518d12-c039-48ca-89d5-f3c7fbf4f8e2,Be Accessory,Grooming,897.36,339
+1c7dbe3e-2702-4b1e-9833-ba6fb00df648,Time Accessory,Grooming,1180.44,358
+5b2dac70-0d24-45b8-aa26-e438f738880a,Remember Accessory,Books,365.95,438
+da3a0fc3-0620-4970-9db4-6bb18a2b6b96,True Item,Home & Kitchen,422.16,260
+411a67e4-3fec-47f8-833f-67e8f6242edb,Throughout Accessory,Books,918.12,297
+33579555-0cc0-44d9-834b-89d0375521fb,Peace Accessory,Books,643.92,43
+5b74f428-d0a1-496a-9768-6555576392f0,Remain Accessory,Grooming,1484.68,302
+30769eee-76cb-416c-a9a8-a87ee5bb14d1,Well Accessory,Grooming,1222.33,348
+b50f5f12-73ed-4238-84fb-d4784dbdd7a9,Street Accessory,Clothing,367.14,104
+0578951f-7d45-4916-973f-46d9fc7a4e78,Language Accessory,Toys & Games,656.78,282
+f48d08e8-0c80-4f8f-8d6d-5f17f84b7f59,Loss Item,Clothing,547.95,14
+2059d4ed-ee4a-4b64-a056-82f507dca85a,Policy Accessory,Clothing,1521.25,128
+a1f3e010-41c1-4c40-8f5e-b9eba459ad97,Local Tool,Electronics,907.02,161
+1df3e65a-c7a8-4c8c-8f25-22dc8b848f08,Mr Item,Home & Kitchen,1796.46,35
+4c04bfb5-e9dd-4008-b69c-f2fb642d3f7e,Piece Gadget,Home & Kitchen,362.03,212
+34c76509-8dc5-4f2a-b43f-3f15ef33b724,Enter Tool,Books,1570.43,117
+da0b3d8a-920f-4725-988c-70509f827725,Price Tool,Home & Kitchen,1669.3,356
+405c1d88-e4fe-454d-976e-7d3ef51f7537,Moment Device,Books,1058.16,315
+48bdc27c-c970-4413-9668-eab321843386,Social Gadget,Books,1738.22,212
+dcca3a0e-5c32-4c2a-a0e2-511a8aebbc50,Operation Gadget,Clothing,257.71,314
+0c29943a-65df-4023-9feb-391f2760f6f3,Bring Gadget,Clothing,538.65,301
+c96d63a1-54eb-432c-a2ed-ff6aa35e2691,Around Tool,Home & Kitchen,816.19,480
+657202bc-6a90-49af-804d-ac7979dcfc6d,By Gadget,Clothing,1468.54,270
+a5a25c30-093f-4b4d-88cb-82916ac0c04c,Always Item,Clothing,1838.34,236
+1ac59ed8-6f46-4ec2-b123-b70853ee918e,Economy Item,Home & Kitchen,1247.06,443
+3f1c248c-6c2e-4b8c-97d0-b30d47757b62,Although Device,Clothing,97.2,25
+b6ab9eca-c506-40f2-a0a0-67a40a7d2082,Yard Accessory,Electronics,57.18,73
+b53d1fb1-f355-40b6-a0d1-2e5281a35f16,Despite Item,Electronics,951.74,301
+36a8fd2a-ddb6-446a-9dcc-d5cb9ec8f364,Reach Accessory,Books,1149.0,436
+98b73d0d-8cbb-46e9-8d2c-bbd4bdf0caf7,Also Item,Home & Kitchen,1943.49,422
+8b167972-07c5-44ee-95c1-2dff5970c967,Mention Accessory,Clothing,545.26,422
+92e6c471-ead4-4dfd-9301-6d64892b05b4,Toward Item,Home & Kitchen,629.7,408
+a55f87a1-73a3-4a2b-aa9e-e37daaf255f7,Read Accessory,Toys & Games,1613.82,103
+ed2bc081-806e-48da-ab2d-8730d660516f,Space Device,Grooming,424.52,44
+60e3ed95-1400-4425-9087-319ab6a9074d,Avoid Device,Clothing,217.99,231
+d23a854c-0224-411c-a97e-3c5b47145a5e,Term Device,Clothing,800.38,115
+2ae3603e-36b8-45ad-9bd2-5397dea12c44,Arm Gadget,Electronics,298.82,158
+602b657d-5167-4e55-9650-58f7fdbf1a86,Nearly Item,Electronics,1400.62,118
+dd184b14-1ccb-451c-a6a3-8eb9d169cea4,Prevent Item,Grooming,976.46,162
+6808b46f-2a1b-40d0-9de6-ff92b0fbcdc1,Science Accessory,Home & Kitchen,545.06,67
+b6180237-f190-4068-85d2-5b77ba45cf93,Meet Gadget,Home & Kitchen,207.68,170
+1fea5cd4-f201-472b-8a43-99fe1d5577b5,Buy Tool,Grooming,1234.86,173
+235de690-3455-4426-9fad-f441c6e71ddf,Address Gadget,Grooming,85.13,442
+a95afa5d-0284-4381-b3ae-18fe20be5c3c,On Gadget,Electronics,993.88,259
+2a89d82a-9931-4cea-9b92-e16b928fb488,Into Device,Toys & Games,1765.08,396
+d7b11acc-f686-4d5f-98ab-f06be279c225,Suddenly Gadget,Books,1671.46,277
+0a2a2cb6-87cd-4673-84b8-6dd722826230,Tonight Device,Toys & Games,599.4,363
+88888418-571f-4a27-a37c-f6b2d58a7b5b,Student Accessory,Electronics,813.24,147
+3e406b5d-e3bc-4bfd-8c15-a02283743b95,Produce Tool,Books,68.82,127
+ef29cd02-3f59-452e-84d4-eb11306d8108,Few Gadget,Clothing,717.82,127
+2b287e9c-893d-417b-af39-1079274722f1,Talk Tool,Clothing,1247.73,68
+02568189-e510-4714-84c2-4f3d551dbb80,Bag Device,Toys & Games,228.29,100
+48882c35-caa4-49c4-9ff2-88a8ba69bb54,Card Gadget,Toys & Games,1110.54,492
+4df43329-9011-4ded-abaa-7f1710569e3a,Wide Accessory,Electronics,978.04,70
+731dc1bb-9be5-47a7-9570-10914e8194ff,Authority Gadget,Home & Kitchen,1457.99,48
+cde3f111-f6a2-42f9-a3d0-f6be1a17c5c6,Open Gadget,Grooming,127.84,370
+e810710e-5edf-4786-9ad5-0a3c4ad16075,Area Tool,Grooming,429.32,429
+6bc20404-de12-48d4-8671-fe718522af8d,Hair Accessory,Grooming,1790.8,345
+b5f48b18-ef2e-40a0-8672-0bafcb7c75ca,Keep Gadget,Electronics,1251.6,205
+11c24677-f9bf-4773-a5c2-af3d2946e0aa,Conference Accessory,Grooming,198.4,308
+be4505f4-b741-444c-aed0-91b50a1a4da3,Indicate Gadget,Home & Kitchen,131.58,128
+83f4b405-e2b5-4391-9cee-4da0878854ef,Order Item,Home & Kitchen,1323.97,359
+717cb81f-9a7b-4df3-a931-27b933957297,Seven Item,Electronics,1818.35,453
+1770e12e-6b47-446c-9558-078cc4bc1961,Think Tool,Home & Kitchen,163.27,404
+9d08976d-c1c5-426d-8f8e-365fb75a2459,Team Gadget,Toys & Games,1008.76,163
+59b71ae9-a781-4338-a77f-9f803d4218ff,Director Tool,Books,1108.93,21
+1ca4df27-35cc-4e4d-a207-2b7a5f02da72,General Item,Grooming,1305.66,444
+6ec40e16-d853-456e-82bb-63630b480628,Too Accessory,Books,1496.42,242
+4f7a8bfc-9cee-4024-a3ac-8e41c47d667e,Improve Tool,Toys & Games,1149.25,375
+55c08464-7ba8-4c66-b164-4ef7a2082716,Smile Item,Toys & Games,1147.31,72
+3f722dd1-3d68-412c-8f84-3974e45711f9,All Gadget,Home & Kitchen,178.91,349
+47505aff-677b-40e7-89a2-4d16801441e5,Land Gadget,Clothing,1657.72,351
+62eca033-2947-4a53-9915-c2caf34c5d07,Those Item,Clothing,1988.6,404
+5ada7e55-d29a-41f0-8d04-1b06ae59f067,Executive Device,Home & Kitchen,1063.68,395
+6cc56e9c-8b98-4227-b0c6-f258bcf1e1ae,Table Gadget,Grooming,1473.73,468
+73e76d1b-846c-4eef-987b-43ce1dabd160,Mr Device,Home & Kitchen,1717.95,38
+604d4ae2-feee-459e-86b0-b2b766f53a3c,Box Device,Home & Kitchen,353.44,338
+e1e52bc1-9d5d-4921-a0ea-b421e92f9d8c,Purpose Item,Toys & Games,558.85,193
+d5919069-8bda-4fd9-a55b-083fd679b57b,All Item,Grooming,869.86,324
+94ca8843-592f-4c99-98c0-d3e96660f434,Require Item,Electronics,668.09,28
+5b2a92c0-a40a-48f0-96f0-726e92125bbd,Near Item,Books,479.44,231
+8d29fe0e-15db-4f3e-ba6f-ba01cac270b4,Medical Gadget,Home & Kitchen,1572.02,230
+60ea2f7b-59da-489a-bb17-b38e2a1b1ded,Blood Device,Grooming,273.62,110
+108be0f5-6018-4397-a343-d1c03247fbc6,Want Gadget,Clothing,1306.22,497
+04697b66-383a-4d0f-98ad-b4cf7f1cb8fa,Pretty Gadget,Electronics,808.72,213
+f63ec04b-49e9-44a2-887b-21b581d0a7bd,Travel Item,Toys & Games,1965.01,122
+46f6ed11-9d35-4627-b806-1bd73d031b0b,Care Accessory,Toys & Games,1203.15,88
+a0e549be-e151-45d2-ba2b-1611a1ac63d0,Piece Accessory,Grooming,511.13,153
+20b58416-7ae7-47d7-8c45-31a5a802a31a,Second Item,Clothing,1606.45,418
+2baca05a-86be-481e-8622-ea3f8af6e5a7,Yourself Item,Home & Kitchen,1419.77,309
+b30585c9-0f68-4ac5-a032-5360b0520735,Child Gadget,Grooming,708.53,454
+9ef8899f-e440-41ec-bae8-3d93db1b7efb,But Accessory,Toys & Games,89.92,319
+66e6ab7a-bc15-4fec-a82a-421ee7e26c0b,Notice Device,Clothing,733.52,385
+91ba584f-5736-41ac-82d4-6cfaeab616c9,Better Item,Grooming,214.29,110
+56794ba2-51d1-48d5-90c2-5767c3410618,Rather Device,Grooming,220.52,96
+7aea05a4-6359-45d1-9105-d84cc3263642,Smile Device,Clothing,1851.12,362
+a90a1ccb-837c-4d19-b730-122c83598ad8,Reflect Device,Electronics,132.86,161
+966dd640-bdc0-4e80-bde0-1be6c2e331f3,Heart Device,Home & Kitchen,715.47,410
+ec87d3bb-5e0e-485c-a23a-75ee56fc4dc2,People Device,Books,508.18,242
+afaf0ec9-b317-4be3-aa3e-b9c350b8ae8b,Write Gadget,Clothing,423.99,332
+d92e0a69-2497-4a62-b768-c0a51092651e,Magazine Gadget,Toys & Games,821.01,309
+1f594adb-dcbc-4152-bcbc-334f31dc00cf,Rate Device,Home & Kitchen,1997.36,216
+eb5dad08-dbac-46a2-958e-6a50eaf90c5c,Summer Item,Clothing,1485.0,300
+268a9018-08d0-4eeb-a0a3-111fb8a55390,Indeed Gadget,Toys & Games,1106.42,58
+4d70e5aa-a7d3-4b7d-8869-b66be94a76ae,Chance Tool,Electronics,1439.82,465
+30f94137-7355-4742-a288-6b787de75a7d,Goal Accessory,Home & Kitchen,414.59,412
+d8b1396d-0df3-4bf0-a208-4ddd70dc5516,Reality Accessory,Toys & Games,1258.81,284
+5a59738b-dc7d-4925-9db7-77327a894d9b,Huge Accessory,Grooming,30.94,63
+5325d7ab-c4ae-4838-b781-1d4a84f3c375,Force Tool,Home & Kitchen,1043.8,61
+a2cbb690-268d-44c0-9f07-dd732f6c431b,Radio Tool,Clothing,813.09,280
+84db8892-2b4f-470b-98cb-e6ec6b6aac22,Money Gadget,Toys & Games,1764.31,185
+c0f938f8-3c82-4e18-9555-b840e4319d81,Likely Gadget,Clothing,1025.52,244
+de535c1d-4fd0-40d9-8f2c-72f6e80f49f9,Popular Item,Home & Kitchen,24.32,202
+625d774a-ec24-4dd2-ad65-03f6ed5b54e1,Prevent Device,Electronics,570.14,99
+dc732be4-820e-481c-9956-ad4fdd39bb0b,About Tool,Grooming,1370.16,135
+e4c78a61-07e6-44f8-a82f-68dc4493ef07,News Accessory,Electronics,1667.97,218
+8fd22bb3-649b-447b-b6b4-91fddbaf7dd7,Try Tool,Grooming,1554.39,60
+ff44396a-6301-4ed7-92cb-17747fe26cf9,Pm Device,Toys & Games,1971.95,326
+ca17f28c-0718-4701-a7fc-32bd5983d78d,Leg Accessory,Home & Kitchen,918.87,140
+e5ac7e14-7d6b-44ac-969b-ff893247a2b9,Break Gadget,Clothing,1306.62,31
+2b7c4285-245b-4eb4-b0df-f5526e8b0cb6,Ball Gadget,Books,1809.9,292
+56c9423c-2561-4506-a2a4-22d4a3266b96,Out Gadget,Electronics,505.44,266
+12998dc6-a1e1-4426-a078-e4edabec7ee7,Note Accessory,Grooming,1454.92,244
+1efc5749-cc75-4771-ba49-4684ac38b6c9,Third Tool,Toys & Games,1880.76,101
+a8dee895-4747-4491-8cc9-c5347504ff9e,Career Accessory,Clothing,1105.67,27
+e5f57bc3-eb4d-4936-9ed3-95b138249582,Box Accessory,Grooming,1306.1,387
+24ec6b91-cfbe-4857-afa1-4863fd88e626,Ago Accessory,Books,1283.66,25
+4e5048b8-01ff-4d9f-b433-100ead7f8362,Strong Item,Electronics,118.39,304
+98a87079-b6ea-4eae-8332-58cba6723aec,Whose Accessory,Books,487.95,473
+01a543e0-caf3-403b-bf8d-cfd8448891ea,Ground Accessory,Home & Kitchen,1618.17,425
+50757215-8247-4fc6-9d6e-37d2a950e0ab,Gas Item,Books,1836.89,475
+347eb482-5272-4545-8920-4faa145b6c55,Production Gadget,Books,89.37,255
+bc23a9c8-7b8f-406d-b22b-137f5648f77a,Certainly Item,Toys & Games,350.7,389
+d6a8d428-6b3a-4b89-b4e0-5db88a5f956c,Remain Device,Home & Kitchen,395.65,371
+3a5566b4-f3d1-42ea-855a-02abc402f397,Hundred Device,Electronics,1595.37,483
+681d1ba9-b395-4402-85dc-6d3da0b891de,Fund Item,Books,341.3,423
+0a934664-546e-4917-b701-ba9570c2a2cb,And Item,Home & Kitchen,1299.29,382
+8bae0a5f-814e-48ee-8c4f-77c4f058327e,Civil Item,Home & Kitchen,455.43,304
+61200033-25d8-4b27-8937-16fc2abd2e29,Never Gadget,Toys & Games,1311.4,237
+d95c4f3b-cb52-483c-be43-249720ee6d6c,Full Item,Books,1750.51,279
+6ed07a74-4905-4bc4-a7d4-04eb604dea4d,Street Device,Clothing,678.1,23
+17022a75-d145-46cd-878f-84ffe850c089,Where Accessory,Toys & Games,403.36,82
+2e8fc91d-6cc7-4a0e-bc8a-0b7bf7511b71,Today Device,Home & Kitchen,284.26,62
+7be99a59-c87e-4a64-bc99-1b577aa37a37,Miss Tool,Grooming,312.41,106
+2a9bbac2-ad67-4f99-9ec7-a12637d42ef6,Yourself Item,Toys & Games,1651.32,305
+2018c6c7-bc72-4116-831b-cb2faca51001,Physical Item,Grooming,71.91,223
+361e318f-50b8-4d31-8c7c-f51ef6336fc0,Require Tool,Home & Kitchen,1603.53,350
+b3f68daf-729d-4708-bc41-f5b5fa879341,Whether Accessory,Electronics,469.77,264
+d786197a-ddd3-4c32-8310-0334a2234ce4,Meet Item,Grooming,94.92,266
+2c2cddd1-37eb-4152-81c8-1ad436d31f95,Likely Item,Books,1952.34,37
+0a59a01f-7137-4aec-af23-1557687725ca,Vote Gadget,Clothing,309.68,41
+bf1f72de-288c-43e6-a486-4ead7d025fff,Catch Tool,Home & Kitchen,663.73,63
+e026328b-58fd-40f8-829c-d4d3cfc1a660,East Item,Grooming,587.51,68
+8ed2ac96-4945-410a-8a47-0cff8fc632bc,Summer Gadget,Home & Kitchen,1441.42,339
+b4562058-4f60-4c45-938e-497e431205da,Than Device,Books,674.39,149
+1c5b5474-7394-4fa0-b49c-ddc935070585,Response Item,Grooming,388.36,266
+6846be4a-5828-47d6-a0d5-17c7f1dbe62b,College Device,Grooming,1162.71,403
+5df9ae8e-cf61-47b7-99c5-af62c840a18c,Better Tool,Grooming,976.63,23
+00f4b02e-4f14-4dea-a66a-0ef602d7bb2e,Performance Tool,Clothing,627.89,383
+7ec84ece-6f9c-4eec-9a28-06c85cc549f9,Work Device,Grooming,1694.97,194
+286a6370-9942-4fb6-82ed-826c5c00b901,Buy Device,Home & Kitchen,828.45,430
+e1abcca2-a6bb-4167-b5c2-89d5ae2a1f01,Center Tool,Electronics,1918.82,439
+80356b36-c8d5-4936-b944-d78448d704cb,Market Device,Home & Kitchen,1849.51,33
+5869e565-733a-46b1-8172-b7cc6fac6a84,Drop Gadget,Clothing,1863.95,308
+b0da3bf4-dabd-430e-9864-d5fa64d31b3f,Subject Accessory,Grooming,636.4,491
+fb365e8e-e8b3-4140-ad82-2c479b066045,Lead Gadget,Books,512.52,45
+d2c05da3-8ce5-4f2a-9621-c5554747256d,Return Gadget,Home & Kitchen,399.85,324
+91ef7ab4-e0bd-4ea1-bf29-8b1f73d503c0,Forget Tool,Toys & Games,1912.13,116
+c83e8e4f-23f6-4b60-86ad-09037954b2d2,Positive Item,Grooming,1146.06,207
+7e6548c5-ee17-4217-bf9d-c8c3a4fdafd4,Hit Tool,Toys & Games,420.19,372
+5c46a624-1275-4094-82be-155640296524,Admit Item,Electronics,964.51,217
+a3aac11c-df4e-4518-aa36-d3430394c4a2,Current Device,Electronics,891.5,90
+1c2cee54-aecd-48dc-af63-2f13e72810e4,Themselves Tool,Books,13.09,191
+0e63a825-b9c9-4ef1-b2b8-5d9978301b63,Provide Tool,Clothing,425.56,355
+f0879188-c521-49f4-b7db-3fe98452abd0,Expect Gadget,Toys & Games,1678.06,495
+fdbe10ae-1fff-4434-b3e6-5a1f3376b968,Both Item,Electronics,999.54,306
+563c6f23-6de3-4867-a11f-c98fea8fddf3,Peace Accessory,Clothing,338.94,107
+d478d40e-ec4a-43ac-8a07-dc1ea2ab971d,Relationship Item,Clothing,894.78,226
+bd84a7d5-eeef-4c1c-972e-23200a670c9d,Reflect Accessory,Books,1899.19,301
+3a2c1a1a-f61d-4010-83f8-661fe1b61f2c,Plant Gadget,Toys & Games,993.34,70
+09f60643-2863-466b-9657-e1e610d48c55,Prove Gadget,Grooming,827.74,358
+c3a7e1c9-fd75-490c-a4e8-df24ef57d39a,Agent Gadget,Books,568.23,199
+944cdcff-ceab-46f1-b42e-a2f948ec3aad,Notice Item,Grooming,1295.9,14
+2f8e1631-e971-4b8f-86da-0427b0bd1612,Just Device,Books,1742.43,265
+3edba62d-62db-4a7e-8a90-a7fe948159c4,Worker Item,Clothing,889.21,445
+0d0ede04-5509-40ad-824c-6b892b6a24b6,They Gadget,Grooming,329.43,197
+d691f699-0ada-4b5b-aa11-90f2aeca3830,Economy Gadget,Home & Kitchen,1754.0,299
+2c76a779-0279-4279-a0aa-03b386f2e1cc,Level Accessory,Home & Kitchen,1902.8,216
+e00dd90c-ab57-42f2-ba00-007e1efd7d8c,Mr Item,Grooming,898.06,386
+09fe0f4c-c8a0-40ff-baba-755efb7a1201,Good Accessory,Electronics,1410.59,313
+d9543cfd-7f03-4121-978c-43cf6f948a97,Season Item,Electronics,1861.37,266
+82bd1cfb-7cfb-4553-b27f-05f76f89f7d6,Avoid Tool,Electronics,174.58,265
+72aeb823-4ca4-4ff9-acc0-2a779c1bb843,Over Gadget,Toys & Games,1165.74,481
+335a2e5e-2891-4182-9520-ee06aa95f5a2,Full Tool,Home & Kitchen,156.35,324
+46835609-2151-41fd-bf64-8a7425f2de81,Face Item,Home & Kitchen,953.33,337
+6453fdd0-b5e4-4e00-80f0-aae6bd0b819c,Kitchen Device,Home & Kitchen,320.44,436
+93eeb6b5-6889-465e-a66a-22437e100bc5,Even Device,Grooming,1260.16,180
+b74e86f5-bb13-4024-b66f-ef809ef760af,Concern Gadget,Clothing,1746.24,277
+68b4fa8e-6670-4e38-9fda-49ee99be4315,Senior Item,Grooming,487.93,122
+fe64cd09-9283-4b46-b735-dd1a5419b6b7,Would Accessory,Toys & Games,123.27,160
+cf66cfbe-b824-462a-b8bd-91018dcce739,Modern Tool,Books,1514.47,417
+7205a98b-7334-4fd4-8ba8-43e530cd57b4,Degree Tool,Electronics,1849.84,85
+376cd822-69b3-4aed-bc4e-b7d5caf2807d,Believe Gadget,Home & Kitchen,1410.24,149
+2d8047b5-ac3b-44f1-b88a-b7e262e77081,Cost Item,Grooming,281.82,137
+7dab3b2a-685a-44ab-b233-c16faf9a1f08,Theory Device,Grooming,580.53,300
+d55f7ef3-438a-429e-bb85-28f2b70ffcb9,Win Accessory,Books,145.53,14
+ee7b8146-db9f-46e2-b9c7-f66351f8193a,Also Gadget,Clothing,153.65,187
+e848337f-4fce-47af-bf3c-2003364a3d2d,Various Item,Clothing,1213.46,182
+7bc625cd-dcf9-40b3-a441-c3185cc563b2,Although Tool,Grooming,484.17,381
+0b343f7d-906d-4cf3-83fe-096b85952205,Put Gadget,Electronics,1614.13,11
+f5b1a982-e781-4d21-8bfb-4c90f3863a45,Evidence Tool,Home & Kitchen,859.99,365
+1c2d3a67-36fa-4193-8132-a32e94893f51,Reach Accessory,Grooming,1079.81,403
+f9e36224-e506-4194-bff3-6893ec8e1441,Indeed Item,Toys & Games,62.33,236
+0b42469b-4f77-4ad9-a079-7b0ba516e843,Education Tool,Clothing,942.57,61
+60489ba3-cfac-42fa-8daf-8c7e554398dd,Recent Accessory,Clothing,1228.59,248
+e92c0b03-d508-4c49-a56c-5e5853298de2,Dream Item,Grooming,1591.99,130
+09ef1c6d-86dd-4755-8a51-56632014418a,Kind Gadget,Grooming,1433.07,317
+c3c460e8-1efd-4e59-83e6-a8afa30cbb9f,Production Item,Books,1863.58,83
+ff369821-58bd-4915-9da9-04fa0d6e8617,Represent Gadget,Books,1971.5,131
+9530f210-9b59-4798-b29a-fda892d4073b,Out Tool,Toys & Games,1667.88,120
+bec94aa2-4b06-4211-8456-137eab361e4e,Pass Gadget,Books,556.57,233
+5ee2c8e3-62e9-4897-9341-cf6c4fcc70d5,Fine Tool,Grooming,1275.67,359
+f54bd3d4-1c18-4317-bb54-b5f71488c468,Public Tool,Home & Kitchen,481.67,259
+0fc2d2c2-4810-44d5-89c0-42b084ef2eb7,Director Accessory,Clothing,1270.92,269
+cbc0eaf4-f95a-43b1-a116-08af019518ed,Become Tool,Clothing,1265.95,213
+58f7edc5-7d25-443f-b10c-e53d43bbf2f5,Star Device,Toys & Games,33.9,44
+39e527b0-a4b4-48eb-bb0b-e3cefdd1b38a,Meeting Gadget,Books,179.5,277
+a304e2bb-dd97-4085-9c91-b7d226bcc00a,Decision Accessory,Grooming,654.08,216
+f13dfab3-1ddc-4c98-aad3-333c5bad6cd6,Both Item,Grooming,696.87,369
+2aa1354e-bf42-4774-894e-1725cbd63194,Clearly Accessory,Grooming,232.65,354
+5b0b654c-9d27-473a-acbb-ac00ac086660,Time Device,Toys & Games,1035.3,88
+c6cb17b4-b432-4c44-bf91-27a2ab4eb127,Situation Tool,Clothing,64.29,127
+c879b884-e643-4765-9f82-36563ccad754,Alone Device,Grooming,904.23,235
+0edb4e1b-4fc7-4e88-8b78-2d23dbe56326,Game Gadget,Clothing,469.05,103
+4eff2ead-6eb7-4549-9930-f9af749449c9,His Device,Electronics,1543.22,430
+38ae9354-1a41-4218-8164-e0a27b34b052,Half Tool,Electronics,1973.67,77
+76e19936-f46d-4478-93f5-c6bd85f320cc,Town Device,Electronics,1220.67,102
+facfa4f3-08fe-4f2a-832c-d59f10a4e2af,Indeed Tool,Electronics,964.24,362
+70e3d052-cd35-4f45-93cf-f78ebc63904f,Thing Accessory,Electronics,683.12,436
+9cb85991-172b-4cc5-8b49-cc291064881e,Apply Gadget,Home & Kitchen,416.95,393
+59cb1697-7466-4f17-9dbb-b3e2b9e2a2e3,Check Accessory,Books,1198.76,47
+338a827c-9cbc-450b-9732-f6d7bd859112,Heavy Item,Electronics,1085.31,474
+2d9f19e6-efc2-439f-b94e-bcc7350e68e5,Individual Item,Toys & Games,1790.51,108
+5c158371-8278-472d-a58d-a133e0aa577a,Appear Tool,Home & Kitchen,465.27,439
+9bff3df8-d28d-4937-827d-995653b4482b,Head Tool,Grooming,1366.51,46
+57c396a5-11b1-4f42-b978-3fb6c1b15905,Represent Tool,Books,1614.82,484
+efff3105-450e-46d6-8953-6fa92c85eb37,Present Item,Electronics,1567.57,413
+f7491c15-44e0-4051-b3d8-b363ed0d0ddf,Own Accessory,Books,1495.16,185
+6d5c0243-3b41-4da0-a415-590661ddfb57,Nature Gadget,Electronics,1101.84,251
+d3d8a7f4-fa81-4d6a-942e-fd36671e05cf,Economy Tool,Toys & Games,796.26,61
+c6360ad2-6f93-44d5-873a-f6b453d77c01,Stuff Device,Home & Kitchen,984.21,361
+b5fb6436-c187-4e5b-83c9-45ad620ab8a3,Take Item,Grooming,1097.71,308
+4b211e65-af28-4320-8d1f-953136c70bb0,Sign Accessory,Home & Kitchen,1371.36,428
+887bbb78-8281-4407-abe9-851e38a3fdbe,Think Accessory,Books,660.49,486
+81cc68ec-2612-4f78-9378-cefe598d9907,Magazine Accessory,Toys & Games,1905.46,98
+41b03990-2e15-4f98-8ca1-68c95baf5190,Car Gadget,Clothing,1246.24,148
+15268fb1-5d08-459c-92bd-fe1d1574c554,Report Device,Home & Kitchen,1205.17,61
+4ce39819-8910-4aad-a140-2e5bbaad2f61,Window Item,Books,403.36,31
+c636fa2d-0917-4878-bf36-b0ae2c7ffce5,Second Tool,Electronics,1311.07,220
+3dfe54a6-d49c-4f37-a74a-1148d113e708,Smile Item,Books,479.22,269
+88f2a77b-7ae4-486a-8b7f-1eea0d43e290,Effort Gadget,Books,524.44,293
+dc3911e6-33cf-42ec-a109-8fc7a258d425,Theory Tool,Books,317.27,365
+22731def-fa4b-416d-86f4-18b1a0a12fec,Side Accessory,Home & Kitchen,300.84,415
+7f837b0c-2d33-4d4b-9c1b-cd632f6caba7,Result Item,Books,633.17,309
+b97c0fb4-d7ed-479d-b64f-dac67fdfd6bb,Product Device,Clothing,1639.53,362
+f19cae4f-8fac-4c2a-9a6a-379512005528,Leave Accessory,Electronics,1993.56,236
+5855641c-ba93-497a-9c9e-aa2062cb31a2,Leave Device,Home & Kitchen,1545.6,335
+bd5bd83e-065c-4466-b98e-668597647a74,Other Item,Electronics,1336.33,77
+a1fad1c6-ba01-476d-8944-b9cedd2843aa,Control Tool,Electronics,432.85,33
+2f86dd83-ced9-4146-b035-129ce4f1f0ca,Financial Device,Books,650.24,236
+5b88c915-3e63-4bd1-b9fd-365b6f8dbad7,Help Gadget,Clothing,723.94,75
+27809ea2-f6af-4025-8604-aaa0dade0c43,Sit Device,Toys & Games,840.82,497
+98c076c9-84ed-4b4b-a8fc-7ad3bc433c34,Our Gadget,Home & Kitchen,908.7,383
+f48de468-375c-46e8-b929-d300457114a8,Give Accessory,Toys & Games,1467.71,148
+017b113e-2175-4ecc-aab3-aeeecf9916be,Decision Tool,Grooming,1485.01,65
+c9196b98-7011-4684-ab52-2f167cc71f00,Positive Tool,Home & Kitchen,265.86,461
+24bbd9a8-7b74-48f8-bf14-f20226385cb8,Past Device,Books,748.99,239
+d64dd4b8-0368-49e9-ab2b-9851557b2a73,Senior Tool,Home & Kitchen,517.22,44
+97004568-d842-46b9-b6cc-46e7cd315cf6,Especially Tool,Electronics,471.39,474
+f6d35043-6c24-4aae-b7b4-b8a79335ae92,Term Tool,Books,986.1,105
+aa5b56b5-3f1c-41e3-bfee-0864ab3770ee,As Accessory,Books,167.06,41
+baebd55a-8d31-48a3-bd08-4505018ea1c5,Source Item,Grooming,928.03,346
+ce7526fd-95ee-4e6a-bc93-3f7a0c10472b,The Gadget,Toys & Games,455.97,190
+b30e4a0e-76bd-4483-a535-0da59f248604,Opportunity Item,Grooming,1802.3,28
+1ee29065-58af-4437-b53b-81713d65cb3c,Most Accessory,Grooming,1702.95,321
+bbda3e0e-afea-4c3d-bcf7-d2d40242f5f6,Sign Gadget,Toys & Games,914.91,254
+be3be661-109f-4864-b95b-16f84519d772,Lay Device,Toys & Games,1671.64,136
+19f6cf7e-559f-4a26-bc8c-6941650200fe,Can Item,Toys & Games,1719.87,451
+fee2a7ba-ab2c-4d95-9c17-a15f4934141b,Happen Item,Electronics,915.8,43
+62e4d432-acb6-4b17-8cf6-2373ce96e6fc,Individual Item,Clothing,1358.93,463
+040816f9-61cf-4fba-b183-20d895e22356,Door Device,Grooming,983.51,77
+eae167ec-4db3-4fd2-9b94-581c9f424e34,Believe Item,Home & Kitchen,924.38,412
+e79b1cb9-30e9-443e-9385-5df8b8252cee,Approach Accessory,Electronics,650.33,442
+555a2d9c-d6c4-47f6-8ef9-7eaa046f197b,Above Tool,Books,671.01,366
+f41285c9-a447-475a-b24f-11a0effc992a,Note Device,Books,1419.68,323
+2e0ed13c-38ac-4444-8afb-a3c1686c6f5e,Away Gadget,Clothing,1492.95,45
+1391b5ab-04f3-480c-9e40-9a0d05449ac8,Group Device,Home & Kitchen,368.31,468
+0da88d3e-631c-4629-ad96-42140edda8a3,Operation Tool,Grooming,486.5,362
+16483998-c02e-454e-8dd7-cf18f116e56e,Field Tool,Grooming,486.9,308
+82bdd3df-15d7-49e0-b3ba-ad1f42cac942,Usually Accessory,Books,1774.96,175
+075c52c3-189f-416c-96a4-c73fb723e5a8,Trial Tool,Books,1584.31,192
+f9b79153-d311-4b38-ac80-b68ef5d00f99,Detail Device,Books,1265.98,246
+bbbc1a5f-6777-4b9f-92a8-34018683a089,Discussion Item,Grooming,1470.75,359
+9511bdac-96cb-4f79-b971-426f22a5bef7,View Item,Books,1860.66,396
+e0b54a70-ef2c-49cd-8437-0afc7008d9ce,Mr Device,Electronics,672.57,206
+e1600d5b-8ae3-4f21-8a63-76c92ab8372f,Necessary Item,Toys & Games,1530.91,185
+7f02f058-0bd5-4ee2-abc0-f3ba0a0a9526,Down Item,Grooming,1017.58,240
+52eca69d-ab8f-460d-849a-34196a01fcf5,Interview Item,Clothing,878.35,428
+3ee48e9c-aa2d-4c2b-81e7-109acef7c4b8,Piece Gadget,Grooming,25.97,236
+5e45cce1-d805-4459-8d84-ac160054a789,Agent Gadget,Electronics,1043.95,369
+e2bed370-727e-4f5d-97c1-147e65013d7b,Protect Item,Clothing,1319.44,215
+bccce79e-4701-4938-96cf-bd5d20cdc575,Marriage Item,Home & Kitchen,1081.32,239
+dd6fbb18-d50d-4c2d-b7b4-e25876a3a9c7,Security Item,Clothing,452.55,247
+e07b8831-f139-48d0-b007-28bf079bb909,Rest Gadget,Clothing,1196.9,176
+322645cf-843e-4084-8a56-8d44da88801f,Popular Accessory,Clothing,525.8,92
+08bb3b3c-fe67-4c7f-b949-a5a6f588e6ef,Decade Device,Grooming,1724.62,42
+cb0a26ae-1b55-487a-b5fc-9d34e356fdb8,Program Accessory,Home & Kitchen,1200.83,170
+edc0da4f-eb39-4e28-8d59-6a604b9111c7,Happy Gadget,Electronics,936.69,390
+fc66e753-29af-48c5-81c8-52690ec01dc0,Director Item,Home & Kitchen,1836.44,96
+6b9b5bb7-b4b2-4d06-b533-c0ed6dca2f49,Its Item,Home & Kitchen,1788.68,327
+54d38ee6-9186-4a68-a777-42c78b3a8105,Travel Item,Books,288.47,70
+09be7f99-db41-42cf-9e4f-91d66017dea2,Day Device,Electronics,1608.19,330
+7c2e85de-42c9-4fcd-ad63-96441e5a6e02,Interest Accessory,Home & Kitchen,35.42,454
+b89c200c-6943-4087-a592-61a706ca8de5,North Device,Books,549.75,149
+172dd57b-9c62-4b7d-893b-500ed52fdb3f,Least Tool,Home & Kitchen,1231.42,472
+4fd4fd01-a8eb-43c4-aba6-8d58bd22a688,Stage Gadget,Clothing,364.16,245
+33641bb0-315b-4da3-9bd7-7ea673e4466f,Speech Device,Electronics,1275.29,117
+40462737-ec73-4b7e-b017-02cd0ed1f8b1,Fill Tool,Toys & Games,1915.1,443
+a05dbc82-0cfc-492d-b423-870c4b882173,Option Gadget,Clothing,1060.64,149
+7b2dc5fd-35b2-45e2-a8d2-ade238921250,None Accessory,Home & Kitchen,852.72,416
+6329606e-97a4-4e84-843c-216c65ecf4ae,Game Device,Clothing,1522.78,331
+d979b8f3-f0a5-415b-acf3-6f6d9688f7c8,Its Device,Grooming,782.25,178
+9c5c7390-3afc-4f93-bbce-3dbdefc1c204,Let Device,Books,364.58,196
+86abdeb2-9a17-4c14-a565-cb292bdcfdc3,Record Tool,Electronics,1909.16,493
+34b819e8-9fa4-4fe2-a5b2-e655ed265e59,Customer Tool,Electronics,570.86,426
+26f9eaf7-91d2-443b-94d1-b9636f02d374,News Tool,Electronics,1427.63,138
+812f7595-2660-4f53-9b91-baff5b010910,Hot Accessory,Electronics,349.95,484
+77715b71-f6c6-4b0b-b1f0-a34bc5f83b52,Long Item,Electronics,1347.74,73
+cec0dfff-d3ab-433e-aa8c-7a831968c06a,Employee Item,Clothing,95.36,16
+4c30c101-2337-49b0-9d19-c4852acc27c2,Big Device,Home & Kitchen,373.64,441
+239304d6-ee31-4910-a7c8-d86e2a1cf5a7,Throughout Item,Books,1883.26,16
+dd18ed79-2e6a-4706-b835-faf8965cb1e1,Decade Item,Clothing,481.91,73
+bc5dec48-0dd4-4bd7-8bb5-24a06e646c04,Break Item,Toys & Games,1962.19,322
+08123435-71ce-4b16-aab6-57996a1d0aae,Level Tool,Electronics,324.62,426
+faaed6df-2bff-455b-ae6b-d6f60e53dbe9,Money Tool,Grooming,1468.89,65
+ab5a271b-7f68-445a-a3dc-b4e69bffe23f,Particular Accessory,Electronics,1450.01,18
+4b9fef18-e3b8-4d36-9296-d21346232f92,Pull Gadget,Books,458.56,441
+747efc1a-22ce-452d-89cd-02d7d10fa464,Season Gadget,Toys & Games,1171.83,140
+eb2d4658-26c6-4944-9d20-d58f388a8460,Spend Device,Electronics,1555.01,423
+40e53452-6265-49c2-94da-8821880f7324,Sort Accessory,Books,470.73,101
+4ea23abb-8c47-432a-85c6-3d96bbabbbd2,Way Accessory,Electronics,711.63,497
+cb15bdae-7ed4-4c21-8458-8f991134dbc0,Consumer Gadget,Home & Kitchen,173.66,134
+5c1be0a2-6dd2-4098-a175-b634f96c4122,Exactly Tool,Electronics,934.6,345
+461251ee-4bd6-4900-a038-bb9603a4f0dc,Return Gadget,Clothing,1109.15,330
+c2899693-9fe9-4c6e-909d-6e7a2992cd35,Stock Accessory,Toys & Games,163.34,30
+52397417-dc57-44ff-9b4a-387e629ac492,Seek Tool,Clothing,618.1,12
+6b8b878c-c98a-4b57-aa79-211681622ec3,Stay Accessory,Grooming,1826.26,255
+a8e85675-24d4-4c0a-a24f-09833396ad13,Positive Device,Toys & Games,751.05,65
+d8394ac1-ac02-4e80-92eb-fae8e2ea14c1,Institution Accessory,Home & Kitchen,130.2,485
+df319811-9838-4deb-871d-15f9897439a6,Oil Gadget,Home & Kitchen,932.91,266
+f2eb62ab-8059-477b-be9f-82b9ee4c0521,Black Device,Grooming,1181.58,461
+b4b96165-53b0-4ba7-bd6c-82e25e738b76,Scene Accessory,Electronics,80.4,334
+5f43c618-cd8f-44e9-89a9-e26b16112a5d,Series Accessory,Grooming,715.2,40
+d9ce3c0e-b514-48d9-849a-6698b0fb065a,Food Tool,Books,948.14,468
+70d0ce0f-e223-4012-a54d-3f342e5e4cce,List Item,Electronics,1193.75,417
+3e970039-0125-4c78-bef8-4a7debe91e76,Fast Accessory,Grooming,1469.09,52
+c4c0b56a-9746-4ce6-aeaf-8fc178f8e01a,Your Device,Clothing,911.33,165
+17bd8e0e-5ec1-4b92-9eab-32332cad9e80,See Gadget,Home & Kitchen,1860.74,459
+25061433-fa55-4568-96eb-7fec300a598f,Street Item,Electronics,1290.56,436
+6fb5d26a-5f48-485c-b706-882474831e09,Night Device,Electronics,669.66,478
+9927a671-ed84-4991-8b88-588b174f2e14,Audience Gadget,Books,265.63,79
+e3b249ab-a6e2-4126-ab32-f990e81bd4f7,Bill Gadget,Grooming,718.76,334
+2de901a3-053e-4a22-881e-ca9b256af0af,Upon Gadget,Home & Kitchen,864.74,341
+5d272a10-6758-4066-86e4-4db99e97a205,Book Device,Grooming,673.56,266
+d68156fd-6f4e-486b-8b3c-4fccc6df5bb9,Material Item,Home & Kitchen,982.53,180
+3fa3e912-6a26-4782-8bbd-951aab037e40,Professional Item,Books,208.1,476
+e75ed0a9-fad5-45b9-8ac8-2528c998d370,Pull Tool,Books,267.33,350
+bf5fa54c-b374-48a2-8f4a-d4eb13937b56,Middle Gadget,Toys & Games,1840.19,118
+2fb5bed3-812e-426b-98a1-c1c4d4cd70ae,Without Item,Home & Kitchen,1985.67,433
+d6767cd5-412a-42e1-a6ba-ecbb821e36c7,Turn Tool,Grooming,274.65,106
+fe6a9de1-28d6-43e7-aac3-ff0826eaca95,Several Device,Books,1669.53,486
+0505e2b1-33cf-4f3c-bbd3-a342f90cfd3f,Simply Gadget,Clothing,550.43,368
+04d1a35d-b272-43da-8ebe-8ef4f94137ed,Increase Tool,Home & Kitchen,1859.55,196
+86b86d94-7466-423d-9e4d-b5e56e65c5a7,Treat Item,Grooming,1195.46,228
+1e2ea8f5-0da3-4cac-aa62-a62b7b0612a1,Listen Item,Electronics,145.07,23
+32be6a5b-3c86-415b-80fb-8b211e006262,Meet Item,Books,295.74,496
+1126449a-5bc1-49e7-85d0-d5f7f5e463ac,List Gadget,Toys & Games,1932.31,417
+ff98a68a-1569-4246-aefe-95afc42c330c,Effect Device,Electronics,1742.17,406
+00121514-8476-4ea7-873c-e9058eb39686,Off Gadget,Toys & Games,965.01,274
+1183479b-decb-4bbf-8383-f24b827c1fa7,Lawyer Device,Toys & Games,283.22,369
+20e18fab-91df-4395-bec3-479bf9b2eb55,Go Gadget,Home & Kitchen,1985.59,74
+2a71b6af-8e79-4743-a320-24de972782fc,Including Tool,Grooming,6.09,206
+1e4e7eed-9db4-4843-b01d-f02388350e6e,None Accessory,Grooming,564.31,68
+806efb94-dbe2-4a21-a981-af7e7dfcfe62,Source Accessory,Home & Kitchen,1009.93,119
+210591db-4d02-4242-8441-277e5cd66cf5,Their Device,Home & Kitchen,1822.21,51
+48a6e9d7-febb-4d48-9eee-80c536616a2c,Draw Accessory,Grooming,429.87,120
+79120834-9aab-4842-a0e4-1c3afc770cf5,Kitchen Item,Grooming,315.6,122
+52f18916-283a-4028-9c2e-808a32607477,Gun Accessory,Home & Kitchen,905.39,157
+1de92d3e-fb57-487d-89f4-b1b6c097b2fd,Suffer Tool,Electronics,32.78,213
+1f99c737-723e-4764-9f2d-aeaf344004d3,Source Tool,Electronics,537.16,320
+57f8b7ea-1b97-4462-bf92-2ee87c9f0210,System Gadget,Grooming,711.88,362
+5023c708-f3f1-4eb3-af9b-41d55e908e28,Necessary Device,Electronics,504.84,128
+ffb75aab-80b2-46cf-9cab-8c9f118407c0,Theory Device,Electronics,1597.09,468
+9fd3d7e7-151c-490a-8317-1509d58b80c3,Option Tool,Grooming,19.6,327
+83d40017-a88b-407f-8e34-2c59507730f6,Nice Item,Clothing,359.16,162
+f983c6e8-446e-4cb8-a656-0ddb9b57fb19,During Gadget,Electronics,1009.25,444
+db93c246-be04-4bb4-b4a1-5866844325bc,American Tool,Grooming,12.21,85
+0e44853f-7a45-400b-ad30-8d017061acb8,Common Gadget,Toys & Games,1969.97,397
+c5886b3c-4afc-427e-a10c-d71a7691cb72,Rather Device,Clothing,386.87,37
+e308c4ab-0f73-43ca-afff-858d2338ea53,Live Tool,Grooming,109.42,58
+00bc0a78-2f79-4801-9e94-b99285be5962,Region Accessory,Grooming,225.24,375
+0a4b9d4a-8737-45da-853e-616be5642058,Response Device,Electronics,669.93,13
+0797f1c3-1597-48bb-a0ef-dfc186b46ad0,Reality Gadget,Books,919.86,90
+b5cd1dc9-1f74-4535-ad21-5c3f0955ad87,Story Gadget,Books,1271.74,273
+0dc29c8c-90bb-4d0a-9569-694cc7242802,Ago Device,Books,664.73,61
+223c1a58-1c21-4250-b565-fc6bdd07789b,Finally Gadget,Grooming,1259.36,239
+877129f5-53cd-4a2b-841e-001a22a184c8,World Tool,Home & Kitchen,1794.02,286
+8efc0b0e-aa06-478d-aa49-a1e1a3ca4b86,Fine Device,Electronics,1588.74,209
+f863ed56-3659-482a-8c47-072b90e85aee,Turn Item,Books,593.64,243
+a103e639-73a7-46c3-b4f9-fc258bdb5ac5,Can Device,Clothing,443.77,54
+2d6304a6-d9c4-45c3-9e7b-b749f930bc81,Knowledge Item,Clothing,926.28,86
+0ada6fe9-2de5-4059-bd0c-284a73e7229a,Friend Tool,Books,892.24,56
+790520dd-fbb6-4c48-9153-4af63f91e698,Debate Device,Clothing,1715.27,189
+583e887f-7c87-4dd6-8fda-1087d0197589,Ok Gadget,Books,1000.58,107
+7f3bfe90-1c1c-425d-9bbd-678f4ca9e1da,North Tool,Grooming,264.72,261
+95fb5629-434d-4f27-9b9a-1528be32870b,Sport Accessory,Toys & Games,1638.8,291
+ca46f836-1508-4e3f-a779-4207f94f2604,Quality Tool,Home & Kitchen,738.1,168
+3f869d2a-2ba6-478a-a9aa-f49c5a908ab5,Room Accessory,Grooming,42.32,98
+f4c6dd0e-21c4-42bf-b01e-207c2212d558,Practice Device,Books,1773.73,114
+392b297b-58f6-4656-bac2-5749b70f49fa,Close Item,Clothing,114.07,227
+099415a1-36ce-451c-83a2-810608eac402,End Device,Electronics,1917.36,195
+dfcb9f52-91d9-48ae-9288-2085a8c1795e,Happy Item,Toys & Games,1799.44,112
+8fb0aaae-e4c9-4e46-a840-7194c18c94ab,Accept Device,Grooming,1642.87,378
+30971e67-6f01-46fa-a30b-129a4fd81463,Particularly Tool,Toys & Games,473.35,146
+ee28bc48-af22-4684-9c26-48e6d8e8227e,Board Item,Toys & Games,1860.26,322
+ed564fc0-14bc-4eea-a94b-f6f504159923,Each Gadget,Clothing,1962.28,107
+2acc842f-3830-4b75-87b4-2a91973722a8,Form Item,Electronics,446.67,18
+7aa535f9-d246-4a32-bed2-1577987e46d3,Major Item,Home & Kitchen,996.07,94
+676240eb-4ace-410e-bfc5-2e72425c9810,Travel Item,Toys & Games,35.1,481
+400ba26c-86ec-4b95-bdc7-02b6f16f4abc,Tend Tool,Home & Kitchen,1171.19,242
+1d5149ba-41de-420c-85be-6a938555d2ac,Young Tool,Books,69.72,208
+5e974f6f-8dad-46b5-8942-0d2e40725da8,Do Tool,Books,54.53,180
+5bb29d92-2d29-495d-9461-1bf098a11e0b,Build Item,Grooming,1030.47,179
+d87bc590-a583-4b88-afeb-78b3990ca8f1,Person Device,Toys & Games,1901.76,417
+e5f43f48-a074-4fc7-bdc9-b1c37cfec6da,Necessary Tool,Electronics,35.92,486
+219459a8-b0fa-4dc4-936f-ed8c2ab5158c,Community Tool,Clothing,808.46,178
+39f1a4f8-6004-427b-9112-7b802a22e6f6,Place Device,Home & Kitchen,987.25,415
+d0d3c8ca-8b43-4405-bfa9-5ff96d4cbd91,Glass Accessory,Electronics,1584.68,189
+bc8e27fb-b5c2-41dd-a222-c79a8ce48c76,President Tool,Books,508.01,408
+b894d858-8502-44df-a9b2-e375d5c4ed90,Mean Gadget,Grooming,1868.65,350
+64cbb204-4178-4757-a7ac-59f1d810eae3,Race Gadget,Electronics,1674.69,121
+4ece676b-cc14-4b5b-9954-d8b2907576a1,Shake Tool,Clothing,703.52,43
+12cf8e59-3e62-42ce-83e0-c88e4c7e32c4,Knowledge Tool,Home & Kitchen,1438.81,296
+3d41066f-67c2-4194-8cae-f68e00f1ba27,Thought Device,Electronics,757.99,81
+aba4c371-7696-43e2-945f-5e631a1d66a8,Determine Tool,Books,562.11,405
+6412703c-96f4-4dff-abc6-a200871be5bf,Me Item,Toys & Games,1324.69,412
+110d64b9-f23a-462b-a629-f70671ba09d4,Cup Gadget,Toys & Games,630.87,125
+a2b49fee-31b8-4ee8-bdec-88e654256551,So Gadget,Clothing,800.74,212
+0927a1da-7c17-4d3d-986d-8d02b11c61b1,Identify Tool,Grooming,254.96,186
+7e00b82f-4ff3-4cb8-8163-a8882843f5f8,List Accessory,Electronics,1473.64,241
+a9bca526-4ec6-4fd0-a188-c96b31e9fc03,Growth Device,Grooming,273.46,323
+751aca13-274a-45ff-ac7f-9b8f94f5ac99,Which Accessory,Clothing,1790.63,260
+7c1b3c93-78b4-4db1-b376-eca35224dd76,Pay Item,Clothing,1405.73,319
+b06dd50c-d878-4343-b964-6389f603379a,Account Tool,Books,1667.37,452
+19dc58dd-651a-49cf-8d55-d32fba551870,Kid Gadget,Toys & Games,1615.71,151
+38c8f1ca-c7e4-43e9-a56f-0d5de41a737d,Financial Tool,Books,589.7,156
+943c2149-482f-4a45-a851-854fa0f7f98f,Option Item,Clothing,517.87,61
+6bc9386b-9d4d-490b-a72a-bdc2348ec1fb,After Tool,Electronics,1464.08,178
+462ff436-6af6-4823-84d0-fc631479ebd2,Whole Item,Clothing,412.16,11
+73baf606-e11b-43dc-9ff5-ef3331c8365c,Mouth Tool,Home & Kitchen,200.99,259
+af52227c-c866-44c4-aa1b-d978d0fd078f,Treat Item,Home & Kitchen,1975.75,308
+2a22a2f8-bd28-4884-a9c1-7408dfb8ced1,Between Accessory,Electronics,754.4,352
+0f50195f-56a3-4ac5-b321-24dda796a045,Rather Gadget,Home & Kitchen,1357.9,118
+88e51136-f0a6-4c0f-8a22-a80155016e2f,Theory Accessory,Electronics,811.73,214
+f2892fd5-e6ba-4229-a57c-411d91f4b1a1,Morning Device,Books,1226.02,157
+f8cd5b4c-9fad-4050-95c2-545ce9633e77,Grow Gadget,Grooming,903.22,41
+ceae6a35-853e-4546-8043-668d700b5b4e,Before Device,Home & Kitchen,1879.69,183
+d3523e92-de1e-45e0-9b07-0040ec74f767,Much Device,Clothing,14.24,174
+fdbe4257-3d05-4f9f-8b16-174cd5b727fd,Approach Item,Books,693.8,291
+e15439f0-1312-440d-9371-5d92e257efc8,Brother Device,Clothing,1047.22,491
+8e542d0c-8139-4e23-8782-fc0d593c6a0e,Human Device,Toys & Games,1300.95,53
+0103a560-2deb-4db9-84fb-d88394bea575,Nice Tool,Toys & Games,594.81,200
+2cbf339f-cd28-4972-a9f0-f4c8aebcdcd6,Collection Device,Clothing,1724.98,493
+68d669c4-401a-4696-8776-5ffb595be5f3,According Device,Books,784.85,182
+f1b54cf0-9fc5-4a6e-a6d5-b1a5eed06736,Environmental Tool,Books,1554.41,95
+3050d7f9-5630-421f-a88c-ffefd98d39dd,Dark Item,Grooming,428.04,211
+b5e68bc7-cc2f-4b3d-ba7b-88ed82d8e82e,Hot Tool,Books,448.4,22
+5bf442d0-7bbe-49ef-bc5f-29431c57c6e5,Fear Tool,Toys & Games,1284.22,278
+68d68ce3-3a76-4b01-8207-9ca230c842ea,Buy Device,Electronics,649.14,110
+04e02afa-3aba-44aa-af18-4b638ffe376b,Guess Accessory,Grooming,1887.69,44
+982a6de7-8396-44e4-89c6-d2bb26e0e6da,Fish Device,Toys & Games,304.37,311
+a6ff3816-39ca-4e15-a36a-b92b40e6340f,Like Device,Electronics,1665.45,456
+bba0cdbd-92af-4c6c-9e51-0b72bdb5a9c8,Theory Gadget,Electronics,415.17,36
+3c5d75f0-0b0c-440d-b17e-4f2ddaf4734d,Believe Item,Clothing,379.24,220
+5ebd1d3b-3f55-43d4-bc8d-f0ffbcd3cb1d,White Device,Clothing,1824.71,308
+528b9f57-52cb-42c0-ae84-930c01ec5119,Interesting Accessory,Grooming,1564.51,379
+0ee6ef8a-5b0f-4f77-a01e-da8d2ac8e857,Key Item,Clothing,1714.28,149
+8e9e80e5-90c5-4e59-9840-0697ec22d62e,Letter Device,Grooming,1489.93,415
+9d777627-d6ce-4f43-90f5-978951659ed6,Nature Item,Home & Kitchen,82.01,201
+8623ef55-2b88-46c8-984c-5c80ddae6033,By Item,Electronics,1027.57,330
+4e602fe2-f66d-4e0e-a4ff-70a743af1fc1,Black Gadget,Home & Kitchen,1352.92,141
+be54dfa6-0b02-43ed-95f8-a593c55f9a3f,Speak Tool,Toys & Games,1039.48,104
+0609a4d9-700e-4007-9dff-4f44a9d2b841,Beautiful Tool,Grooming,1926.51,457
+19e19931-7348-406b-882a-9ae560da22bf,Real Tool,Electronics,172.79,95
+f72e3ce8-4b6a-4c60-9df7-c33a7717959e,Write Accessory,Clothing,154.09,272
+39531011-6107-4649-9f68-153b13cc50a0,List Tool,Electronics,1633.28,359
+93bb765a-aeae-408d-9846-1f80060d4128,Consumer Device,Electronics,1080.63,358
+f48f7555-39a6-48bb-ace2-4dfcfcd4e959,Note Item,Clothing,1978.79,331
+9c47a848-c3c0-40c8-bb24-d35160899684,Set Accessory,Books,661.77,55
+34023b27-03ec-42e4-92b1-60da5df09646,Truth Item,Home & Kitchen,879.37,437
+3a72aa2f-c8d5-41ba-96d9-8cc256ebb57f,Maybe Accessory,Electronics,61.66,68
+161725a4-f7cf-4725-bd7a-36252f29792e,Own Device,Electronics,15.42,310
+9169bd11-71e9-483c-924a-bf3d80b4b198,Rise Item,Books,27.7,310
+956d6255-f25b-411b-9e39-da3312f1c007,Out Accessory,Home & Kitchen,212.09,202
+54023e65-908a-4f69-830a-e863be6b29a0,Open Device,Grooming,1189.11,23
+d1086452-af77-4dae-966c-7a5c7a46a99f,Ask Device,Home & Kitchen,1102.96,245
+a94c6ddb-1cc6-4ef6-b300-06567cc1b3ee,Second Accessory,Electronics,1225.9,371
+cb23e97a-ed8d-46bc-b567-0980294457ce,Fund Accessory,Home & Kitchen,1158.59,394
+a063b91a-b8ac-4dff-ae57-9f12b08686cb,Rich Gadget,Books,1705.4,156
+f66aa79c-42ac-4c24-8516-b671fb5891a9,Participant Device,Toys & Games,1240.53,224
+df125480-b8c7-4087-8592-b97b472d51ea,Ago Accessory,Toys & Games,1219.07,247
+dcc9d99e-7385-4c2a-ab12-5ec7edf05e4d,Next Item,Clothing,1866.59,184
+08b69462-b596-4835-a0d4-582866f8e93a,Than Accessory,Clothing,1695.22,409
+2ca7eb84-b199-4c21-a735-aefcb851f124,Key Item,Clothing,678.85,30
+43cc27f1-83f7-4172-afda-a40d6a28327e,Strong Tool,Grooming,1007.45,76
+e15287d7-f452-4426-bc1d-2ce29818dedb,Road Accessory,Home & Kitchen,1013.87,183
+8c7149c8-818d-4084-8287-eb5a264ed4c9,Face Device,Toys & Games,421.46,250
+b737fc68-27c2-4822-8163-0e5ef0be88e8,Sound Gadget,Clothing,225.18,34
+d54275af-34a5-4f3d-87ee-46e051226928,Dinner Gadget,Grooming,492.98,193
+da63fb03-32f2-4579-956a-f06b7d34ec74,Happy Tool,Clothing,235.54,101
+9b093173-7aa8-4629-b44c-9eee1ed895aa,Central Gadget,Grooming,48.33,187
+a9bfbcd7-459f-41dc-8f9b-3567550ffb0a,Per Item,Electronics,714.91,161
+44f33a37-212c-43ef-871e-4937e36e85dd,See Gadget,Toys & Games,15.91,366
+48e84a1f-9c1a-43a8-876a-0e917d4a4e4b,Country Accessory,Books,88.73,273
+48a2b635-7924-47fa-8cdb-aad15aafd363,Eye Item,Toys & Games,563.65,79
+9fd56ded-abd6-4058-b50e-1c51655754b4,Century Tool,Clothing,15.74,68
+03fdd1ff-dac0-42d4-9ef5-bfc80ef0faeb,Feeling Gadget,Grooming,858.31,86
+2a031c38-4c9e-4434-9c79-35439ecf11ad,Role Device,Toys & Games,1284.89,349
+f3f79b5d-6e14-4e7e-b060-0b6a5980a930,Long Accessory,Home & Kitchen,1801.68,367
+cd406a51-44a5-414a-922c-c974c06b61c0,Thought Gadget,Grooming,1313.02,323
+c8ccf6de-2b6e-456e-8520-da804d6fd7c9,Drug Tool,Clothing,295.11,147
+6d517a51-568e-4471-a783-bad723d488d1,These Accessory,Clothing,1624.82,157
+d74eefa2-7145-43b9-9718-e02affde1fca,Garden Item,Clothing,1907.22,408
+913894bc-55ca-4db0-abf9-bd2ee57145b1,Seem Item,Electronics,499.1,371
+c9bf3553-03b4-465b-88bf-416b57fccda0,Sport Device,Books,479.83,17
+8659d537-58d4-4ab9-bdb5-afcaf93325a7,Movie Item,Electronics,1636.34,177
+50a5c243-f432-4fb6-8538-3643956d910d,Able Accessory,Toys & Games,1425.69,33
+fd3d8723-ec02-4bc7-a3e7-4f23dd457dd8,Suffer Gadget,Electronics,1982.5,186
+c40674ff-84e5-435c-ae68-6a2546fd3bfb,Avoid Device,Books,363.41,124
+cc5c79a3-b014-45b6-a0c1-66122856873e,Politics Item,Clothing,536.91,233
+b757f948-5048-4fb8-afdc-c38e09643a31,Be Tool,Electronics,40.75,236
+60b89989-ef66-4667-a8f7-840531819328,Collection Gadget,Electronics,1849.62,256
+7c4fe531-e759-4f48-ae08-dbd2b5eab92b,Affect Item,Grooming,1302.8,138
+7773f7a5-4f10-489e-a561-1f332342556d,Fall Gadget,Grooming,763.37,232
+f728f960-0357-4bc0-9173-4fe613afa37a,Group Gadget,Electronics,465.02,67
+bdc611b4-0ced-405a-9325-59b3412ce61c,Glass Device,Books,1240.03,81
+0d7c21e0-06d3-4b44-9e6f-22fc1e8f28f6,Again Accessory,Clothing,549.01,286
+2ae11c95-5312-4fee-83eb-62dd21807d58,Trouble Device,Home & Kitchen,921.57,313
+a1cbbe8c-57bf-42ea-a32a-2e11c171cbf5,Course Item,Grooming,791.93,291
+cac470cc-584e-4a00-864f-68412462bc33,Financial Device,Clothing,590.2,340
+a6364719-aec3-42f7-b1fc-adfec5dd84f2,Pass Tool,Books,234.11,495
+a5d059fc-a6b3-421a-8b28-71fc3b434e85,Whatever Tool,Toys & Games,897.94,419
+023a7f7a-16ae-4de8-8a5d-942d0db11878,Measure Item,Toys & Games,707.84,375
+988e6ae6-d0e5-420f-a9fe-488887261e1e,Two Item,Books,734.98,409
+49b9ed3f-34d3-4ed5-b74c-073bf7f4cb4f,Many Device,Clothing,501.54,27
+38a2f317-2e7e-4c6a-9022-4e8a0318964c,Affect Gadget,Electronics,1008.34,431
+cde0ae51-7932-41e6-86cd-8a56b108f21d,Wonder Accessory,Electronics,1690.06,357
+273acc70-97dd-40eb-9cb1-89b5884e5488,Able Item,Books,376.51,250
+9fa03de4-83aa-4229-8c4f-757701afa6f2,Far Accessory,Clothing,1393.64,356
+e7f17a82-22e5-43a7-82fc-5f39926a18de,Character Item,Home & Kitchen,908.85,452
+f52cc740-db10-4459-92c8-e883c00753d5,Describe Tool,Grooming,1638.62,238
+392b10f0-e68e-4763-a83d-4b17120ed832,Rather Gadget,Books,1273.83,134
+d94aa03d-7193-405c-8add-2858045d5246,Arm Tool,Home & Kitchen,83.52,362
+818c558f-7c1e-4b6f-bb4d-3e9c30611df6,Include Device,Home & Kitchen,1471.45,343
+972a2389-7066-4093-a6bc-fcade5005f68,Activity Item,Books,524.64,382
+a2a2197e-40a6-4b1c-9ee1-2bf8b14c6a09,Yet Item,Home & Kitchen,500.37,128
+701e9353-2e35-46c9-b0ca-0a1516b13978,Money Item,Toys & Games,817.62,209
+ef76a924-6305-4664-a6d3-1dd9290f6b49,Person Item,Toys & Games,1994.94,272
+5873af5f-3b34-4765-8c7f-b4134ca7f8ff,Scientist Gadget,Grooming,645.05,75
+e7d6e087-670a-43fe-8400-42e5c5ea6bf9,Billion Device,Grooming,731.64,461
+cf266fd3-24e8-4869-8edc-64529c9bfd92,They Item,Electronics,1936.51,326
+c51a168e-d4d6-4e40-bec3-2c8a60f528ea,Page Tool,Electronics,165.2,440
+39013af6-089a-46f4-9f1a-850b0903c3b3,Without Accessory,Electronics,1621.77,25
+e54cdb05-abeb-4c36-96ce-d72129be49aa,From Tool,Electronics,729.72,442
+199f347e-7fb9-4877-bb30-664f31e87ada,News Gadget,Electronics,90.24,441
+da14fb98-e320-485c-ae3a-dcd78371588a,Bit Tool,Grooming,572.01,227
+85a4748c-f508-4067-a6d7-db0be711f018,Central Accessory,Books,1419.14,247
+bd93add9-d19d-403c-8349-bd7550ad45ab,Radio Device,Home & Kitchen,717.83,109
+c7318ba5-c8d9-4891-8adb-1ec6cdb0742d,Forward Gadget,Grooming,1656.25,71
+8271e07b-2ad2-41a2-be06-064a59cc322f,Way Tool,Grooming,1277.21,429
+ead78392-e971-496e-9faa-dbeabba4ba12,Small Accessory,Grooming,1437.82,217
+975ca809-15b2-42be-a280-e1723c25cff3,Mind Item,Home & Kitchen,65.35,315
+7b31256e-6dcf-43b9-9585-0c7b63421774,Painting Accessory,Grooming,731.11,457
+ba2b0671-b0ff-4099-9605-89b1c112c5b6,Peace Gadget,Books,1861.82,325
+27381a90-95ac-4f08-8cd3-93992ac8a7f4,Pay Accessory,Home & Kitchen,1623.63,288
+0d1036e7-dda8-4f99-9a20-065b2408721e,Compare Device,Clothing,245.7,418
+cea567e9-5e20-423a-acc5-abf98cfec798,Message Device,Clothing,809.33,356
+731da4b8-8a94-47c3-b00e-81f63a23cfcf,Poor Accessory,Home & Kitchen,972.26,299
+abc750a8-7a5b-4091-8d74-c0498fe7aa6a,Each Item,Electronics,489.88,77
+fc87222b-0400-4bc7-b9fe-4e8c0c8d452b,Avoid Accessory,Books,231.96,468
+2e1affb2-0291-423e-8651-8a15c8ab7b5d,Us Device,Books,1529.7,179
+45a3c47d-9b62-4f4c-a9bd-386f76541f2c,Under Gadget,Grooming,1449.92,401
+e37e2d82-06c5-42a7-808f-0890716296de,Manager Device,Home & Kitchen,974.24,447
+421c4fc7-62f3-487e-bec4-2d5b51673006,These Gadget,Grooming,1293.41,38
+3ec3a4ec-9311-47ed-a1af-218671f896b6,Free Item,Grooming,1551.8,40
+1f462b28-8d11-4368-a288-fcff44361b09,Kitchen Device,Books,1688.28,258
+66a9801f-19ec-4a73-8469-b34043e42cbd,Bring Item,Grooming,1775.22,228
+a5ce5c1a-59b1-489f-b498-7e9bcffe61b5,Follow Device,Grooming,1829.76,160
+d853e358-f639-4bec-9349-228695b8e533,Talk Tool,Grooming,62.74,154
+6f75887b-835e-4321-a3de-4a3a3615b70a,Inside Tool,Toys & Games,1429.54,182
+bdb44b26-b9a2-4796-8ff8-6dfedd2c369a,Wonder Accessory,Toys & Games,68.49,301
+68936bdc-3cf9-455b-918e-16d5ede968d2,Not Tool,Grooming,863.15,63
+f45790d0-8db2-46ca-87d4-24b89f897fc9,Wide Accessory,Toys & Games,221.81,191
+5d5cd324-50b0-4649-b2e0-eb526f5d966b,Strategy Device,Electronics,1517.2,413
+fac481f3-663f-4220-9393-cde1f50d3cd6,General Item,Electronics,1192.6,194
+a6d4c31d-7fdb-4861-9a6f-31c8332f2f6a,Stock Device,Home & Kitchen,46.8,189
+a8828137-8656-4d9f-a18f-3767bf355aa0,Treat Tool,Books,1883.37,295
+710b9b8f-7f7f-4378-bcee-f10d59e369df,Together Accessory,Grooming,1998.5,177
+8aa2c70c-4b69-4d79-8566-d0ec0a014255,Expert Item,Home & Kitchen,1068.71,35
+29440925-7760-439d-9e74-73d3a3d1580a,Turn Tool,Grooming,1591.23,23
+67a8c7e2-f98b-4d79-9dbe-a30b6688c80b,Type Device,Electronics,332.34,193
+a3bd7629-31f2-444a-b7ec-8b81281f4a68,American Tool,Books,1358.72,110
+2c4eb7af-3d30-4aed-b5ec-e1e363957fe3,Newspaper Item,Grooming,1057.67,233
+947ef92a-6c3b-4d4f-bbb7-b736cc7435cf,Increase Gadget,Grooming,230.2,96
+ba464227-fc76-4b20-8adc-49f85144252a,Word Accessory,Home & Kitchen,1293.65,407
+ba2d9c7a-fa18-487d-9143-c0b877d57500,Either Item,Electronics,700.26,18
+ec1a8bc7-35f8-4c55-bc0a-e3c5215dafe0,Technology Tool,Home & Kitchen,278.83,128
+e08097d9-0488-4ac2-98a6-f9a5630ef64a,Program Item,Books,497.67,188
+14568827-ba50-4978-bb08-457107d6b316,None Item,Electronics,964.84,384
+79f7dfe1-d2e2-4b3b-818e-178f3b66c72f,Key Device,Electronics,530.64,311
+2970daa1-02e3-45a2-a62e-7ac2c0c95b7f,Kitchen Tool,Books,1507.66,442
+ca3579cf-19c8-4973-87a6-0228039f7c15,Need Accessory,Grooming,826.38,480
+82a96135-8f67-43b0-b334-595e378f5791,Thank Device,Home & Kitchen,227.41,497
+4e3074c2-4c8d-4652-af53-ab062d30bb20,Series Device,Clothing,1529.47,121
+304de390-6742-4ebd-90dc-dd632cd3bd18,Born Tool,Clothing,341.21,230
+b828f44c-bcbd-4ff4-bbfe-a35b0e8c3ff5,Land Item,Electronics,1347.5,246
+483fb178-12aa-47e2-8fa0-98234ce8e4b3,Daughter Accessory,Clothing,1786.88,211
+e93a5916-b5a8-43ef-8bed-e2b70a7d15a9,Voice Tool,Electronics,1014.2,289
+b93701a2-8072-4a81-b880-637b02b78d73,Make Device,Home & Kitchen,58.0,296
+c5204c5f-ca84-4c03-aa10-511f420b5569,Make Item,Clothing,985.09,357
+654ad114-e6e5-4592-9f76-d3fb3fe6aba4,Guy Device,Clothing,313.59,196
+e449ad32-fc35-4129-a0b4-e2ecb76e3d3d,View Item,Toys & Games,1244.24,338
+eb62898f-ceed-4ca3-90bb-97e70cc2d2f8,Safe Device,Electronics,847.87,453
+ddbef813-35f4-4610-a04d-ee8eb3693296,Especially Device,Clothing,762.75,12
+86d92c08-fbbb-4d26-b28f-038196688d7d,Certain Accessory,Home & Kitchen,1240.07,220
+956fe600-0daf-4ae4-b673-968bf1dc0e0e,Address Device,Clothing,265.38,207
+f0729ed8-9717-4450-b94c-8a1bdf28e263,Mrs Device,Toys & Games,974.72,483
+49c29827-8981-44c9-9a85-f027b93e4ed5,Trial Accessory,Clothing,982.74,419
+bf0cc77b-119c-464c-af85-555ca78a3351,Film Item,Books,1015.92,437
+b34ffb5c-d750-4066-bed9-33bb93a871be,Blood Gadget,Books,7.88,84
+776fd211-b1b5-4a43-9c9d-33174f586ea8,Among Item,Toys & Games,1313.51,443
+92f7b7f9-bd62-4e5a-8d1f-65a38c6614e5,Yet Accessory,Home & Kitchen,212.07,392
+037a0c4e-ee87-45db-b16d-cd5f0615d477,Pull Tool,Grooming,284.74,52
+70f5356d-505c-449e-ae0b-4e8ac10b1941,Game Accessory,Toys & Games,1137.33,127
+6d6b94c6-2f10-407c-b4fc-7f15a92a1297,There Tool,Books,1160.8,258
+e619ca6f-eb12-4b69-ba19-a88d5e1cae35,Eye Device,Toys & Games,20.86,397
+9a7087e3-14fb-47df-b54b-033105f087ae,Decade Tool,Clothing,1313.09,249
+554aee7c-33eb-4eb0-b346-7da8bcaa88af,Effect Item,Electronics,1025.54,274
+46a66715-48e6-4928-859e-336c1056de08,Worry Device,Electronics,819.7,298
+04ae2a62-1b09-4a11-a23c-92ca20417455,Service Accessory,Books,128.2,98
+bdf60dea-227a-4a75-aee9-c35a4c5fca04,Particular Tool,Books,717.6,344
+ed6eef99-6e09-4d26-8869-ceab488a9188,Guess Gadget,Clothing,419.08,477
+eda72441-a5c1-4cae-a2e7-cad5932768ef,Go Tool,Books,1638.1,450
+b571696c-44fc-4e4b-bd91-2f9b5bcaadae,Argue Device,Electronics,1498.31,359
+d50729c6-ec03-4c84-b71a-bc2a7f95ddaa,Increase Device,Books,1052.0,330
+ad018da7-5d57-47a9-85de-b9472a7cccb9,Clearly Tool,Home & Kitchen,92.31,469
+b8db2946-3a66-4e53-a07e-1843bd604eec,Campaign Tool,Electronics,631.66,163
+6c949f4f-b62a-41d5-b1e8-65382707ee60,Right Accessory,Home & Kitchen,208.72,56
+791b0855-5fc8-4bda-9e83-7f371777b160,Decade Device,Home & Kitchen,435.03,261
+fbe40f51-e128-44d8-b7ce-d5ab22607f1c,All Tool,Home & Kitchen,375.39,279
+f9a86b13-8241-497a-9691-5550d1e375f5,Teacher Item,Grooming,20.89,272
+79d85fa4-73e1-42fe-8ed3-16b175d227ed,Move Device,Clothing,1493.77,185
+8a93d3b0-5739-48cf-9de4-321c24c6b08b,Eight Accessory,Electronics,1561.68,172
+21c6e5e0-c7fb-401e-a2f9-e2e50120ce8f,Including Tool,Clothing,1237.46,320
+77b20548-7559-422d-985c-fda302f483f5,Trial Tool,Home & Kitchen,1007.36,114
+a3613dab-b74d-422d-9ffa-55439e8803b4,She Accessory,Toys & Games,1390.71,331
+9e850aa4-348d-4e93-bc9f-14b0623d13e5,Peace Accessory,Electronics,1663.69,334
+84e6517a-4b5c-4b00-8154-fc375005875e,Visit Tool,Toys & Games,744.95,47
+87194393-0998-4913-81a0-364fcdf7d6a2,About Tool,Clothing,1943.68,228
+b3d71306-1e1a-44cc-9910-8f65a7107fed,Race Accessory,Toys & Games,1516.91,146
+43d88c38-68b9-4e91-9f79-fd4bd2bbd33d,Organization Gadget,Toys & Games,342.05,452
+1a155633-349e-4362-8f60-3874db8ca658,Store Accessory,Home & Kitchen,458.82,494
+4349c3fc-4279-448d-be77-45cb2cc5f357,Cost Tool,Toys & Games,1543.42,87
+2ef5fa65-a85b-4d1f-96a2-4abe59d3dbc0,Somebody Gadget,Grooming,885.55,288
+4e34ba14-3ff4-4eba-95e5-172eaa39194a,Develop Tool,Electronics,423.09,411
+a57d2d1a-fb1f-48a7-810c-bba8e1da8c61,Nothing Item,Home & Kitchen,440.86,303
+3bbefe33-3395-46a1-a78a-24e2cc491cfc,On Gadget,Toys & Games,1543.82,154
+9794fd92-a3db-451e-8a9b-23c5c414d746,Suddenly Device,Home & Kitchen,1068.42,447
+0394668b-8087-428c-bf2f-1b7c967ec967,Usually Tool,Books,770.43,250
+63dc7926-1146-4042-a000-d450b0389af7,Their Gadget,Books,619.07,319
+f973d52b-8faf-4210-a149-13471e227aa9,Blue Item,Grooming,459.82,171
+a2b09849-1409-4a1c-a837-2230d85c54f4,Doctor Tool,Clothing,396.27,480
+1aaf6315-f4b9-4fb4-902a-1b20b88da46b,Or Item,Electronics,789.49,483
+faf77ecd-c751-4273-aadf-406453a19dbf,Difference Item,Grooming,53.71,260
+0ba6b90d-e5dd-44cc-923d-9ac4132b591f,Include Accessory,Books,1262.91,397
+16168acd-27e7-4da0-a19c-ce46169a2e45,Common Accessory,Books,94.72,209
+304dbf79-4ffc-4c83-9022-ad4dcaa11cbb,Herself Device,Grooming,483.14,68
+40a31bf5-9705-4ad5-871f-b872d731d3b2,Management Gadget,Electronics,429.68,77
+9a82681a-256b-47ca-ab23-67761695ec22,Plant Item,Clothing,1005.43,472
+30d1e641-77a0-4ad2-aa11-e042e3069b06,Office Tool,Toys & Games,1677.27,314
+7d8084c4-d465-49c4-a9ec-3018814aced6,Indicate Gadget,Toys & Games,1841.01,118
+476158d0-c48f-4153-8662-a17a3e8a96a0,Others Gadget,Electronics,1054.41,497
+f5ec178d-b4f2-4f15-96ee-35a687b4c2f5,Sometimes Gadget,Books,1381.81,366
+f4c8d2e3-bb3b-4ad2-945c-31e275249ed0,Among Tool,Toys & Games,438.38,167
+da8c6c4d-75de-49ba-87c8-b803ddc9e087,Response Accessory,Toys & Games,517.71,289
+95f16846-b861-4eff-9615-0e65d66e5c1f,Pretty Item,Books,89.06,178
+5faee932-707b-4005-b43a-aa528d914a1e,Beautiful Gadget,Home & Kitchen,1829.0,292
+29931cf6-24f0-4057-9ae8-8704d6736482,Shake Tool,Clothing,1972.07,470
+695ffda2-8e43-4fa0-96bd-a6022dccdfc3,Sign Item,Clothing,699.35,115
+831b9dfa-feff-4e0c-a2c1-c3a39060b25b,Impact Accessory,Electronics,1189.01,481
+f757fb82-4ec7-4d3e-bd7f-fc63e51eda48,Professional Tool,Electronics,1249.43,438
+ec2857a9-6dd7-4755-b772-c9031009d8f2,Owner Accessory,Electronics,1281.65,475
+619d7dac-7759-46c4-8a2e-b43062d5e60f,Suffer Gadget,Electronics,1063.28,416
+086594a2-a208-456b-9061-59a6fcb0de93,Old Device,Grooming,289.81,433
+77844b6e-aa59-4950-bdae-6c50aa1139c0,Above Accessory,Clothing,171.28,411
+818ea543-e640-48f1-b91b-90718ae9b0a2,Break Device,Grooming,34.19,208
+59982cda-1f25-4411-8b81-fe356972fc44,Avoid Gadget,Clothing,1636.36,196
+dd90ae66-9dcf-45ac-bac6-420a5a39d43d,Full Tool,Books,964.89,432
+16f01302-d684-43b8-9e0f-02e3539a2fdf,Here Accessory,Home & Kitchen,326.06,67
+49a63044-f0af-4e14-810f-508f6d68fe57,Church Tool,Electronics,269.18,414
+af5edc93-3dc9-4fba-a756-36703f1883dc,Itself Gadget,Books,1063.16,264
+c575a6c6-ae27-4011-8f34-31924dee9649,Drug Item,Toys & Games,105.24,223
+08535f38-cb03-4264-91a8-7238a65c26ce,Perform Tool,Books,842.62,428
+e413b3d0-d7f5-48d7-b3da-afede84db3da,Shake Accessory,Home & Kitchen,840.64,92
+74894c79-9d5a-469a-aea5-e393df5d34dc,Development Accessory,Clothing,244.8,29
+d4ada09d-9135-4dcb-9ca0-0faa5e471f03,Until Tool,Toys & Games,1765.55,305
+b711821c-a1af-4cb7-a800-16ac4fdad738,View Tool,Books,1809.79,379
+1609c39a-be7b-464b-b655-e757d17b2976,Before Item,Toys & Games,13.64,379
+7b0cba36-ae7a-424f-8637-3d11c80fbce8,Mention Accessory,Books,1646.59,456
+3722e645-342b-47d2-aa94-9868190d49d9,Night Gadget,Toys & Games,921.26,344
+e2afdb5c-5dfe-4ddf-acb5-9452fdea19a7,Among Gadget,Electronics,347.92,203
+9740de96-5ad0-43b1-9d3d-2829bf9fd112,School Accessory,Toys & Games,1684.85,364
+6b67ed2e-1d03-46f9-8378-a7ed5f772ab2,Act Accessory,Electronics,587.45,59
+ba01ed35-c249-4e10-b8f2-6fa26ef62e4d,Offer Tool,Toys & Games,1023.61,311
+b937daa7-d9c2-4145-92a8-8e6b4ded1409,Each Gadget,Books,1655.54,318
+774e99b2-452f-4352-a787-82c6dc9eb61c,Employee Device,Clothing,1467.37,423
+147fcd11-5f7f-43c5-a611-cce05a9a0307,Claim Item,Electronics,559.27,27
+b797e794-6a25-4952-8c83-78440c4e5c10,Vote Gadget,Toys & Games,93.08,94
+b0576cf4-0530-4859-9845-4aa4da36f74b,Ability Item,Electronics,532.68,366
+ce666b21-2ef4-4ceb-8235-d3eb4f19bb07,Total Tool,Home & Kitchen,1207.96,205
+c7753b8a-f217-4331-b2cf-e20e198efea8,Address Tool,Electronics,1595.45,306
+b152f36e-2f5a-4ec6-a625-feceea79c42d,Seven Gadget,Electronics,75.21,289
+ad6e05f1-d810-4b75-b074-1f03e8787ebc,Participant Gadget,Grooming,1241.38,101
+85ebc324-af3a-4360-9267-c7d223752fed,Almost Accessory,Clothing,930.14,432
+5db30d35-3ea7-4b0d-bffc-65c6fd8b0a1f,Guy Device,Grooming,918.74,376
+fe2b0c43-f967-4ed6-97dd-baf9653ef5ac,Group Device,Home & Kitchen,1577.7,448
+aaad2f74-24e9-499a-a735-b469bab277a8,Interest Device,Toys & Games,429.35,74
+9e849b92-41d2-45dd-a12b-e80e72371218,Treatment Tool,Books,857.2,43
+2fd07bc1-6bb6-4433-97cc-9807df31ec7e,Member Accessory,Home & Kitchen,1487.23,46
+81f28afa-56f5-43ff-b08a-2713aa169f49,Under Item,Electronics,732.01,426
+b4a90134-cd0e-4e9c-98fd-aa3472676634,Nice Device,Clothing,8.19,373
+3eb82b2e-a217-47d6-bfd5-5841c7991786,Public Item,Toys & Games,1275.38,217
+39bcb082-90d4-4b89-a44d-d9bebb550b18,Six Device,Electronics,978.98,58
+82ec4af3-f25a-4649-905c-65e645ca650b,Detail Item,Books,464.67,495
+2c663b6b-0598-44ee-9b50-1334c0e5c3db,Capital Tool,Clothing,1043.97,496
+c6d64595-79fa-4393-8fe1-d6c3c4fafa4f,Film Device,Clothing,1096.48,18
+32518537-b6b6-4f26-a9e2-ddaa46804e83,Culture Device,Home & Kitchen,1857.96,315
+98118517-b88c-43cf-bb0b-833250d175c6,Into Item,Home & Kitchen,837.52,452
+c6ed4b49-71b0-45ce-9323-a3b3abc6ecd0,So Gadget,Grooming,1069.55,152
+cf195b62-a81e-42f2-b17e-d0b3bc72790c,Finish Item,Home & Kitchen,939.9,135
+6df02318-7f9b-47c7-be54-1be21fae2464,Attention Item,Books,250.97,70
+2d260f81-f6a0-4eeb-80e3-4623fcab6e2d,Read Item,Books,1192.96,427
+c4ff1f51-6732-45e1-b46b-b08b319db179,Action Gadget,Toys & Games,497.16,374
+42f60461-7f57-4166-b8c6-551d98c4f080,Herself Gadget,Books,1977.42,130
+f9298f15-e743-4928-a399-f6c08e34bcb4,Course Device,Grooming,723.92,311
+58e18a3c-3cfa-40b2-8c9d-cc2b4b764fd3,Party Tool,Home & Kitchen,1083.88,37
+96eb6296-2085-4674-b120-08359ce7d2ba,Start Tool,Toys & Games,739.61,306
+07123a50-ad84-411b-b4c6-bea85611fd01,Eight Tool,Electronics,452.58,329
+11182f56-ff77-46e0-9bd2-ab3fb6c353ee,Or Accessory,Clothing,250.8,124
+56a5b59a-0469-4dd3-9835-e150e733c55a,Fund Gadget,Books,1945.39,482
+7ee00ee6-8999-4124-b5c0-a96b610c4a6e,Once Tool,Home & Kitchen,1950.11,269
+fed280a9-49c8-4300-b2fb-390959bd756d,Practice Tool,Clothing,807.39,272
+537d15fb-c3d1-4c6d-8e83-08964294b47e,Final Tool,Books,480.84,95
+41b4b11f-89df-4829-8212-c6aa3376caf2,Hundred Accessory,Books,1563.21,200
+23b5e905-578a-43b6-8574-a2e73b343450,Task Gadget,Books,1403.34,96
+c4e7d963-5891-4fc0-a1d6-2b51a320b1d8,Your Accessory,Electronics,1493.03,51
+f57deaf3-3c23-4c3f-8296-73b7d91cdc34,Much Accessory,Electronics,564.99,18
+824ea94f-6b61-4f25-bae6-e927eb98bede,Her Item,Home & Kitchen,1198.84,119
+0f88006a-a8e6-4c23-929d-3be225df96c0,Recently Tool,Home & Kitchen,588.65,486
+7734b340-70e9-4d1e-a817-9ad5b75b281e,Protect Gadget,Grooming,964.48,163
+29d58eca-d13d-417f-8b72-a18e8270cc21,Clearly Device,Electronics,340.85,466
+896882d4-ddf4-46ae-8478-d9f7888731b6,Others Accessory,Home & Kitchen,1205.61,317
+a312f96f-12af-419d-93e5-3fca65346f54,Quite Gadget,Toys & Games,173.34,397
+af57904e-445a-4826-8501-915375163d0f,Special Accessory,Toys & Games,1689.8,440
+42af25da-00ff-4737-a420-d935333cd3c9,Quality Gadget,Home & Kitchen,1463.17,21
+96626d70-8d4b-4084-856d-920acdc15c1f,Million Item,Home & Kitchen,952.02,233
+02f2e42f-a28a-4896-aea3-e74e866eafb5,Use Gadget,Clothing,1326.7,455
+3965742b-fc97-4757-966b-0c3c78d05a49,Future Device,Electronics,1554.59,164
+5d4ceb04-23ba-48c5-a1cc-1ce8ffd4cedb,Kitchen Item,Grooming,529.33,281
+d8b8887c-0282-42e3-be60-ea59d6fd215b,Return Accessory,Grooming,102.29,304
+c524cecf-b930-4f91-8d6c-0f01a6e7c36f,Watch Device,Electronics,1206.58,33
+b4cb37c0-093d-4912-8d1c-3e4dac9b8e60,Radio Accessory,Clothing,530.64,177
+05452488-a414-4a6e-8793-2795b1a2b2ff,Cause Tool,Home & Kitchen,1965.48,87
+247082a1-3fde-4cfa-b78c-71ed15cb903d,Your Tool,Home & Kitchen,40.85,206
+8680d50c-6b24-4507-95ae-1c840a3efdac,Heart Gadget,Grooming,1898.49,219
+457be892-8595-4c3c-8915-4974790e2fc6,Away Tool,Grooming,533.06,183
+e501866f-f8de-4942-bdb0-2fd215091648,Left Device,Electronics,1966.0,422
+706f1b77-69f2-462b-aaa4-190c54da7fd7,Group Gadget,Grooming,276.4,312
+405254a5-0815-438a-9e63-0f6675dac6d2,Model Tool,Grooming,1206.57,498
+3e9e1b43-707f-428c-8c38-f868746fba41,Buy Gadget,Electronics,1092.17,496
+a5835224-4a3b-4d2a-93bb-cdaaa06d55b1,Pattern Tool,Books,577.87,212
+c6f04816-d27b-495d-a6fe-dbc3a65c2c88,Those Gadget,Toys & Games,414.9,444
+eee1a83d-4c76-4363-832d-59eb8e025a43,Pass Accessory,Books,1617.71,311
+2e5c75e5-c889-402a-86d1-423756ca9a80,Big Item,Grooming,235.47,113
+332ec2b6-1677-488a-a853-8473257e8e87,Foreign Gadget,Home & Kitchen,416.13,317
+14fc195d-feef-468e-bcc6-7bd1519798ba,Century Device,Clothing,1072.59,45
+6fbfb26e-d50f-43e4-bf2f-ce3ac503884e,Health Device,Home & Kitchen,1145.76,369
+3bdb5536-e109-4a6a-add5-4b74ddb14906,Former Device,Home & Kitchen,1142.93,316
+51fde498-e7b0-43db-9f0d-cc3b57741640,Tree Gadget,Clothing,918.22,413
+77ea2dc6-630b-4fb8-94ad-e6491beb0c67,People Device,Books,721.76,219
+f68437d4-7ecf-4645-b6d1-cef5b11db02d,Financial Device,Clothing,1225.3,411

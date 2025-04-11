@@ -1,0 +1,997 @@
+CustomerID,ProductID,Category,PurchaseCount,ProductName
+00849945-446c-4f65-948a-01bf6cf12639,1aaf6315-f4b9-4fb4-902a-1b20b88da46b,Electronics,1,Or Item
+0087ede1-d0f5-4cb7-ba21-ad2efdf2cacd,a2b49fee-31b8-4ee8-bdec-88e654256551,Clothing,1,So Gadget
+00c5e657-0b6b-4a0b-8232-44880da51783,03c733f1-6411-436d-84f6-f81c55b1fe85,Home & Kitchen,1,Store Accessory
+00cba302-ca47-44fd-b790-9508e78aedab,16d10d1d-9aba-4002-b3ed-535c3f865f9b,Home & Kitchen,1,Admit Item
+00ccd7fa-f5f3-44c9-92ff-606422733cec,3c5d75f0-0b0c-440d-b17e-4f2ddaf4734d,Clothing,1,Believe Item
+0127b98d-d15b-4ac9-8572-4b1cfddb731e,1391b5ab-04f3-480c-9e40-9a0d05449ac8,Home & Kitchen,1,Group Device
+01291205-14bb-42f7-91d7-7ada23d0f035,08535f38-cb03-4264-91a8-7238a65c26ce,Books,1,Perform Tool
+01f9d74f-9289-4d3c-b3df-04bdd4f9abda,52eca69d-ab8f-460d-849a-34196a01fcf5,Clothing,1,Interview Item
+027212f1-388a-40c7-983a-e75ff5c8c97b,5c253904-c0f3-4cf9-a6cb-942ed6f1bbd4,Clothing,1,Watch Item
+027aa221-5c36-442e-ae72-763febbf4ca5,1834487c-8972-494e-aada-1c0c4406ce18,Home & Kitchen,1,Blood Device
+02c05b25-f699-475d-83d6-ab3b851bba5d,33e68e81-78cf-4802-bae2-6264c26c5955,Electronics,2,Class Tool
+0352e950-d011-493b-8c8c-76718ac62829,11182f56-ff77-46e0-9bd2-ab3fb6c353ee,Clothing,1,Or Accessory
+038c59de-4eb2-4fbe-a8fe-66162261fc30,0e44853f-7a45-400b-ad30-8d017061acb8,Toys & Games,1,Common Gadget
+0392d36f-47e8-4354-b752-b83462a97b77,2a71b6af-8e79-4743-a320-24de972782fc,Grooming,1,Including Tool
+0479387c-431c-4b7d-ac55-daa1cc18cedd,273acc70-97dd-40eb-9cb1-89b5884e5488,Books,1,Able Item
+04882464-721e-4882-add5-60b6500b5c15,717cb81f-9a7b-4df3-a931-27b933957297,Electronics,1,Seven Item
+04d2d8c2-2465-4033-912d-2a897b72dbd4,1da4805d-fa32-4668-a651-9c73346238fa,Electronics,1,Full Accessory
+053a9d0d-9cf0-43bf-82a4-fb8567a8d1d8,78c03f6f-6572-4530-84b9-90a65dfd7b5b,Home & Kitchen,1,Standard Device
+05688e9e-7c9d-41c3-b33a-0764eddde18e,24ec6b91-cfbe-4857-afa1-4863fd88e626,Books,1,Ago Accessory
+056efa21-b63e-450b-855f-602738883666,3ec3a4ec-9311-47ed-a1af-218671f896b6,Grooming,1,Free Item
+05d7b3e3-2139-4d3e-af51-c955db2066f3,08123435-71ce-4b16-aab6-57996a1d0aae,Electronics,1,Level Tool
+05f34d24-dd71-4483-bfe3-1b02baaf4eab,98118517-b88c-43cf-bb0b-833250d175c6,Home & Kitchen,1,Into Item
+06720638-6f48-4e76-96f7-3617c930ea81,e6663d2b-388c-44ba-9498-1ac89828ffe4,Home & Kitchen,1,Film Tool
+06dae348-48ea-4407-9f19-b50e56994a92,831b9dfa-feff-4e0c-a2c1-c3a39060b25b,Electronics,1,Impact Accessory
+06ffe81d-d038-4555-aaca-46c7eba582da,ae84da21-1c2e-4ede-a854-fd6f3970712f,Grooming,1,Worry Gadget
+07eb0867-307c-4da7-9b24-a350641b3649,47383451-bf35-435b-9fe7-0a4e646a40d2,Home & Kitchen,1,Attack Device
+08525068-0a48-4b3d-8c0c-aaeab00a39f6,0fc2d2c2-4810-44d5-89c0-42b084ef2eb7,Clothing,1,Director Accessory
+085b1124-69fa-4033-9022-b4780c93cdbd,00bc0a78-2f79-4801-9e94-b99285be5962,Grooming,1,Region Accessory
+0870636e-3c4a-49ae-b04e-040589002e8f,33e68e81-78cf-4802-bae2-6264c26c5955,Electronics,1,Class Tool
+0886e106-474d-451d-9fd4-c4fe823dff46,6ad2c871-b97e-482e-879f-1f1e8adde1a7,Books,1,Thought Gadget
+08c4007b-820e-4d87-8c46-8db528e2e856,2a9bbac2-ad67-4f99-9ec7-a12637d42ef6,Toys & Games,1,Yourself Item
+08d854b7-b774-4a89-806e-0288682b0ba9,0394668b-8087-428c-bf2f-1b7c967ec967,Books,1,Usually Tool
+08ee7f00-6b40-4300-b559-b2229586b52e,086594a2-a208-456b-9061-59a6fcb0de93,Grooming,1,Old Device
+0a1a7825-ee00-437a-9045-b332a70a9ab7,1834487c-8972-494e-aada-1c0c4406ce18,Home & Kitchen,1,Blood Device
+0a22f791-045e-42cd-9135-0135cd5b91ee,60e3ed95-1400-4425-9087-319ab6a9074d,Clothing,1,Avoid Device
+0a569e84-96c0-461c-9c74-7738410fda5e,21c6e5e0-c7fb-401e-a2f9-e2e50120ce8f,Clothing,1,Including Tool
+0b1a9d83-1842-43eb-a0a9-4b39ae7ce0a4,286a6370-9942-4fb6-82ed-826c5c00b901,Home & Kitchen,1,Buy Device
+0b317811-b800-41c4-9e31-bfd0522263e7,14568827-ba50-4978-bb08-457107d6b316,Electronics,1,None Item
+0bc1cf1a-f76d-467e-b346-319335f5a8f1,583e887f-7c87-4dd6-8fda-1087d0197589,Books,1,Ok Gadget
+0c0a8f9c-6abe-4805-9341-daac77236245,0edb4e1b-4fc7-4e88-8b78-2d23dbe56326,Clothing,1,Game Gadget
+0c6470a1-6653-4671-a843-be2733c8f11a,405254a5-0815-438a-9e63-0f6675dac6d2,Grooming,1,Model Tool
+0c7048b1-6b92-4cfd-b70b-11227d05ba72,39013af6-089a-46f4-9f1a-850b0903c3b3,Electronics,1,Without Accessory
+0cad01ef-4388-4184-b923-cefd32e86405,09ef1c6d-86dd-4755-8a51-56632014418a,Grooming,1,Kind Gadget
+0d54459a-5f10-45ee-ac7b-a2e728d9f65b,15268fb1-5d08-459c-92bd-fe1d1574c554,Home & Kitchen,1,Report Device
+0dbabf2b-4934-45c7-8138-ed23680c2e22,1391b5ab-04f3-480c-9e40-9a0d05449ac8,Home & Kitchen,1,Group Device
+0dde95ae-4628-4dff-8b73-f18aa9ea552c,17e9e463-fa72-4647-8a38-4f680330eae6,Electronics,1,Break Accessory
+0f2da294-628a-4cee-8687-d75d72c4a580,099415a1-36ce-451c-83a2-810608eac402,Electronics,1,End Device
+0f5a1abc-69a6-4411-8878-d24e4e42e741,7773f7a5-4f10-489e-a561-1f332342556d,Grooming,1,Fall Gadget
+0f966322-5813-43df-8131-b12ffc46907c,04697b66-383a-4d0f-98ad-b4cf7f1cb8fa,Electronics,1,Pretty Gadget
+0febe9e1-7698-4788-af01-5316c29249fb,3edba62d-62db-4a7e-8a90-a7fe948159c4,Clothing,1,Worker Item
+108995b1-dd7e-48c1-9d45-b71b4717942d,2d260f81-f6a0-4eeb-80e3-4623fcab6e2d,Books,1,Read Item
+10dd74af-1610-46df-ab20-e6cbd3ff8446,172dd57b-9c62-4b7d-893b-500ed52fdb3f,Home & Kitchen,1,Least Tool
+11558fa4-1357-48c1-a687-30756ab033a4,2b7c4285-245b-4eb4-b0df-f5526e8b0cb6,Books,1,Ball Gadget
+11a18a72-ae14-4831-85a6-dc7f1639a94e,12cf8e59-3e62-42ce-83e0-c88e4c7e32c4,Home & Kitchen,1,Knowledge Tool
+12343e70-cb71-4635-a5ac-7da602ea4f2b,7aea05a4-6359-45d1-9105-d84cc3263642,Clothing,1,Smile Device
+12a61697-2d52-4598-a1cf-ffb37372f0c3,94ca8843-592f-4c99-98c0-d3e96660f434,Electronics,1,Require Item
+12b56ed5-ab3d-41c9-b5a9-69e91932dd47,361e318f-50b8-4d31-8c7c-f51ef6336fc0,Home & Kitchen,1,Require Tool
+12d80553-b5f9-4460-82e8-071b4540c895,335a2e5e-2891-4182-9520-ee06aa95f5a2,Home & Kitchen,1,Full Tool
+131cb845-1236-4d42-8143-4b1194af2553,08535f38-cb03-4264-91a8-7238a65c26ce,Books,1,Perform Tool
+139a0519-2d2e-4591-802a-81473e5cb976,9169bd11-71e9-483c-924a-bf3d80b4b198,Books,1,Rise Item
+13a769ff-e8e0-4e7f-bb03-4010985fa843,0103a560-2deb-4db9-84fb-d88394bea575,Toys & Games,1,Nice Tool
+13d3bb67-d39a-4cd9-ab6e-eae3d875cb94,1c5b5474-7394-4fa0-b49c-ddc935070585,Grooming,1,Response Item
+140edf79-fb7c-41b4-9bc3-b14ea1603ba9,086594a2-a208-456b-9061-59a6fcb0de93,Grooming,1,Old Device
+1473d324-f664-4494-b7bd-cec15295a0ba,09be7f99-db41-42cf-9e4f-91d66017dea2,Electronics,1,Day Device
+1514ae0c-a2b5-4bc0-9234-9b341bbdda1c,2cbf339f-cd28-4972-a9f0-f4c8aebcdcd6,Clothing,1,Collection Device
+15342c9a-8653-475d-83d6-07adebecd25e,12c6b87a-8e76-4e71-a22e-d2643fc83685,Clothing,1,Must Device
+155d0d15-f87e-48e8-8aad-4c5f63b7f730,62e4d432-acb6-4b17-8cf6-2373ce96e6fc,Clothing,1,Individual Item
+15918d62-104e-4a17-8dc4-fb3cbf6e83ea,64cbb204-4178-4757-a7ac-59f1d810eae3,Electronics,1,Race Gadget
+15928958-7532-4f14-a1dc-1cb64cbb1dec,00bc0a78-2f79-4801-9e94-b99285be5962,Grooming,1,Region Accessory
+159c52a8-1b03-4556-a031-54769863501f,e5ac7e14-7d6b-44ac-969b-ff893247a2b9,Clothing,1,Break Gadget
+159e1eb3-d02d-4a92-870c-aa055c267c81,0103a560-2deb-4db9-84fb-d88394bea575,Toys & Games,1,Nice Tool
+15b06671-9ea1-4637-b15e-31d3958571c8,3a72aa2f-c8d5-41ba-96d9-8cc256ebb57f,Electronics,1,Maybe Accessory
+15e4212d-d3d3-436b-89cb-ab6319c79e3e,4df43329-9011-4ded-abaa-7f1710569e3a,Electronics,1,Wide Accessory
+15f35ec0-55db-4171-a6d3-60e38533a404,457be892-8595-4c3c-8915-4974790e2fc6,Grooming,1,Away Tool
+1601c838-44a0-45af-8ed8-47a41f0c2542,1770e12e-6b47-446c-9558-078cc4bc1961,Home & Kitchen,1,Think Tool
+166246c3-a138-44ef-b6d0-6e5b73e97696,1126449a-5bc1-49e7-85d0-d5f7f5e463ac,Toys & Games,1,List Gadget
+16629c5c-4f65-44ed-adf5-87fca5287126,19f6cf7e-559f-4a26-bc8c-6941650200fe,Toys & Games,1,Can Item
+1676a522-7740-4e2f-8c1d-bdcfa7e658ed,409878ab-7ff0-46a6-9f9a-894f09c12265,Electronics,1,Fact Gadget
+167a30ed-3eda-41a3-b7ed-c30a444fba3a,361e318f-50b8-4d31-8c7c-f51ef6336fc0,Home & Kitchen,1,Require Tool
+16926dde-7cc3-4609-8898-03d55849058f,34b819e8-9fa4-4fe2-a5b2-e655ed265e59,Electronics,1,Customer Tool
+16f82d8d-7b4e-482c-ad78-eb321ee321ae,2c4eb7af-3d30-4aed-b5ec-e1e363957fe3,Grooming,1,Newspaper Item
+17bffa6e-f7d2-4cb9-8e90-3ed4f34d07ea,2b287e9c-893d-417b-af39-1079274722f1,Clothing,1,Talk Tool
+17cf9c11-6f77-44be-8429-91ff569b8dd0,1834487c-8972-494e-aada-1c0c4406ce18,Home & Kitchen,1,Blood Device
+1829f643-7712-4a91-93f8-dff7aa69d38b,0fc2d2c2-4810-44d5-89c0-42b084ef2eb7,Clothing,1,Director Accessory
+183b3f77-e05d-4fb9-9e8b-7cfac2c14c18,0d7c21e0-06d3-4b44-9e6f-22fc1e8f28f6,Clothing,1,Again Accessory
+18cf16ab-6f34-4a82-b2a6-e9433f4dc182,48882c35-caa4-49c4-9ff2-88a8ba69bb54,Toys & Games,1,Card Gadget
+18f07f07-4184-4f1d-a94e-a832b388f155,07b67fd5-d8b5-4c76-af5c-08c72453aa83,Home & Kitchen,1,In Gadget
+19ec4f28-7ab0-4fd9-bf6b-3a4a25289bb4,037a0c4e-ee87-45db-b16d-cd5f0615d477,Grooming,1,Pull Tool
+1a3f1cb7-519d-4107-9908-df1a4efe5b75,34b819e8-9fa4-4fe2-a5b2-e655ed265e59,Electronics,1,Customer Tool
+1a95b46c-34b3-4b09-b17a-74e69094d6e5,14568827-ba50-4978-bb08-457107d6b316,Electronics,1,None Item
+1bc88505-a554-4a42-ab52-0a55f03ebcd4,54eb268c-7a36-4d18-8403-c4edff5add01,Electronics,1,Key Accessory
+1bdf769d-d299-4fb8-bdbf-4c2eafb4cc08,25061433-fa55-4568-96eb-7fec300a598f,Electronics,1,Street Item
+1be94bf0-6f01-4460-9292-d037ec5e1551,0394668b-8087-428c-bf2f-1b7c967ec967,Books,1,Usually Tool
+1c20907d-fa48-4fa7-a294-845963c9aaa4,c6f04816-d27b-495d-a6fe-dbc3a65c2c88,Toys & Games,1,Those Gadget
+1c37c921-4166-4644-beb0-560d434f6714,dfcb9f52-91d9-48ae-9288-2085a8c1795e,Toys & Games,2,Happy Item
+1c8779c8-0322-4cbf-a44c-6861a78fad19,0fc2d2c2-4810-44d5-89c0-42b084ef2eb7,Clothing,1,Director Accessory
+1ce1458b-9f86-42e8-9828-6e0a91d1677e,2ca7eb84-b199-4c21-a735-aefcb851f124,Clothing,1,Key Item
+1ce8b2e2-4070-46b0-bfeb-2ff157147e0e,48a6e9d7-febb-4d48-9eee-80c536616a2c,Grooming,1,Draw Accessory
+1d389875-eab0-4988-8193-7281d7f0a584,0ba6b90d-e5dd-44cc-923d-9ac4132b591f,Books,1,Include Accessory
+1d3cb10d-922b-49b3-9d5a-8195c5e5c4bf,0d1036e7-dda8-4f99-9a20-065b2408721e,Clothing,1,Compare Device
+1d48bde2-75e0-4abc-967e-85052b826ec6,41b03990-2e15-4f98-8ca1-68c95baf5190,Clothing,1,Car Gadget
+1d5d76e8-13a2-4f63-9c52-524a9dff7d37,247082a1-3fde-4cfa-b78c-71ed15cb903d,Home & Kitchen,1,Your Tool
+1e6864b5-0536-4807-9a30-a65a30d491af,00bc0a78-2f79-4801-9e94-b99285be5962,Grooming,1,Region Accessory
+1e6a1cab-f27e-4782-96a4-cd2192c14ce8,1da4805d-fa32-4668-a651-9c73346238fa,Electronics,1,Full Accessory
+1e83f3df-2778-480a-a65a-0e0005efb03f,19e19931-7348-406b-882a-9ae560da22bf,Electronics,1,Real Tool
+1ec7bef2-26f7-4438-b130-7f2f97c955ce,2fd07bc1-6bb6-4433-97cc-9807df31ec7e,Home & Kitchen,1,Member Accessory
+1f26e19d-eaeb-4df8-8059-0be1bb40cabe,02f2e42f-a28a-4896-aea3-e74e866eafb5,Clothing,1,Use Gadget
+1fe0a869-7f9d-458d-b60b-5319d8b671c2,51fde498-e7b0-43db-9f0d-cc3b57741640,Clothing,1,Tree Gadget
+20c5575d-4d9d-4abd-a158-3dbd178f0632,12c6b87a-8e76-4e71-a22e-d2643fc83685,Clothing,1,Must Device
+212fb8eb-b068-416e-9f31-7ce365dc82f3,15820f22-0da3-4f46-9ccb-05df68900e59,Books,1,Film Accessory
+213262ee-b507-4b99-a7fa-b5f5b8ee08fc,1ca4df27-35cc-4e4d-a207-2b7a5f02da72,Grooming,1,General Item
+2185e2bd-16d6-4ad0-83b2-b62707394ed0,5d83de7a-5b4d-488d-a602-460036f234d5,Books,1,Seat Device
+219cad78-a604-4034-8f41-3c19d812c828,33e4fc42-c1cf-4a9f-bda7-34f72e2a1e31,Electronics,1,Give Item
+21d80d3a-ba97-4b02-baab-91113343af47,39013af6-089a-46f4-9f1a-850b0903c3b3,Electronics,1,Without Accessory
+21d93e24-0735-4389-882e-897e4980d973,76e19936-f46d-4478-93f5-c6bd85f320cc,Electronics,1,Town Device
+21e0b721-727a-4621-ac2c-cb92e27143e5,2fd07bc1-6bb6-4433-97cc-9807df31ec7e,Home & Kitchen,1,Member Accessory
+21ecb0c8-0bca-4735-837a-6af5b9ebf32c,2a42c0ea-6cd7-471d-bddf-0f3f300a4500,Clothing,1,Adult Tool
+2265f86d-8496-4a35-a89c-0861b26e54d0,0394668b-8087-428c-bf2f-1b7c967ec967,Books,1,Usually Tool
+229a1b60-4d99-4771-9fb4-07cb88a27149,037a0c4e-ee87-45db-b16d-cd5f0615d477,Grooming,1,Pull Tool
+22b0873c-f96d-4fe3-aca9-c85278224e74,3050d7f9-5630-421f-a88c-ffefd98d39dd,Grooming,1,Dark Item
+22d685bf-d35d-4c04-96af-6db46d5b6c06,55c08464-7ba8-4c66-b164-4ef7a2082716,Toys & Games,1,Smile Item
+22efcc36-a0d0-40e4-a1bf-07ae40ad3a35,a94c6ddb-1cc6-4ef6-b300-06567cc1b3ee,Electronics,1,Second Accessory
+2353a728-d35a-4576-a40f-81513475a9d1,01944e2a-9b1d-4efc-8d56-6949109cb29a,Home & Kitchen,1,Operation Accessory
+246670b7-1287-467b-abad-929c03061212,b162c8e5-e474-4d2b-9925-8eaea0ad3e74,Grooming,1,Listen Device
+24cb0df5-7ad4-4717-8d51-1b1f8c6e04ea,0e44853f-7a45-400b-ad30-8d017061acb8,Toys & Games,1,Common Gadget
+24e3ccc4-c0c4-4f74-8569-4ffc423cfe1b,e026328b-58fd-40f8-829c-d4d3cfc1a660,Grooming,1,East Item
+24ee0f39-1a01-4499-b884-46cae08c1da9,6d5c0243-3b41-4da0-a415-590661ddfb57,Electronics,1,Nature Gadget
+25428225-27fe-4bcd-8c70-a2a51d23052d,273acc70-97dd-40eb-9cb1-89b5884e5488,Books,1,Able Item
+254ad4bc-13bb-4825-acb2-11b1cda450a9,1db866d7-725f-4067-bf9e-a0d726cde3d1,Home & Kitchen,1,Blue Device
+25a158c8-8d68-4972-85d0-e1adcbae3af8,0a59a01f-7137-4aec-af23-1557687725ca,Clothing,1,Vote Gadget
+25a1e298-2705-4e86-836a-25823b4ed6c9,1c2d3a67-36fa-4193-8132-a32e94893f51,Grooming,1,Reach Accessory
+25c82844-3ad0-4cbd-9096-fa219252721c,94ca8843-592f-4c99-98c0-d3e96660f434,Electronics,1,Require Item
+25fe62c7-f362-45b4-be8c-6e50cbada614,2f48c343-c36e-437c-9fe1-660db83478e4,Toys & Games,1,Policy Tool
+26203f63-21c4-4567-99aa-abe4f745e3f8,47f0a6bc-4feb-479b-a2bd-39fb5fa67162,Electronics,1,Look Device
+2669bf73-2150-48b7-b22f-baf73b7147e0,1183479b-decb-4bbf-8383-f24b827c1fa7,Toys & Games,1,Lawyer Device
+268ef364-1da9-4465-8375-12903432ad2c,45c76d4c-15d3-4956-b5d2-90beccc552e9,Clothing,1,Wind Gadget
+26f91a95-fea0-4e10-bd65-d63e588b71c2,7773f7a5-4f10-489e-a561-1f332342556d,Grooming,1,Fall Gadget
+27412cdd-d8d6-496e-aa6a-7918cdef8988,9511bdac-96cb-4f79-b971-426f22a5bef7,Books,1,View Item
+2785b581-b6b3-4e4e-8a51-ce3cdda1e8fc,3bbefe33-3395-46a1-a78a-24e2cc491cfc,Toys & Games,1,On Gadget
+28060de7-8db9-4e92-b112-597530e4d422,08123435-71ce-4b16-aab6-57996a1d0aae,Electronics,1,Level Tool
+2852c6c5-9326-47e1-9988-c66a5c2ec0ca,1da4805d-fa32-4668-a651-9c73346238fa,Electronics,1,Full Accessory
+285fad2c-e8ab-4902-9f08-1d638f28af2d,0a59a01f-7137-4aec-af23-1557687725ca,Clothing,1,Vote Gadget
+29025eaa-41b8-45b9-9bf1-3a013b1d842c,6d6b94c6-2f10-407c-b4fc-7f15a92a1297,Books,1,There Tool
+29a57e34-ad1b-4ca2-8983-ef6d68eb90a9,2ef5fa65-a85b-4d1f-96a2-4abe59d3dbc0,Grooming,1,Somebody Gadget
+29aa2fb7-dd9d-42c3-a79b-a6373d34699d,430953df-83a6-4cc5-aeb8-da55a9ff1108,Books,1,Story Accessory
+29c9b12d-9272-4ca5-bd91-8c0f69f6b0d8,1391b5ab-04f3-480c-9e40-9a0d05449ac8,Home & Kitchen,1,Group Device
+29e5f12d-99ad-4432-a9e3-2b233ccc9d7e,461251ee-4bd6-4900-a038-bb9603a4f0dc,Clothing,1,Return Gadget
+2ab1de50-715a-4a08-81ba-79f32b587b63,0927a1da-7c17-4d3d-986d-8d02b11c61b1,Grooming,1,Identify Tool
+2ac69ec3-b75f-4375-8872-74cda68e47e5,537d15fb-c3d1-4c6d-8e83-08964294b47e,Books,1,Final Tool
+2ad138dc-8ac6-4733-b997-fbfc6cc3a25e,19f6cf7e-559f-4a26-bc8c-6941650200fe,Toys & Games,1,Can Item
+2b5d48b0-45ae-46b0-a3ed-67728f040918,4ce39819-8910-4aad-a140-2e5bbaad2f61,Books,1,Window Item
+2b8f4c67-9ac7-4fc7-acf6-8c62cfee12bf,09f60643-2863-466b-9657-e1e610d48c55,Grooming,1,Prove Gadget
+2c1881cb-32dd-47f6-a683-4057f3f03ba8,00bc0a78-2f79-4801-9e94-b99285be5962,Grooming,1,Region Accessory
+2c1ee99e-08f3-4d2b-976b-48e38340f36f,08535f38-cb03-4264-91a8-7238a65c26ce,Books,1,Perform Tool
+2c498a38-e45f-42ca-9688-1ee630dc3a9f,01a50166-7541-4bf8-b59e-c0262dd8790d,Clothing,1,Any Tool
+2c900f82-9959-4e56-857e-1c7d66c77e1b,04697b66-383a-4d0f-98ad-b4cf7f1cb8fa,Electronics,1,Pretty Gadget
+2cda29a0-e770-4621-8d0d-7ddf383b2ef5,30adbf4a-35c2-4f31-901d-a3503124d79c,Toys & Games,1,Ball Accessory
+2d13f98a-feec-470f-81b7-1a488447585c,15ae2cd6-760b-46b6-b595-62201c032611,Home & Kitchen,1,Skill Device
+2dad3fc9-dfe0-4999-bd82-e58a73375ca9,08b69462-b596-4835-a0d4-582866f8e93a,Clothing,1,Than Accessory
+2db2ac6a-b131-4e05-8dbc-2a57cce971f6,0fb1039c-618d-4b3d-9ee7-ca0ef76cbdbd,Clothing,1,Rather Gadget
+2dc5da46-1a1b-494a-ad86-446852aa4727,2a031c38-4c9e-4434-9c79-35439ecf11ad,Toys & Games,1,Role Device
+2df9fa8b-34e3-458a-ad69-ff14e1463092,0927a1da-7c17-4d3d-986d-8d02b11c61b1,Grooming,1,Identify Tool
+2dfcc9c3-ab23-42bb-880b-463139081377,219459a8-b0fa-4dc4-936f-ed8c2ab5158c,Clothing,1,Community Tool
+2e59f5e9-5d30-42d1-85d7-a09284f87b34,5ead8c68-fe54-4207-8fd3-57cf017e029c,Grooming,1,Nature Tool
+2eda7631-bfcf-4056-a624-365b88c7ed34,0edb4e1b-4fc7-4e88-8b78-2d23dbe56326,Clothing,1,Game Gadget
+2f1d1946-c6d0-49e3-95ef-bcc939ab119c,0ba6b90d-e5dd-44cc-923d-9ac4132b591f,Books,1,Include Accessory
+2f3d596d-ef1a-432b-a636-187d0d822741,2c2cddd1-37eb-4152-81c8-1ad436d31f95,Books,1,Likely Item
+2f693901-8ea7-4c6c-aa8a-7567310052a4,ad018da7-5d57-47a9-85de-b9472a7cccb9,Home & Kitchen,1,Clearly Tool
+2f993dd0-00cb-4a50-936e-4c2eead4a4bf,49d6c7e6-4b8e-44fa-b3e1-fb233f7090b1,Toys & Games,1,View Tool
+2f9f05d2-dbd0-4b7a-aca1-5cc1964460ec,2a22a2f8-bd28-4884-a9c1-7408dfb8ced1,Electronics,1,Between Accessory
+2fcfdcd2-9592-40ab-8939-1a1298b72802,01a543e0-caf3-403b-bf8d-cfd8448891ea,Home & Kitchen,1,Ground Accessory
+2fde3dd4-a0d2-4010-8f38-daeaf1f57eea,247082a1-3fde-4cfa-b78c-71ed15cb903d,Home & Kitchen,1,Your Tool
+2fea74b8-8809-4ea1-8e01-a678ae4d88c2,08123435-71ce-4b16-aab6-57996a1d0aae,Electronics,1,Level Tool
+2ff16b4e-50f5-4695-9947-a4d3526dc44f,05452488-a414-4a6e-8793-2795b1a2b2ff,Home & Kitchen,1,Cause Tool
+30668a26-dcfc-4918-b898-d7f5d00012eb,02568189-e510-4714-84c2-4f3d551dbb80,Toys & Games,1,Bag Device
+3066d93a-e579-446b-9b4a-7284369c6d9b,1ee29065-58af-4437-b53b-81713d65cb3c,Grooming,1,Most Accessory
+307d90e6-27bd-4524-b828-0acc0ac2d066,2ca7eb84-b199-4c21-a735-aefcb851f124,Clothing,1,Key Item
+3100914e-06c4-44aa-ab25-bfe2b326ae5e,0103a560-2deb-4db9-84fb-d88394bea575,Toys & Games,1,Nice Tool
+31382ff9-aab0-4ebc-9a7c-c0a26ecaa7ab,0ba6b90d-e5dd-44cc-923d-9ac4132b591f,Books,1,Include Accessory
+31428535-8819-4b93-809f-bb4b4587e3f1,0dc29c8c-90bb-4d0a-9569-694cc7242802,Books,1,Ago Device
+317ff0f2-01c0-41d5-859c-245e7a9317d0,0a934664-546e-4917-b701-ba9570c2a2cb,Home & Kitchen,1,And Item
+31956f02-9252-4612-b55c-c0b28f6fe0e8,29d58eca-d13d-417f-8b72-a18e8270cc21,Electronics,1,Clearly Device
+31bc098e-24a7-488b-9370-c77a0c771d99,68a88899-7d0b-436d-8137-5ea4a0f3afc8,Clothing,1,Find Tool
+31d14338-846a-4816-aa2c-cde1efe2190a,8d546f3b-7c25-476f-94c2-9c5d3ddf9e74,Grooming,1,Language Device
+3232f1cf-e243-40c9-a3f9-5a7a7514b528,49b9ed3f-34d3-4ed5-b74c-073bf7f4cb4f,Clothing,2,Many Device
+328bb4d6-81b7-478e-af9f-847b21da5faa,2ae3603e-36b8-45ad-9bd2-5397dea12c44,Electronics,1,Arm Gadget
+32ab9333-7b75-4957-8ffa-5c31ee912931,2d260f81-f6a0-4eeb-80e3-4623fcab6e2d,Books,1,Read Item
+33200f64-1c3f-4344-8e1a-edd9d0cd522e,037a0c4e-ee87-45db-b16d-cd5f0615d477,Grooming,1,Pull Tool
+332ba580-7c8e-4e51-9c06-22dc6c04b78b,818ea543-e640-48f1-b91b-90718ae9b0a2,Grooming,1,Break Device
+33771677-ad05-4fc3-a385-d5d753f5a16f,4d88d612-4977-4077-b04c-c74c8736ee61,Clothing,1,Let Item
+337a24d2-7adf-4cf3-8783-cce6f18407f3,30f94137-7355-4742-a288-6b787de75a7d,Home & Kitchen,1,Goal Accessory
+33953db4-778b-44cc-9f4f-f332b793f645,731dc1bb-9be5-47a7-9570-10914e8194ff,Home & Kitchen,1,Authority Gadget
+33cc3547-527b-49d3-86a4-89d2ba2a5440,a05dbc82-0cfc-492d-b423-870c4b882173,Clothing,1,Option Gadget
+3414491c-216a-41b0-8a25-023688133b69,2a42c0ea-6cd7-471d-bddf-0f3f300a4500,Clothing,1,Adult Tool
+342ff4be-27dc-4879-b8b8-89c9e7976008,5b2dac70-0d24-45b8-aa26-e438f738880a,Books,1,Remember Accessory
+34773ab2-1583-4d9a-8e83-5b419d6f8d14,15820f22-0da3-4f46-9ccb-05df68900e59,Books,1,Film Accessory
+34f1afb7-93db-4ce7-ac07-296d112d7de5,23b5e905-578a-43b6-8574-a2e73b343450,Books,1,Task Gadget
+3518e653-098e-47c6-b7e7-325758a99362,18bfcf6b-b8ac-49cd-a8d5-a73c0bdb2177,Electronics,1,Idea Accessory
+35c8fd31-03c0-4b36-a66f-5c6938bf6993,19f6cf7e-559f-4a26-bc8c-6941650200fe,Toys & Games,1,Can Item
+35deea56-0b0f-4f59-9443-a84fb985e34c,24791299-af5c-4edc-beca-6aabbd941e27,Home & Kitchen,1,Admit Item
+35ef5fc3-6256-4752-bae5-dcd9edd349f4,84cbaf51-bd8d-42a8-8585-eb7a78a5166e,Electronics,1,Land Item
+366f582c-758a-4e8e-89eb-596ba5eec746,2baca05a-86be-481e-8622-ea3f8af6e5a7,Home & Kitchen,1,Yourself Item
+369a6a07-8238-4654-bc90-99154de5dc17,0927a1da-7c17-4d3d-986d-8d02b11c61b1,Grooming,1,Identify Tool
+36b21f93-fa6f-4d69-9d0e-8439ae961841,08535f38-cb03-4264-91a8-7238a65c26ce,Books,1,Perform Tool
+36be7146-0954-4c70-a9ee-89c684eadd2f,0d7c21e0-06d3-4b44-9e6f-22fc1e8f28f6,Clothing,1,Again Accessory
+3754624d-c35b-430d-b83a-76ba60891960,1aaf6315-f4b9-4fb4-902a-1b20b88da46b,Electronics,1,Or Item
+37c417ad-6c0c-4ba7-96c6-806abf0a8b03,2f8e1631-e971-4b8f-86da-0427b0bd1612,Books,2,Just Device
+38180733-c0d3-46fd-9bf8-8e008d7339a0,107ca01e-fc3e-4a07-9713-e7ed03db5247,Toys & Games,1,Movie Tool
+383c894a-6026-4dbd-913e-f8da2575b46d,f6c7b777-56ab-4d4f-8798-be064c766234,Clothing,1,History Gadget
+389836be-4160-4671-9f4b-133cc07b32cc,0d1036e7-dda8-4f99-9a20-065b2408721e,Clothing,1,Compare Device
+38e55a82-2a5e-4732-98e6-1c6c13c0c91e,23b5e905-578a-43b6-8574-a2e73b343450,Books,1,Task Gadget
+391dcb6b-b19d-4271-b791-cc2e0d717a2d,04e02afa-3aba-44aa-af18-4b638ffe376b,Grooming,1,Guess Accessory
+396d90e1-3c6d-4676-bd87-dbf2735e3250,48a2b635-7924-47fa-8cdb-aad15aafd363,Toys & Games,1,Eye Item
+397b2527-54cc-4265-a300-b6e93fb8f554,7205a98b-7334-4fd4-8ba8-43e530cd57b4,Electronics,1,Degree Tool
+3aabaee2-cfab-4de0-b08b-e685e4dab715,0edb4e1b-4fc7-4e88-8b78-2d23dbe56326,Clothing,1,Game Gadget
+3adc0304-7c76-481a-89e6-9894a869e0b1,01944e2a-9b1d-4efc-8d56-6949109cb29a,Home & Kitchen,1,Operation Accessory
+3b74c848-0e87-43f7-aff9-fa0513cc2a1d,39e527b0-a4b4-48eb-bb0b-e3cefdd1b38a,Books,1,Meeting Gadget
+3bb5baaa-6c33-42a4-b252-405c2a0640a5,110d64b9-f23a-462b-a629-f70671ba09d4,Toys & Games,1,Cup Gadget
+3be2c780-ba6f-4b56-ab5c-5d728a4c8f0e,3f722dd1-3d68-412c-8f84-3974e45711f9,Home & Kitchen,1,All Gadget
+3c2725e5-1788-43d5-a38c-645a757b0cb2,0b343f7d-906d-4cf3-83fe-096b85952205,Electronics,1,Put Gadget
+3c6885bf-5a61-4e2a-87b7-e144dd8ef391,2c4eb7af-3d30-4aed-b5ec-e1e363957fe3,Grooming,1,Newspaper Item
+3c7370e9-2c39-4f6d-a3f8-962265c5b217,0f50195f-56a3-4ac5-b321-24dda796a045,Home & Kitchen,1,Rather Gadget
+3cd37a1b-577e-4290-b987-246772ab3deb,2059d4ed-ee4a-4b64-a056-82f507dca85a,Clothing,1,Policy Accessory
+3cd78f2b-5476-44ed-87ae-d6d3be5a9dcf,210591db-4d02-4242-8441-277e5cd66cf5,Home & Kitchen,1,Their Device
+3d00e39e-aba4-4381-8651-d12356b7b79c,108be0f5-6018-4397-a343-d1c03247fbc6,Clothing,1,Want Gadget
+3d17d388-c9e0-4708-bd5f-71d09bfc8c5d,19dc58dd-651a-49cf-8d55-d32fba551870,Toys & Games,1,Kid Gadget
+3d18685e-86f6-4b25-8091-e205edf83a20,6ec40e16-d853-456e-82bb-63630b480628,Books,1,Too Accessory
+3d395c08-a4f6-49e6-96fb-da6c4ad97270,68a88899-7d0b-436d-8137-5ea4a0f3afc8,Clothing,1,Find Tool
+3d4536b2-106b-4780-a487-662bdd6505d9,27809ea2-f6af-4025-8604-aaa0dade0c43,Toys & Games,1,Sit Device
+3d88220e-977b-4fc7-af35-cf7db5b3d537,3ec3a4ec-9311-47ed-a1af-218671f896b6,Grooming,1,Free Item
+3dad58e6-969a-4278-b12a-3affb5b65c6f,30971e67-6f01-46fa-a30b-129a4fd81463,Toys & Games,1,Particularly Tool
+3e29ed11-6fd5-4874-a896-27af22c17b63,00f4b02e-4f14-4dea-a66a-0ef602d7bb2e,Clothing,1,Performance Tool
+3e34fc13-2628-493e-b68c-4af289e9f797,17bd8e0e-5ec1-4b92-9eab-32332cad9e80,Home & Kitchen,1,See Gadget
+3e3d4138-ecc6-431a-8f93-980ec7cc7e09,25061433-fa55-4568-96eb-7fec300a598f,Electronics,1,Street Item
+3e500c09-472e-4a11-a5fb-7231a62dbb3a,58e18a3c-3cfa-40b2-8c9d-cc2b4b764fd3,Home & Kitchen,1,Party Tool
+3e5b07ee-bd56-4f57-9158-b93fbd5f3295,3fc93285-6bc0-4805-b92d-3954322dd4f3,Home & Kitchen,1,Modern Gadget
+3e5d9199-d540-4399-bfc7-cc15b348581b,5093f145-804b-4be5-b572-f8b6ef528948,Grooming,1,Must Item
+3ea4909b-47df-48f3-a1c8-0143fe7fa0e6,03fdd1ff-dac0-42d4-9ef5-bfc80ef0faeb,Grooming,1,Feeling Gadget
+3eb43c5a-520a-46dc-9032-1ca85328897d,9cb85991-172b-4cc5-8b49-cc291064881e,Home & Kitchen,1,Apply Gadget
+3f379dfe-83b2-46fe-b5df-dcb832ab69c2,04d1a35d-b272-43da-8ebe-8ef4f94137ed,Home & Kitchen,1,Increase Tool
+3f388fac-2d30-491e-9ce5-dd69dad8a4ec,19dc58dd-651a-49cf-8d55-d32fba551870,Toys & Games,1,Kid Gadget
+3f40399a-bb9f-4980-8a0c-056b9a61ec39,1770e12e-6b47-446c-9558-078cc4bc1961,Home & Kitchen,1,Think Tool
+3f6bd615-acce-4d13-b639-33535e76053e,03c733f1-6411-436d-84f6-f81c55b1fe85,Home & Kitchen,1,Store Accessory
+3f8825c2-ba37-4085-9b5c-e6d03f365cce,57cf82ad-98b4-4598-b969-9211b5eafd39,Grooming,1,Song Tool
+400a0af2-406f-4cf1-b9ca-45862d0dfeaa,2059d4ed-ee4a-4b64-a056-82f507dca85a,Clothing,1,Policy Accessory
+413d508d-80b8-4da9-ac66-d194a1908285,0927a1da-7c17-4d3d-986d-8d02b11c61b1,Grooming,1,Identify Tool
+4151528c-0768-48f8-bdcc-fbf8779b5dc3,0e63a825-b9c9-4ef1-b2b8-5d9978301b63,Clothing,1,Provide Tool
+41aa2d94-869a-4336-8bca-8b0b7542cd54,29d58eca-d13d-417f-8b72-a18e8270cc21,Electronics,1,Clearly Device
+4289aaea-ff98-4972-b95e-db6d4421ed62,07123a50-ad84-411b-b4c6-bea85611fd01,Electronics,1,Eight Tool
+429bc948-a197-4b98-9ca8-ccf8bbc3ef91,2ca7eb84-b199-4c21-a735-aefcb851f124,Clothing,1,Key Item
+42a2a066-9006-4326-9145-7a38962d3e2c,4b9fef18-e3b8-4d36-9296-d21346232f92,Books,1,Pull Gadget
+433a95f8-f3e8-40e0-b587-8af2d0585e68,676240eb-4ace-410e-bfc5-2e72425c9810,Toys & Games,1,Travel Item
+442e9d79-ce13-4faf-89a2-4f8c42d2d9bd,2acc842f-3830-4b75-87b4-2a91973722a8,Electronics,1,Form Item
+44641774-e95c-4d2b-b285-625da7d712f0,12998dc6-a1e1-4426-a078-e4edabec7ee7,Grooming,1,Note Accessory
+44c1db7b-76d4-4abe-a14f-d0f78ae8b139,09fe0f4c-c8a0-40ff-baba-755efb7a1201,Electronics,1,Good Accessory
+44fbdf0d-58d0-4567-a545-1495400cdda6,14fc195d-feef-468e-bcc6-7bd1519798ba,Clothing,1,Century Device
+450a5574-76a9-49ea-b2a0-356256bb6b4f,08123435-71ce-4b16-aab6-57996a1d0aae,Electronics,1,Level Tool
+453cc9b5-c179-4739-9a28-dc6b357b0382,1183479b-decb-4bbf-8383-f24b827c1fa7,Toys & Games,1,Lawyer Device
+45591989-2d51-4607-85ae-b9ab1b0468f0,2454d0a8-819d-459d-96f1-d53bb3103f17,Home & Kitchen,1,Some Device
+45962c47-50eb-45f7-a02d-6955243bf0a9,017b113e-2175-4ecc-aab3-aeeecf9916be,Grooming,1,Decision Tool
+465a4a68-238a-4665-b263-0120e7de5bc7,5855641c-ba93-497a-9c9e-aa2062cb31a2,Home & Kitchen,1,Leave Device
+46a8c15d-75f1-46f8-92e7-ad5d8ba673c2,5855641c-ba93-497a-9c9e-aa2062cb31a2,Home & Kitchen,1,Leave Device
+47153500-1fc9-45af-9703-9b5a8d5eebd7,07ddbe5f-89f4-4dac-ba4e-afc0c758dee1,Clothing,1,Around Tool
+47808711-636e-45e3-866b-8969732089ee,5e974f6f-8dad-46b5-8942-0d2e40725da8,Books,1,Do Tool
+47c396a0-c297-4aa5-8700-a5c95af61fd3,16d10d1d-9aba-4002-b3ed-535c3f865f9b,Home & Kitchen,1,Admit Item
+47cd696a-2a98-4b03-91ec-7a5dee055173,0394668b-8087-428c-bf2f-1b7c967ec967,Books,1,Usually Tool
+480021f3-ae00-4703-9eb0-0ea028c95ad8,56c9423c-2561-4506-a2a4-22d4a3266b96,Electronics,1,Out Gadget
+4810be39-385b-46ba-8a5a-fe994454e458,812f7595-2660-4f53-9b91-baff5b010910,Electronics,1,Hot Accessory
+482b7565-1882-4d63-9342-d9e7725a77c6,099415a1-36ce-451c-83a2-810608eac402,Electronics,1,End Device
+483818f8-f569-42c5-9238-cb357c9f7206,615f12b0-633b-4458-b544-84f4e7008227,Books,1,Case Gadget
+48af39d5-728b-4c69-aff5-dd04b4ef09f2,268a9018-08d0-4eeb-a0a3-111fb8a55390,Toys & Games,1,Indeed Gadget
+492dce40-5a49-463a-9465-e972d2326794,83f4b405-e2b5-4391-9cee-4da0878854ef,Home & Kitchen,1,Order Item
+493cd943-b671-4a5c-8fb2-1319a4314766,108be0f5-6018-4397-a343-d1c03247fbc6,Clothing,1,Want Gadget
+499819e7-4581-4e41-af39-be9f47d0924d,5093f145-804b-4be5-b572-f8b6ef528948,Grooming,1,Must Item
+49ef4006-6385-4e19-a375-05f211c7d6fc,3c5d75f0-0b0c-440d-b17e-4f2ddaf4734d,Clothing,1,Believe Item
+49f91206-96ff-49ef-9447-84d1e9111f66,017d7dcb-ef0f-4e20-86b1-d097637a8f04,Home & Kitchen,1,Agency Tool
+4a0abccd-db06-4754-816e-94b6d2806f79,07123a50-ad84-411b-b4c6-bea85611fd01,Electronics,1,Eight Tool
+4a357281-4525-4fbe-ae51-999d36760c59,98a87079-b6ea-4eae-8332-58cba6723aec,Books,1,Whose Accessory
+4b38a6fa-dab2-463b-8386-e9afbe96b480,099415a1-36ce-451c-83a2-810608eac402,Electronics,1,End Device
+4b4a5a5a-6e31-444e-8ba1-31a379d129e6,83f4b405-e2b5-4391-9cee-4da0878854ef,Home & Kitchen,1,Order Item
+4b583be5-de9e-46f3-8465-8825ed718c01,56c9423c-2561-4506-a2a4-22d4a3266b96,Electronics,1,Out Gadget
+4b69c0b5-e01d-46b3-820e-dcd6fcd4a4ea,a103e639-73a7-46c3-b4f9-fc258bdb5ac5,Clothing,1,Can Device
+4b7912e8-7b49-40f9-9ff9-76cf64a9a45f,d853e358-f639-4bec-9349-228695b8e533,Grooming,1,Talk Tool
+4b9ccfd4-373f-4665-8c47-0e263cbad01b,3722e645-342b-47d2-aa94-9868190d49d9,Toys & Games,1,Night Gadget
+4bc21a64-9363-469c-a7bd-53ce418dbc91,07123a50-ad84-411b-b4c6-bea85611fd01,Electronics,1,Eight Tool
+4c5eed5d-ad3e-437c-9395-d19c33d5df6a,01a543e0-caf3-403b-bf8d-cfd8448891ea,Home & Kitchen,1,Ground Accessory
+4c66a9a4-906f-47fc-8d8b-1b7dc370b825,0fb1039c-618d-4b3d-9ee7-ca0ef76cbdbd,Clothing,1,Rather Gadget
+4c6c2a53-c73d-4567-83d5-db0d342acb6c,1770e12e-6b47-446c-9558-078cc4bc1961,Home & Kitchen,1,Think Tool
+4d05bd61-be45-49c1-a77a-b553655dcf61,16168acd-27e7-4da0-a19c-ce46169a2e45,Books,1,Common Accessory
+4d3994b3-efe4-4c06-9ff3-8d4cb3375b80,2cbf339f-cd28-4972-a9f0-f4c8aebcdcd6,Clothing,1,Collection Device
+4d4e26cd-2cdf-4761-872e-2db7c42576c2,2e8fc91d-6cc7-4a0e-bc8a-0b7bf7511b71,Home & Kitchen,1,Today Device
+4da45f68-d5ba-4b8b-9c66-00a57f1683ce,68936bdc-3cf9-455b-918e-16d5ede968d2,Grooming,1,Not Tool
+4de10932-b24d-4ce3-9224-4ae31698b43d,7be99a59-c87e-4a64-bc99-1b577aa37a37,Grooming,1,Miss Tool
+4dfad356-3d50-4581-9141-82f499805ade,20e18fab-91df-4395-bec3-479bf9b2eb55,Home & Kitchen,1,Go Gadget
+4e29dce8-d1fa-4640-a5de-d31f3c8565d9,7aea05a4-6359-45d1-9105-d84cc3263642,Clothing,1,Smile Device
+4e94be89-d050-4447-9eae-0fd2863fb11f,0ada6fe9-2de5-4059-bd0c-284a73e7229a,Books,1,Friend Tool
+4f636a3c-6a12-4805-83c7-5e377b2cabbf,39e43765-e262-4361-b480-dca5a1e5457b,Electronics,1,Indicate Gadget
+4fd05a77-8974-43cb-8beb-e3230898be0d,00bc0a78-2f79-4801-9e94-b99285be5962,Grooming,1,Region Accessory
+4fd16274-2de2-4e43-bb29-b149ff22d862,3d41066f-67c2-4194-8cae-f68e00f1ba27,Electronics,1,Thought Device
+4fefdd32-e518-4969-b920-4a05e385c515,913894bc-55ca-4db0-abf9-bd2ee57145b1,Electronics,1,Seem Item
+508f5e25-c5cf-4b49-81c2-98437b862816,555a2d9c-d6c4-47f6-8ef9-7eaa046f197b,Books,2,Above Tool
+50f3ef03-4f05-4997-bfde-347ba26715ad,a513f5c9-fc14-465e-9907-77825da733e0,Electronics,1,Think Device
+51174efd-9426-44da-817c-e47c6840f3a3,2a71b6af-8e79-4743-a320-24de972782fc,Grooming,1,Including Tool
+51637e19-e53b-472d-8de4-6386e4d7dc51,602b657d-5167-4e55-9650-58f7fdbf1a86,Electronics,1,Nearly Item
+51651668-de0c-4a76-8d2a-29798c372f91,07ddbe5f-89f4-4dac-ba4e-afc0c758dee1,Clothing,1,Around Tool
+51fc9d6d-c002-4512-a24e-828a5281c466,22af31c2-76e4-4a9e-ad39-dfc03c4ab7fb,Home & Kitchen,2,See Accessory
+525be174-256f-4a08-abc1-81fe8eab8023,25061433-fa55-4568-96eb-7fec300a598f,Electronics,1,Street Item
+5270e3e0-67ba-4e88-af7d-cc775d6fb8c9,3f1c248c-6c2e-4b8c-97d0-b30d47757b62,Clothing,1,Although Device
+528622bc-9f9e-42e8-b1bc-7cca8c482b4f,55c08464-7ba8-4c66-b164-4ef7a2082716,Toys & Games,1,Smile Item
+52cf693c-12e8-40e0-9d25-a06008590ed0,1efc5749-cc75-4771-ba49-4684ac38b6c9,Toys & Games,1,Third Tool
+52ea7824-b476-4238-8d42-889662169255,8ed2ac96-4945-410a-8a47-0cff8fc632bc,Home & Kitchen,1,Summer Gadget
+537f4269-4b94-4e5f-80fb-90f4b894d487,7e6548c5-ee17-4217-bf9d-c8c3a4fdafd4,Toys & Games,1,Hit Tool
+5461454e-79fc-4b99-87fc-1affad92321d,0394668b-8087-428c-bf2f-1b7c967ec967,Books,1,Usually Tool
+54789c40-39eb-43be-9228-6aa7b6dfd228,402664a5-1ca3-4f7f-b79d-a31ef862d63a,Home & Kitchen,1,Improve Accessory
+547ca111-404d-4b7c-a5da-27744b657888,0a4b9d4a-8737-45da-853e-616be5642058,Electronics,1,Response Device
+547f6082-6836-45bb-87b6-9d995845fad5,49c29827-8981-44c9-9a85-f027b93e4ed5,Clothing,1,Trial Accessory
+549bd8a3-4a38-48e4-a096-53efab60d5ae,74894c79-9d5a-469a-aea5-e393df5d34dc,Clothing,1,Development Accessory
+5531c813-ce0b-463c-be07-22a5c4879428,15b389ba-e475-41f2-a913-bbdc89d49fd7,Clothing,1,Must Item
+5588df8d-a76e-458d-91b0-7c8200a537c8,462ff436-6af6-4823-84d0-fc631479ebd2,Clothing,1,Whole Item
+558ef724-7d61-447b-8f9e-8221fabc2380,172dd57b-9c62-4b7d-893b-500ed52fdb3f,Home & Kitchen,1,Least Tool
+55b08518-1a0e-44ef-8483-6450097df23a,19f6cf7e-559f-4a26-bc8c-6941650200fe,Toys & Games,1,Can Item
+564e5213-f2bd-40d4-8b79-eff9b19a93ff,1a155633-349e-4362-8f60-3874db8ca658,Home & Kitchen,1,Store Accessory
+56c226a8-94cd-4182-9bf8-50fd4154c6bb,2a71b6af-8e79-4743-a320-24de972782fc,Grooming,1,Including Tool
+56ec3c7a-2922-4e23-ad01-7a501e3ac29e,04e02afa-3aba-44aa-af18-4b638ffe376b,Grooming,1,Guess Accessory
+56ef6734-a1ca-4a4e-a35c-aaf8fa7b2743,0ba6b90d-e5dd-44cc-923d-9ac4132b591f,Books,1,Include Accessory
+5724e4d6-aa25-4b3c-8d1b-79f1728f5139,385dabdb-33e9-4ea5-891b-80cb8140d558,Electronics,1,Natural Accessory
+573789c6-a578-490d-9941-116d9c1e0dcc,0c29943a-65df-4023-9feb-391f2760f6f3,Clothing,1,Bring Gadget
+573cd61b-538c-4f56-be75-a841ea5a9cb9,219459a8-b0fa-4dc4-936f-ed8c2ab5158c,Clothing,1,Community Tool
+577291ac-cd49-457f-89ae-d7a6736582a5,49c29827-8981-44c9-9a85-f027b93e4ed5,Clothing,1,Trial Accessory
+57878e40-528b-415a-a649-19a22e3ac03f,03fdd1ff-dac0-42d4-9ef5-bfc80ef0faeb,Grooming,1,Feeling Gadget
+5791555f-0704-4633-99c1-81a53fa7f9fa,83f4b405-e2b5-4391-9cee-4da0878854ef,Home & Kitchen,1,Order Item
+57a0e88b-978b-462a-9a69-dc7574f40934,5df9ae8e-cf61-47b7-99c5-af62c840a18c,Grooming,1,Better Tool
+57a13385-62f7-439b-9a05-69177ac14fdf,086594a2-a208-456b-9061-59a6fcb0de93,Grooming,1,Old Device
+58312c1e-71b8-45f8-8310-c046d0379590,1db866d7-725f-4067-bf9e-a0d726cde3d1,Home & Kitchen,1,Blue Device
+583ac173-c51e-4ef6-a0fa-825b53e5bee8,5a59738b-dc7d-4925-9db7-77327a894d9b,Grooming,1,Huge Accessory
+588ba41b-e7ef-40c1-9701-61414d9766f5,0e63a825-b9c9-4ef1-b2b8-5d9978301b63,Clothing,1,Provide Tool
+58e32f7f-8ac6-4f12-95fa-3d5940bbf061,41b4b11f-89df-4829-8212-c6aa3376caf2,Books,1,Hundred Accessory
+59266a33-e9f2-4967-8997-34aa5cda9005,2aa1354e-bf42-4774-894e-1725cbd63194,Grooming,1,Clearly Accessory
+59acdd16-1792-4445-84a6-245537914089,d3523e92-de1e-45e0-9b07-0040ec74f767,Clothing,2,Much Device
+59da97ba-0d37-40d2-8a5f-25a85eeda222,199f347e-7fb9-4877-bb30-664f31e87ada,Electronics,1,News Gadget
+5ab3220a-1e1b-4cf2-90df-6ae0b8c99ddb,0a2a2cb6-87cd-4673-84b8-6dd722826230,Toys & Games,1,Tonight Device
+5acba7c0-882d-4c32-aa8a-1525d41a51ae,15b389ba-e475-41f2-a913-bbdc89d49fd7,Clothing,1,Must Item
+5ae07404-3a10-416e-a8fe-70450e871861,040816f9-61cf-4fba-b183-20d895e22356,Grooming,1,Door Device
+5b019996-8aaa-41a9-9ccd-8da041a7325b,c879b884-e643-4765-9f82-36563ccad754,Grooming,1,Alone Device
+5b41f66d-f697-4781-87ac-a66e22a36245,20e18fab-91df-4395-bec3-479bf9b2eb55,Home & Kitchen,1,Go Gadget
+5b75b2c0-bb7e-40ed-b448-42008cea029c,09ef1c6d-86dd-4755-8a51-56632014418a,Grooming,1,Kind Gadget
+5bedbbbe-ef06-4b98-ba43-c748c2db3b41,3ee48e9c-aa2d-4c2b-81e7-109acef7c4b8,Grooming,1,Piece Gadget
+5c0ae08b-cf1f-4373-9fd7-5551db7fc264,2de901a3-053e-4a22-881e-ca9b256af0af,Home & Kitchen,1,Upon Gadget
+5c29a8f3-475d-450e-8f06-8eeb252d3a40,64cbb204-4178-4757-a7ac-59f1d810eae3,Electronics,1,Race Gadget
+5ce04c38-3516-4227-8562-a5b4ea8ec564,0e63a825-b9c9-4ef1-b2b8-5d9978301b63,Clothing,1,Provide Tool
+5d3ab043-6fb0-4fed-bc8e-941a7ef76974,2c4eb7af-3d30-4aed-b5ec-e1e363957fe3,Grooming,1,Newspaper Item
+5d67bd8a-8394-4d8a-89fc-dc207d41c5f7,77b20548-7559-422d-985c-fda302f483f5,Home & Kitchen,1,Trial Tool
+5dbc97dd-9c11-4ada-bb91-45a277932e72,92e6c471-ead4-4dfd-9301-6d64892b05b4,Home & Kitchen,1,Toward Item
+5dedb34b-5115-4104-a16d-493a76defb8d,1c2cee54-aecd-48dc-af63-2f13e72810e4,Books,1,Themselves Tool
+5e2f4e65-ab20-45c6-9f7b-0fdf8540032d,0b42469b-4f77-4ad9-a079-7b0ba516e843,Clothing,1,Education Tool
+5e4517d0-78bf-4267-9999-c9ccf494c28a,5e45cce1-d805-4459-8d84-ac160054a789,Electronics,1,Agent Gadget
+5e9748aa-4ea5-47a7-8139-c53811b0ebb4,615f12b0-633b-4458-b544-84f4e7008227,Books,1,Case Gadget
+5ee5ccc6-1d53-4d42-a2d7-8800cfa09f41,421c4fc7-62f3-487e-bec4-2d5b51673006,Grooming,1,These Gadget
+5f1efd6c-e557-4262-8183-cb6d71ecc610,2ae11c95-5312-4fee-83eb-62dd21807d58,Home & Kitchen,1,Trouble Device
+5f1f083f-0eee-4091-92af-954b03617d82,1f99c737-723e-4764-9f2d-aeaf344004d3,Electronics,1,Source Tool
+5f4e363a-33a4-42a8-8969-c34f5fe2b915,107ca01e-fc3e-4a07-9713-e7ed03db5247,Toys & Games,1,Movie Tool
+5f6e2327-7a92-41f0-8c77-f83b28667417,84cbaf51-bd8d-42a8-8585-eb7a78a5166e,Electronics,1,Land Item
+5f83e397-6258-4e68-997d-240938a08bf0,0a934664-546e-4917-b701-ba9570c2a2cb,Home & Kitchen,1,And Item
+5f99e24c-9422-43ca-9a9a-8677e06fa710,5c158371-8278-472d-a58d-a133e0aa577a,Home & Kitchen,1,Appear Tool
+5fa55450-c966-4847-bdb4-b1486faff78e,1609c39a-be7b-464b-b655-e757d17b2976,Toys & Games,1,Before Item
+604170d2-ec9b-4677-bd5f-5720aef60259,04e02afa-3aba-44aa-af18-4b638ffe376b,Grooming,1,Guess Accessory
+60924ed5-02d4-4edd-97ee-c6a06c1bf0ff,15820f22-0da3-4f46-9ccb-05df68900e59,Books,1,Film Accessory
+60e111a1-18fa-41c0-9109-295cacc4f534,cc7caa7f-1216-4f03-b76e-22cbf64e7ec5,Home & Kitchen,1,Make Accessory
+610a0cbc-95d2-41b7-8f1d-d2a0886f3ff1,29b0536f-ad6e-48e9-8829-69ca927063cf,Electronics,1,Dream Accessory
+6183ca76-3e28-4980-bb76-69d6df7581fe,0609a4d9-700e-4007-9dff-4f44a9d2b841,Grooming,1,Beautiful Tool
+6225d5ca-f299-49cd-bad1-aeea5374adc3,1e2ea8f5-0da3-4cac-aa62-a62b7b0612a1,Electronics,1,Listen Item
+6230351a-8771-47cb-a427-baef55481451,4708bdd2-b11d-4433-9f26-a3423aaba43d,Clothing,1,Including Item
+6252713a-4872-4c88-b72d-c642417dc4e0,1efc5749-cc75-4771-ba49-4684ac38b6c9,Toys & Games,1,Third Tool
+63021e25-79d2-4f50-9999-2d1bf86758fe,376cd822-69b3-4aed-bc4e-b7d5caf2807d,Home & Kitchen,1,Believe Gadget
+63221770-9feb-4ae1-9bdd-f0c51b97e680,0ba6b90d-e5dd-44cc-923d-9ac4132b591f,Books,1,Include Accessory
+637a0c2d-85d3-43bc-af1f-dae6a60d32a3,544463f2-0094-4d6c-8400-31e2ecdb8005,Toys & Games,1,Research Gadget
+640a39e7-489b-43d2-b560-b6caccfe3ce7,5e974f6f-8dad-46b5-8942-0d2e40725da8,Books,1,Do Tool
+641549f9-fee3-4840-b2e3-42f4b78eb44c,18bfcf6b-b8ac-49cd-a8d5-a73c0bdb2177,Electronics,1,Idea Accessory
+6438261d-09c8-4e5e-b9a6-17c99d491a75,02f2e42f-a28a-4896-aea3-e74e866eafb5,Clothing,1,Use Gadget
+643faa18-70ff-4a41-9c57-ee9bc4281e13,457be892-8595-4c3c-8915-4974790e2fc6,Grooming,1,Away Tool
+645eb33a-d67c-43b7-816f-7ed02c8eaa43,0103a560-2deb-4db9-84fb-d88394bea575,Toys & Games,1,Nice Tool
+647ef3fb-1ad5-42d7-9424-770a62c538dc,4d88d612-4977-4077-b04c-c74c8736ee61,Clothing,1,Let Item
+648396e2-fefe-4ebe-b02e-1a7186e92bcd,0ee6ef8a-5b0f-4f77-a01e-da8d2ac8e857,Clothing,1,Key Item
+6492dae9-d911-404b-8634-f0420520ad2a,43cc27f1-83f7-4172-afda-a40d6a28327e,Grooming,1,Strong Tool
+64b20662-8f18-4b8a-b13d-09c5ce4781d6,1c5b5474-7394-4fa0-b49c-ddc935070585,Grooming,1,Response Item
+64badcb4-9d4e-4c15-94ec-f01d5aa2c7f6,0103a560-2deb-4db9-84fb-d88394bea575,Toys & Games,1,Nice Tool
+64db821c-5687-46da-826f-52c7e913da06,0a4b9d4a-8737-45da-853e-616be5642058,Electronics,1,Response Device
+64ddfa7b-940f-4084-a062-6bdee10af2f4,0505e2b1-33cf-4f3c-bbd3-a342f90cfd3f,Clothing,1,Simply Gadget
+6509a232-511b-4ade-8058-f4ba166eb609,172dd57b-9c62-4b7d-893b-500ed52fdb3f,Home & Kitchen,1,Least Tool
+6536c670-8e26-4255-af97-83ee5ad7a103,07123a50-ad84-411b-b4c6-bea85611fd01,Electronics,1,Eight Tool
+653e1822-3369-49ec-8583-ea6509bf1151,273acc70-97dd-40eb-9cb1-89b5884e5488,Books,1,Able Item
+65a09327-8fe7-4376-8a36-565c3585458e,17022a75-d145-46cd-878f-84ffe850c089,Toys & Games,1,Where Accessory
+65c8e3da-bb10-49ef-8520-a025af4edbba,85012227-f4a9-47c6-ac29-4a98e326afbb,Home & Kitchen,1,Return Tool
+6623b183-2587-4bf9-af1e-7e277c6cc543,4c30c101-2337-49b0-9d19-c4852acc27c2,Home & Kitchen,1,Big Device
+6624f6b8-11f7-408d-99db-206c60090e26,1c2d3a67-36fa-4193-8132-a32e94893f51,Grooming,1,Reach Accessory
+663a7360-c5ac-48b8-abea-a65e1254f70a,1ac59ed8-6f46-4ec2-b123-b70853ee918e,Home & Kitchen,1,Economy Item
+6644064b-19fe-4d11-8413-14f3d4008ec1,2a71b6af-8e79-4743-a320-24de972782fc,Grooming,1,Including Tool
+66452936-9bde-40f4-a3b1-52eb707bb1e3,5d5cd324-50b0-4649-b2e0-eb526f5d966b,Electronics,1,Strategy Device
+66930193-300f-4a03-9789-368ac29144a3,39531011-6107-4649-9f68-153b13cc50a0,Electronics,1,List Tool
+66e0112c-dc09-4b85-818a-5d8fbd3532da,0e44853f-7a45-400b-ad30-8d017061acb8,Toys & Games,1,Common Gadget
+67127eb0-5b11-443f-9ae0-d8dcae502aad,38ae9354-1a41-4218-8164-e0a27b34b052,Electronics,1,Half Tool
+678d4d2d-c77b-47b6-8f84-2fd87e289d26,4b211e65-af28-4320-8d1f-953136c70bb0,Home & Kitchen,1,Sign Accessory
+67e6a9d6-5ed4-44c1-b8c4-1cbacd102f42,04d1a35d-b272-43da-8ebe-8ef4f94137ed,Home & Kitchen,1,Increase Tool
+6835a6ad-61fe-44d8-acb2-8edd2e070ccc,4b9fef18-e3b8-4d36-9296-d21346232f92,Books,1,Pull Gadget
+687a62d1-1717-47d6-8d67-2b638a520935,30adbf4a-35c2-4f31-901d-a3503124d79c,Toys & Games,1,Ball Accessory
+68d01b09-889d-4aa6-aef8-15ea49a69e27,4c04bfb5-e9dd-4008-b69c-f2fb642d3f7e,Home & Kitchen,1,Piece Gadget
+6966bd83-aeee-489e-baed-01642c1e5b3a,33641bb0-315b-4da3-9bd7-7ea673e4466f,Electronics,1,Speech Device
+69924258-46d2-4de3-81a5-5901cab80fc7,21c6e5e0-c7fb-401e-a2f9-e2e50120ce8f,Clothing,1,Including Tool
+69a5fd87-1a62-4229-9dc6-e4c28d45ae2c,1c2d3a67-36fa-4193-8132-a32e94893f51,Grooming,1,Reach Accessory
+69ca8294-01ca-4813-8c02-aaa85ee4f712,29b0536f-ad6e-48e9-8829-69ca927063cf,Electronics,1,Dream Accessory
+69f55610-71e0-4698-b063-3874ce90c131,0609a4d9-700e-4007-9dff-4f44a9d2b841,Grooming,1,Beautiful Tool
+6a075265-3968-4f3c-836d-9624bd1e9292,286a6370-9942-4fb6-82ed-826c5c00b901,Home & Kitchen,1,Buy Device
+6a7f062f-a4f9-42f8-9469-14fcccd3ceed,3c5d75f0-0b0c-440d-b17e-4f2ddaf4734d,Clothing,1,Believe Item
+6ab1c2ee-1db0-4967-9c4a-1035db69b087,824ea94f-6b61-4f25-bae6-e927eb98bede,Home & Kitchen,1,Her Item
+6aecdf65-fa28-43c3-8598-260f8a611f9a,08123435-71ce-4b16-aab6-57996a1d0aae,Electronics,1,Level Tool
+6b601de3-c174-4c77-8ce4-4bf7a3a3cec8,2ae3603e-36b8-45ad-9bd2-5397dea12c44,Electronics,1,Arm Gadget
+6b649ff2-41ac-4af7-a173-238c94196b72,b0441f4f-d0f7-47d4-84ed-b8711f8cfc63,Home & Kitchen,1,Quickly Item
+6c33d10f-2133-4092-838d-726db5dd47a4,322645cf-843e-4084-8a56-8d44da88801f,Clothing,1,Popular Accessory
+6c3da0a3-ff53-4958-b680-dae1193df7fb,1db866d7-725f-4067-bf9e-a0d726cde3d1,Home & Kitchen,1,Blue Device
+6c795f4c-2397-409f-8a21-cfc8e38838c2,0b343f7d-906d-4cf3-83fe-096b85952205,Electronics,1,Put Gadget
+6c8323df-8120-4fce-a11a-7d61c900053e,0927a1da-7c17-4d3d-986d-8d02b11c61b1,Grooming,1,Identify Tool
+6cb48df6-531f-47ac-a8a0-d47b57bde315,555a2d9c-d6c4-47f6-8ef9-7eaa046f197b,Books,1,Above Tool
+6ccb28b9-efaa-40a1-b6c3-fee677e80812,0da88d3e-631c-4629-ad96-42140edda8a3,Grooming,1,Operation Tool
+6d34f382-83d0-42a0-8712-54b1603acb07,08535f38-cb03-4264-91a8-7238a65c26ce,Books,1,Perform Tool
+6d4987b3-a603-4b77-83f6-3def3a217ce1,09ef1c6d-86dd-4755-8a51-56632014418a,Grooming,1,Kind Gadget
+6d6d3ae7-f6bd-4c01-a509-b5311957f9e7,14568827-ba50-4978-bb08-457107d6b316,Electronics,1,None Item
+6d990632-cdd7-44d9-b29d-521164096ec4,33579555-0cc0-44d9-834b-89d0375521fb,Books,1,Peace Accessory
+6df9e153-3343-48a7-8d56-c4b14ac4f839,1ac59ed8-6f46-4ec2-b123-b70853ee918e,Home & Kitchen,1,Economy Item
+6e230db2-31ad-4c34-a3e2-2e9049f27e62,21291dce-c6d0-42cd-9d32-2930886c41e9,Grooming,1,Measure Tool
+6e658063-cb4d-48a4-8b13-b972c6c008ee,2de901a3-053e-4a22-881e-ca9b256af0af,Home & Kitchen,1,Upon Gadget
+6ebd3176-8d84-4131-9a0c-5919f4b10b66,023a7f7a-16ae-4de8-8a5d-942d0db11878,Toys & Games,1,Measure Item
+6f0cff97-8400-45ef-a5be-22a4f382909a,50447e54-135c-44e7-bafd-723b99177d38,Grooming,1,Hundred Accessory
+6f0d446c-a203-4f2c-8481-ad750dfbfd51,040816f9-61cf-4fba-b183-20d895e22356,Grooming,1,Door Device
+6f5832bf-6981-4936-a688-47ca81e11eca,08535f38-cb03-4264-91a8-7238a65c26ce,Books,1,Perform Tool
+6f667531-74aa-43b3-9c56-1715ee2d8627,8e542d0c-8139-4e23-8782-fc0d593c6a0e,Toys & Games,1,Human Device
+6fb2f5b6-b04a-4b85-abbf-257b6bcecbe7,268a9018-08d0-4eeb-a0a3-111fb8a55390,Toys & Games,1,Indeed Gadget
+6fc7de36-6332-4ace-ad51-e026eeb1e017,4c354df2-9eb9-4753-a37a-bf60007666e7,Grooming,1,Get Gadget
+6fed8c62-b0d3-403f-95f9-e6b82186b8fa,15ae2cd6-760b-46b6-b595-62201c032611,Home & Kitchen,1,Skill Device
+70149680-d312-4524-a4fa-97cb74931a7f,1126449a-5bc1-49e7-85d0-d5f7f5e463ac,Toys & Games,1,List Gadget
+70583380-62ac-4c47-aaf2-3c98ab4bf93c,430953df-83a6-4cc5-aeb8-da55a9ff1108,Books,1,Story Accessory
+70721000-c4af-465a-a25e-79dcfe524b64,37b1b1d7-0caf-42d5-bb14-9d2ea7d32bca,Books,1,Other Tool
+7077821a-9d78-48db-b196-8375bfa91ef5,a90a1ccb-837c-4d19-b730-122c83598ad8,Electronics,1,Reflect Device
+70c07730-02e9-49a1-8140-aad366aba560,040816f9-61cf-4fba-b183-20d895e22356,Grooming,1,Door Device
+70d5040c-b40f-4850-8cbb-8ddac4a4a8fb,235de690-3455-4426-9fad-f441c6e71ddf,Grooming,1,Address Gadget
+70e32998-9296-492a-959e-851e98400c07,1c2cee54-aecd-48dc-af63-2f13e72810e4,Books,1,Themselves Tool
+70e7c094-04ac-4890-83c7-86d59629115c,6a9b01a4-de70-45d6-ba4d-7a6afae91ab2,Toys & Games,1,Expect Tool
+71636595-bedf-46ab-af4b-3e25d808f4e4,0d1036e7-dda8-4f99-9a20-065b2408721e,Clothing,1,Compare Device
+719d4399-6a3a-4d57-acff-45161a9d2b70,5b0b654c-9d27-473a-acbb-ac00ac086660,Toys & Games,1,Time Device
+71f55ea8-8917-45c4-aa2e-e8d5ecd4a74a,52f18916-283a-4028-9c2e-808a32607477,Home & Kitchen,1,Gun Accessory
+720c7ab7-0bfb-4474-b086-c1acbe8e04d3,0103a560-2deb-4db9-84fb-d88394bea575,Toys & Games,1,Nice Tool
+72181cb1-cca0-401a-987c-21bd0b97034a,f72e3ce8-4b6a-4c60-9df7-c33a7717959e,Clothing,1,Write Accessory
+725d4af9-4e9e-4d04-9006-c58acef08808,0dc29c8c-90bb-4d0a-9569-694cc7242802,Books,1,Ago Device
+728b53bc-b9e4-4664-857b-7e1fcd671ce5,84db8892-2b4f-470b-98cb-e6ec6b6aac22,Toys & Games,1,Money Gadget
+7322db0c-c8db-4dcf-a454-404e5393076d,273acc70-97dd-40eb-9cb1-89b5884e5488,Books,1,Able Item
+7329e35f-f4ad-48df-b573-623ee1d62139,30769eee-76cb-416c-a9a8-a87ee5bb14d1,Grooming,1,Well Accessory
+73386243-f5a4-434e-9826-a5b3ffc91b1f,04697b66-383a-4d0f-98ad-b4cf7f1cb8fa,Electronics,1,Pretty Gadget
+7352622e-4574-4deb-b939-c08a073150e6,2f48c343-c36e-437c-9fe1-660db83478e4,Toys & Games,1,Policy Tool
+73a0a85c-8a69-437a-85f9-98682d8d2348,60e3ed95-1400-4425-9087-319ab6a9074d,Clothing,1,Avoid Device
+73a8345a-8efc-42f6-b6c1-02fdcb81953c,29d58eca-d13d-417f-8b72-a18e8270cc21,Electronics,1,Clearly Device
+73fd3534-9fec-46cd-bff1-ff7de5e21758,5345ccd9-3d77-49cc-a395-b99d3ccb912a,Toys & Games,1,Between Accessory
+7481f983-162e-4128-b457-c8fbeec8fdb0,15820f22-0da3-4f46-9ccb-05df68900e59,Books,1,Film Accessory
+748c7bc1-1977-4cba-a593-8e48f53f02cd,017b113e-2175-4ecc-aab3-aeeecf9916be,Grooming,1,Decision Tool
+74985616-cb0f-4ea6-ad0d-2d57aa92c7ab,338a827c-9cbc-450b-9732-f6d7bd859112,Electronics,1,Heavy Item
+74c0c676-e513-447c-ac29-7a4c3ea81d0a,0a2a2cb6-87cd-4673-84b8-6dd722826230,Toys & Games,1,Tonight Device
+7544247b-85bf-4519-93ae-c0143082974a,0ba6b90d-e5dd-44cc-923d-9ac4132b591f,Books,1,Include Accessory
+75587fda-de90-4980-868e-a03dde59a577,8ed2ac96-4945-410a-8a47-0cff8fc632bc,Home & Kitchen,1,Summer Gadget
+75b775fd-a869-48f1-b866-b6bb7ea9874a,1d5149ba-41de-420c-85be-6a938555d2ac,Books,1,Young Tool
+75bd8d35-a21e-4d95-9b8c-e1506291a9ea,268a9018-08d0-4eeb-a0a3-111fb8a55390,Toys & Games,2,Indeed Gadget
+75e29503-4a28-4bd7-8836-32a09005cdd9,223c1a58-1c21-4250-b565-fc6bdd07789b,Grooming,1,Finally Gadget
+75ed5c5c-5031-4e31-bb3d-721ad67c12a5,108be0f5-6018-4397-a343-d1c03247fbc6,Clothing,1,Want Gadget
+7637afe1-fd84-4242-890e-79906efc426d,944cdcff-ceab-46f1-b42e-a2f948ec3aad,Grooming,1,Notice Item
+763dbc4c-cddf-4988-9cf4-6e8104155d09,235de690-3455-4426-9fad-f441c6e71ddf,Grooming,1,Address Gadget
+76557f7e-ab66-4e12-9212-bc079a0e7154,1df3e65a-c7a8-4c8c-8f25-22dc8b848f08,Home & Kitchen,1,Mr Item
+7687c455-864b-4b34-b028-2a88b3e611d3,1ac59ed8-6f46-4ec2-b123-b70853ee918e,Home & Kitchen,1,Economy Item
+76b9fd18-eec1-4847-9cb6-4984f32d6def,0a4b9d4a-8737-45da-853e-616be5642058,Electronics,1,Response Device
+76f56f2b-30e9-43ee-9e98-59cd07532ed8,5e974f6f-8dad-46b5-8942-0d2e40725da8,Books,1,Do Tool
+7713bd86-af8e-4f88-8c73-95850a74debd,50757215-8247-4fc6-9d6e-37d2a950e0ab,Books,1,Gas Item
+772175ff-c645-4855-a87b-0811afe222b6,30f94137-7355-4742-a288-6b787de75a7d,Home & Kitchen,1,Goal Accessory
+7728be2d-e109-4618-bdf6-ebb3fca23940,0314b3e8-677a-44d9-983f-776affb31e18,Home & Kitchen,1,Election Accessory
+7783bc65-b89a-4289-9f98-3a54d48d9be3,bc5dec48-0dd4-4bd7-8bb5-24a06e646c04,Toys & Games,1,Break Item
+77de1dbd-f044-4c1b-9db2-56419c665b11,322645cf-843e-4084-8a56-8d44da88801f,Clothing,1,Popular Accessory
+78911a73-04d7-4a36-8aa0-1f98d5b0fca2,2baca05a-86be-481e-8622-ea3f8af6e5a7,Home & Kitchen,1,Yourself Item
+78ace804-054c-4d1c-af78-dcaa3aebd3e4,16483998-c02e-454e-8dd7-cf18f116e56e,Grooming,1,Field Tool
+78ce459d-8673-4078-9951-a417a34b7a0c,00bc0a78-2f79-4801-9e94-b99285be5962,Grooming,1,Region Accessory
+7918470e-6f28-4b26-be45-2a7f8f8222df,1aaf6315-f4b9-4fb4-902a-1b20b88da46b,Electronics,1,Or Item
+795d3ad5-f207-472c-af3a-00622d388ce1,0a59a01f-7137-4aec-af23-1557687725ca,Clothing,1,Vote Gadget
+798cc928-0e92-4c41-9d49-a5c289f2146a,107ca01e-fc3e-4a07-9713-e7ed03db5247,Toys & Games,1,Movie Tool
+79b2c666-f764-4113-b94a-c63e2906c9db,0103a560-2deb-4db9-84fb-d88394bea575,Toys & Games,1,Nice Tool
+79cd81a0-aadd-47a0-a730-8210277af142,39bcb082-90d4-4b89-a44d-d9bebb550b18,Electronics,1,Six Device
+79da2f3b-9aa7-46d1-986e-d9a6cf768f2d,01a543e0-caf3-403b-bf8d-cfd8448891ea,Home & Kitchen,1,Ground Accessory
+79dca536-b4b0-422b-85a6-d47af064db79,555a2d9c-d6c4-47f6-8ef9-7eaa046f197b,Books,1,Above Tool
+79ee9e1e-7ad4-44dc-99e3-7391534f6384,3a5c2ae6-0b26-4560-a84c-6e334edd40b3,Grooming,1,Lose Item
+7a018666-c86c-4b00-abfd-c24ec51c6a5e,4708bdd2-b11d-4433-9f26-a3423aaba43d,Clothing,1,Including Item
+7a149086-2ae0-417d-9430-62cdd3d83c38,2454d0a8-819d-459d-96f1-d53bb3103f17,Home & Kitchen,1,Some Device
+7a2a98fe-c2d5-4d11-85da-7d4c515b6215,0d7c21e0-06d3-4b44-9e6f-22fc1e8f28f6,Clothing,1,Again Accessory
+7a2be126-c3ce-4e05-a1e1-87f12f9919f4,1d5149ba-41de-420c-85be-6a938555d2ac,Books,1,Young Tool
+7ae48129-8bd1-4960-aa47-8086dd2139d1,49b9ed3f-34d3-4ed5-b74c-073bf7f4cb4f,Clothing,1,Many Device
+7b45f8ea-d8ba-4fec-ae7a-6f4a3b50a9f8,2e0ed13c-38ac-4444-8afb-a3c1686c6f5e,Clothing,1,Away Gadget
+7b89f832-aeb7-4f39-a606-36c411ce4c11,6eb4936b-b1ad-42c2-9e8b-f67cc8f0cf66,Clothing,1,Name Item
+7bbbd918-18ef-4a1b-8ad0-81bf055f93c8,654ad114-e6e5-4592-9f76-d3fb3fe6aba4,Clothing,1,Guy Device
+7bc01153-3fb6-4449-95c5-6a65d8cd8ffd,4b211e65-af28-4320-8d1f-953136c70bb0,Home & Kitchen,1,Sign Accessory
+7bd04e37-a182-492a-94d6-dd5291cd2cb0,0a2a2cb6-87cd-4673-84b8-6dd722826230,Toys & Games,1,Tonight Device
+7be90b16-9c73-4519-9e72-ccb0796302d0,04d1a35d-b272-43da-8ebe-8ef4f94137ed,Home & Kitchen,1,Increase Tool
+7c526161-6554-4dc1-a5f3-5b7562d83d6d,be4505f4-b741-444c-aed0-91b50a1a4da3,Home & Kitchen,1,Indicate Gadget
+7c820c85-ec1f-4293-a04f-793c604157c6,66a9801f-19ec-4a73-8469-b34043e42cbd,Grooming,1,Bring Item
+7c9c1ec6-398e-4ba1-ab71-216c845e95ee,19e19931-7348-406b-882a-9ae560da22bf,Electronics,1,Real Tool
+7cb63610-1c24-4287-8c18-7348a827e244,14fc195d-feef-468e-bcc6-7bd1519798ba,Clothing,1,Century Device
+7da6bc85-1e76-47ad-b5cd-bd14f12edc23,0b343f7d-906d-4cf3-83fe-096b85952205,Electronics,1,Put Gadget
+7da7f0bb-5176-47b5-a8a0-a213865cd5d7,3a5c2ae6-0b26-4560-a84c-6e334edd40b3,Grooming,1,Lose Item
+7dbb83ec-6185-4dc7-9a6f-ceeda4b17f66,02568189-e510-4714-84c2-4f3d551dbb80,Toys & Games,1,Bag Device
+7e825ec0-31d5-45fa-9eb4-79587f13eab1,5d272a10-6758-4066-86e4-4db99e97a205,Grooming,2,Book Device
+7ecc55ac-f001-4f39-8e58-8634a6eebc3a,12c6b87a-8e76-4e71-a22e-d2643fc83685,Clothing,1,Must Device
+7eea8ebd-c939-466d-9eb0-fa7b4b201d46,5bb29d92-2d29-495d-9461-1bf098a11e0b,Grooming,1,Build Item
+7ef46a22-654e-4eaf-9131-07d59a037090,07ddbe5f-89f4-4dac-ba4e-afc0c758dee1,Clothing,1,Around Tool
+7efbfa4a-4cea-4e5f-9479-cc25a1dbd848,247082a1-3fde-4cfa-b78c-71ed15cb903d,Home & Kitchen,1,Your Tool
+7f0ed4bf-2e89-40e5-a785-52f49b356fb1,08b69462-b596-4835-a0d4-582866f8e93a,Clothing,1,Than Accessory
+7f1ea073-d881-4039-8251-3be99cf882fb,110d64b9-f23a-462b-a629-f70671ba09d4,Toys & Games,1,Cup Gadget
+7f67dc2a-fea1-4b3a-9d02-dc6898af496d,60489ba3-cfac-42fa-8daf-8c7e554398dd,Clothing,1,Recent Accessory
+7f86f147-9a33-41f4-9079-8379827029c7,a7773a07-c9dc-464f-b71a-5df6caf1218e,Grooming,1,Allow Device
+7fa36e9a-a82e-487b-887d-105d22032aba,172dd57b-9c62-4b7d-893b-500ed52fdb3f,Home & Kitchen,1,Least Tool
+7fffb435-e439-4260-81b5-1255db5ce44c,776fd211-b1b5-4a43-9c9d-33174f586ea8,Toys & Games,1,Among Item
+800f4b3c-f9fd-4e90-997b-067b38ed36ec,9c5c7390-3afc-4f93-bbce-3dbdefc1c204,Books,1,Let Device
+80588feb-19c0-4c30-bf92-c6905e7ac59d,07123a50-ad84-411b-b4c6-bea85611fd01,Electronics,1,Eight Tool
+806018ef-fdda-4cc4-a316-cc28b8c2feb0,e7f17a82-22e5-43a7-82fc-5f39926a18de,Home & Kitchen,1,Character Item
+80d48cfa-0dd2-487a-92f1-f889dbbd3edc,56c9423c-2561-4506-a2a4-22d4a3266b96,Electronics,1,Out Gadget
+81273b7d-86fe-411d-86b0-32092c6fca17,16168acd-27e7-4da0-a19c-ce46169a2e45,Books,1,Common Accessory
+81edce71-d0ec-47c7-bbb0-234308799a85,30f94137-7355-4742-a288-6b787de75a7d,Home & Kitchen,1,Goal Accessory
+825512d5-01f9-47fc-b322-08d234db06fc,988e6ae6-d0e5-420f-a9fe-488887261e1e,Books,1,Two Item
+825c6422-ad2d-4d2d-b6af-b6098264ce60,19dc58dd-651a-49cf-8d55-d32fba551870,Toys & Games,1,Kid Gadget
+832e485f-782a-4f3a-93e7-498cc33ac6f3,2e0ed13c-38ac-4444-8afb-a3c1686c6f5e,Clothing,1,Away Gadget
+833020e7-b8a0-4950-9ec0-befef243f3e5,1c5b5474-7394-4fa0-b49c-ddc935070585,Grooming,1,Response Item
+833fd3ba-1cd7-41cb-98c7-e85afffb7174,086594a2-a208-456b-9061-59a6fcb0de93,Grooming,1,Old Device
+835fff5c-405c-42b6-a9ab-216425d67266,f45790d0-8db2-46ca-87d4-24b89f897fc9,Toys & Games,1,Wide Accessory
+8367c064-3a84-4224-be0d-74c637da5f61,2c4eb7af-3d30-4aed-b5ec-e1e363957fe3,Grooming,1,Newspaper Item
+8389f7d2-846c-4b3a-b7c1-d4a12de18cd7,2ae11c95-5312-4fee-83eb-62dd21807d58,Home & Kitchen,1,Trouble Device
+83a9ac4b-45e6-4954-9bab-128fc99dbc73,0f50195f-56a3-4ac5-b321-24dda796a045,Home & Kitchen,1,Rather Gadget
+83c47348-7e99-4e44-8834-0d8e4e5e6ff5,1391b5ab-04f3-480c-9e40-9a0d05449ac8,Home & Kitchen,1,Group Device
+83cb8ec5-681b-4373-9123-256544a67963,017d7dcb-ef0f-4e20-86b1-d097637a8f04,Home & Kitchen,1,Agency Tool
+83fcc33b-2a6a-4585-acfe-7986097f8166,347eb482-5272-4545-8920-4faa145b6c55,Books,1,Production Gadget
+842d7abc-0f5a-497a-afa7-86df1c1b105a,1c2d3a67-36fa-4193-8132-a32e94893f51,Grooming,1,Reach Accessory
+843e91ca-d114-4283-a26a-c3e1fed7f3a6,0b42469b-4f77-4ad9-a079-7b0ba516e843,Clothing,1,Education Tool
+84e3159c-224e-4c39-885f-c411934aed96,4c354df2-9eb9-4753-a37a-bf60007666e7,Grooming,1,Get Gadget
+85c3c824-2723-4e04-99a7-755d8ff65966,a8fd79b3-a94a-4f3c-bf6c-5ac31a732b5f,Clothing,1,Significant Gadget
+85e40c3f-c324-43c0-857c-671c9d180a3c,20b58416-7ae7-47d7-8c45-31a5a802a31a,Clothing,1,Second Item
+86465c1a-fef9-4b2e-a590-dab8a6ef7457,29931cf6-24f0-4057-9ae8-8704d6736482,Clothing,1,Shake Tool
+867c7c72-ac65-4c0b-8bdd-ab489ed619a3,1ca4df27-35cc-4e4d-a207-2b7a5f02da72,Grooming,1,General Item
+86c22cdd-d42a-421c-9e11-fb72be201748,73baf606-e11b-43dc-9ff5-ef3331c8365c,Home & Kitchen,1,Mouth Tool
+871fd617-2481-47af-9686-646826012dc4,3eb82b2e-a217-47d6-bfd5-5841c7991786,Toys & Games,1,Public Item
+8769f452-1de4-4cf3-a4f5-d4a3f73b5cfb,0d7c21e0-06d3-4b44-9e6f-22fc1e8f28f6,Clothing,1,Again Accessory
+87d1310f-f48f-492b-a7ec-e31dad38e164,15b389ba-e475-41f2-a913-bbdc89d49fd7,Clothing,1,Must Item
+88008cb9-6cdf-4e8a-9c63-4bb8f4bdc781,1c5b5474-7394-4fa0-b49c-ddc935070585,Grooming,1,Response Item
+881a519d-b354-46b1-8344-382da2d87ade,25061433-fa55-4568-96eb-7fec300a598f,Electronics,1,Street Item
+884778db-ca0f-44d4-9afb-687f004480d9,017d7dcb-ef0f-4e20-86b1-d097637a8f04,Home & Kitchen,1,Agency Tool
+884bbf21-e24d-4ef7-bde5-186390393553,023a7f7a-16ae-4de8-8a5d-942d0db11878,Toys & Games,1,Measure Item
+88554a7b-8535-4a4f-a2e3-b528465473ec,3fc93285-6bc0-4805-b92d-3954322dd4f3,Home & Kitchen,1,Modern Gadget
+88759cda-5495-42ee-b8c2-b03764c23615,23052873-cd86-411a-96f8-6a77bee7a4d0,Books,1,Shoulder Accessory
+8891e459-97af-47fb-bfcc-85599f74578f,247082a1-3fde-4cfa-b78c-71ed15cb903d,Home & Kitchen,1,Your Tool
+8903a4d8-540b-4623-a2a3-818a6aa79592,47505aff-677b-40e7-89a2-4d16801441e5,Clothing,1,Land Gadget
+89301cc6-aa46-4c1b-95b7-a3ae123c5e57,11c24677-f9bf-4773-a5c2-af3d2946e0aa,Grooming,1,Conference Accessory
+89587cdc-df80-45a3-9274-8ce0a177644a,405254a5-0815-438a-9e63-0f6675dac6d2,Grooming,1,Model Tool
+8993de88-c2ff-4333-a561-aa5bcafbb151,5ada7e55-d29a-41f0-8d04-1b06ae59f067,Home & Kitchen,1,Executive Device
+899e52b4-4221-412c-8e39-df73b1df66ce,03c733f1-6411-436d-84f6-f81c55b1fe85,Home & Kitchen,1,Store Accessory
+89ae4323-9515-4070-8c0a-96255e327983,7e02b8fb-7aec-4226-9b1a-9953217d8545,Toys & Games,1,Close Accessory
+89e3ef65-bcd8-4626-b3b6-02252d8e6f25,7be99a59-c87e-4a64-bc99-1b577aa37a37,Grooming,1,Miss Tool
+89eda60d-8dcd-4896-ae0c-6eee9c88635b,92f7b7f9-bd62-4e5a-8d1f-65a38c6614e5,Home & Kitchen,1,Yet Accessory
+8a05f334-bca0-4d49-b2bb-a059e918b8ea,39e43765-e262-4361-b480-dca5a1e5457b,Electronics,1,Indicate Gadget
+8a46c70d-fe0b-4776-8e03-ffb5b7cf7468,037a0c4e-ee87-45db-b16d-cd5f0615d477,Grooming,1,Pull Tool
+8b748b78-9848-4f0d-a33d-f293c2ca1ad5,0314b3e8-677a-44d9-983f-776affb31e18,Home & Kitchen,1,Election Accessory
+8b9797ba-d1e8-4e3e-9ecf-d3a11f4131f0,45c76d4c-15d3-4956-b5d2-90beccc552e9,Clothing,1,Wind Gadget
+8bb9405f-87f3-40d0-af27-5bd43b573c3c,a2a2197e-40a6-4b1c-9ee1-2bf8b14c6a09,Home & Kitchen,1,Yet Item
+8bba9fa5-1133-496d-b1bb-730cf7ae8bb7,3ec3a4ec-9311-47ed-a1af-218671f896b6,Grooming,1,Free Item
+8c50125e-7c88-47ee-a151-44bc012f6eec,483fb178-12aa-47e2-8fa0-98234ce8e4b3,Clothing,1,Daughter Accessory
+8c727116-14a0-4a03-939d-30d16b5ac49a,3e970039-0125-4c78-bef8-4a7debe91e76,Grooming,1,Fast Accessory
+8c82f4a5-03b0-4e00-acdf-bc4a044e9617,2059d4ed-ee4a-4b64-a056-82f507dca85a,Clothing,1,Policy Accessory
+8cd28661-e0a7-4cda-84aa-26dbea5300ea,3f1c248c-6c2e-4b8c-97d0-b30d47757b62,Clothing,1,Although Device
+8ce733f9-bf41-4948-8656-93e3a6020236,107ca01e-fc3e-4a07-9713-e7ed03db5247,Toys & Games,1,Movie Tool
+8d0cfec1-89c9-4c6b-a908-79408ef3cd46,5faee932-707b-4005-b43a-aa528d914a1e,Home & Kitchen,1,Beautiful Gadget
+8d1975be-a490-47af-a0ac-443282650e72,2b7c4285-245b-4eb4-b0df-f5526e8b0cb6,Books,1,Ball Gadget
+8d2c2815-4a4b-4b42-818c-59df3d820652,790520dd-fbb6-4c48-9153-4af63f91e698,Clothing,1,Debate Device
+8de22e1d-7fff-4e39-ba4c-c3bbf3390cf9,0103a560-2deb-4db9-84fb-d88394bea575,Toys & Games,1,Nice Tool
+8e5c6f99-22aa-45a9-bc90-03ae4a5aff88,88888418-571f-4a27-a37c-f6b2d58a7b5b,Electronics,1,Student Accessory
+8eb145bc-a41b-44e9-91eb-055115431cd5,48e84a1f-9c1a-43a8-876a-0e917d4a4e4b,Books,1,Country Accessory
+8edd6dac-456d-4e0b-81bb-dfdb5943e370,46835609-2151-41fd-bf64-8a7425f2de81,Home & Kitchen,1,Face Item
+8f207c39-3fce-4b01-8fd2-1d80da482a9b,47f0a6bc-4feb-479b-a2bd-39fb5fa67162,Electronics,1,Look Device
+8f51a1b0-3071-47fc-80e8-e43b99384fe2,731dc1bb-9be5-47a7-9570-10914e8194ff,Home & Kitchen,1,Authority Gadget
+8fc7b99d-7fb3-4095-8053-94a2df98a070,7f02f058-0bd5-4ee2-abc0-f3ba0a0a9526,Grooming,1,Down Item
+901d003c-6958-408c-b63f-30b603954056,01a543e0-caf3-403b-bf8d-cfd8448891ea,Home & Kitchen,1,Ground Accessory
+90c51cb0-1cbe-4059-b976-a6daa20f7ae5,25061433-fa55-4568-96eb-7fec300a598f,Electronics,1,Street Item
+91186662-93e2-4c23-9968-8bb59b170176,a9bca526-4ec6-4fd0-a188-c96b31e9fc03,Grooming,1,Growth Device
+91713330-5af2-48b4-8aff-e6303c244702,55bc34b0-18b4-4ff6-86ad-dfdba95d4f9e,Books,1,Writer Gadget
+91c9f531-01d4-4861-8477-ad72a7f9f03a,0a2a2cb6-87cd-4673-84b8-6dd722826230,Toys & Games,1,Tonight Device
+92318aad-1553-4bfa-b9a3-85aa611c7d3c,5873af5f-3b34-4765-8c7f-b4134ca7f8ff,Grooming,1,Scientist Gadget
+927826b2-d6d7-4307-97f1-0729ac5a4cfb,273acc70-97dd-40eb-9cb1-89b5884e5488,Books,1,Able Item
+929abb75-a74f-4e21-91ca-69ceef08fc54,c524cecf-b930-4f91-8d6c-0f01a6e7c36f,Electronics,1,Watch Device
+92c5c52b-6226-42f8-90e3-603c7cbb0ffa,dd184b14-1ccb-451c-a6a3-8eb9d169cea4,Grooming,1,Prevent Item
+93124f6d-ce71-4239-a09d-ae3314b452f2,a3613dab-b74d-422d-9ffa-55439e8803b4,Toys & Games,1,She Accessory
+9345b8d2-d959-41d4-9360-6deca1e93fbe,6c949f4f-b62a-41d5-b1e8-65382707ee60,Home & Kitchen,1,Right Accessory
+93909a22-4bd3-45e2-8c6f-6bbfa060a1dc,07b67fd5-d8b5-4c76-af5c-08c72453aa83,Home & Kitchen,1,In Gadget
+93c1e9c2-d9e8-4300-bbdb-c63444507407,3a72aa2f-c8d5-41ba-96d9-8cc256ebb57f,Electronics,1,Maybe Accessory
+946685bb-a6f2-449d-b3e7-7ba58047f39f,17bd8e0e-5ec1-4b92-9eab-32332cad9e80,Home & Kitchen,1,See Gadget
+9499076b-babb-4265-abb9-895d53f33815,1c2cee54-aecd-48dc-af63-2f13e72810e4,Books,1,Themselves Tool
+949d0c45-2767-4e3e-bbe1-14b8e1b2ee46,26f9eaf7-91d2-443b-94d1-b9636f02d374,Electronics,1,News Tool
+95147f89-8e07-4137-adf7-4d3c48c69e97,1e4e7eed-9db4-4843-b01d-f02388350e6e,Grooming,1,None Accessory
+951a6391-033d-4410-968c-97a37b756672,1391b5ab-04f3-480c-9e40-9a0d05449ac8,Home & Kitchen,1,Group Device
+9556ba81-3345-4733-b2ca-a36c6981c950,02f2e42f-a28a-4896-aea3-e74e866eafb5,Clothing,1,Use Gadget
+9562ca8b-d6ad-47e9-875f-3ca26de40e62,12cf8e59-3e62-42ce-83e0-c88e4c7e32c4,Home & Kitchen,1,Knowledge Tool
+95d0e11c-1891-46cd-8e44-f39b684b667c,1f99c737-723e-4764-9f2d-aeaf344004d3,Electronics,1,Source Tool
+95d65c6d-5174-43f6-8c92-c83c93508fce,09f60643-2863-466b-9657-e1e610d48c55,Grooming,1,Prove Gadget
+95fd379f-2ed8-4acf-983b-f20dbd1f6f4f,268a9018-08d0-4eeb-a0a3-111fb8a55390,Toys & Games,1,Indeed Gadget
+96b7b93f-5ef9-42c8-b8ac-5f90b74ec9ce,39531011-6107-4649-9f68-153b13cc50a0,Electronics,1,List Tool
+96fab6e6-053c-4de0-9c0b-86308bb1cdd5,4e34ba14-3ff4-4eba-95e5-172eaa39194a,Electronics,1,Develop Tool
+976f729d-efe6-4d48-a00a-e061966d6353,5855641c-ba93-497a-9c9e-aa2062cb31a2,Home & Kitchen,1,Leave Device
+97801e44-919d-4149-8b1c-fa49b0c2ab34,5023c708-f3f1-4eb3-af9b-41d55e908e28,Electronics,1,Necessary Device
+97ced0d4-714e-4faf-a4dc-4263727d2b97,04d1a35d-b272-43da-8ebe-8ef4f94137ed,Home & Kitchen,1,Increase Tool
+980f6a03-fa93-4032-8966-e6f8f2e509a9,39e527b0-a4b4-48eb-bb0b-e3cefdd1b38a,Books,1,Meeting Gadget
+98284537-e1fe-43b9-806b-f66588c86dc3,04d1a35d-b272-43da-8ebe-8ef4f94137ed,Home & Kitchen,1,Increase Tool
+98647b48-56a6-486f-9f2d-4826f3488394,3a2c1a1a-f61d-4010-83f8-661fe1b61f2c,Toys & Games,1,Plant Gadget
+98fa4f7c-bded-458f-984e-803e12e07d29,110d64b9-f23a-462b-a629-f70671ba09d4,Toys & Games,1,Cup Gadget
+995752ff-218d-4568-98d1-c1b64640b19f,017d7dcb-ef0f-4e20-86b1-d097637a8f04,Home & Kitchen,1,Agency Tool
+996eee29-8f4c-44fa-bc4d-e878df5c9a06,0a4b9d4a-8737-45da-853e-616be5642058,Electronics,1,Response Device
+9a1b6a09-f3d5-4bcc-a862-cd14a999e172,322645cf-843e-4084-8a56-8d44da88801f,Clothing,1,Popular Accessory
+9a1d07e0-7331-4465-8319-49de2a9e656a,2d6304a6-d9c4-45c3-9e7b-b749f930bc81,Clothing,1,Knowledge Item
+9a64ff3f-15a1-4b8f-85c3-751f97a88ae4,411a67e4-3fec-47f8-833f-67e8f6242edb,Books,1,Throughout Accessory
+9acef624-24ac-4a47-9496-2ef136fc57fe,0f50195f-56a3-4ac5-b321-24dda796a045,Home & Kitchen,1,Rather Gadget
+9ae96ff4-5ce3-4de9-ba4c-8f07713b5285,6d6b94c6-2f10-407c-b4fc-7f15a92a1297,Books,1,There Tool
+9afae952-2db0-432c-8bcb-41d7271dd237,017d7dcb-ef0f-4e20-86b1-d097637a8f04,Home & Kitchen,1,Agency Tool
+9b05314a-62a1-4da1-b20d-9b2aa8ec0441,08bb3b3c-fe67-4c7f-b949-a5a6f588e6ef,Grooming,1,Decade Device
+9b5f4838-bc90-4771-820f-e486195cdb88,0314b3e8-677a-44d9-983f-776affb31e18,Home & Kitchen,1,Election Accessory
+9bf7d69e-27bb-4718-b40a-3aae6f1e760b,29d58eca-d13d-417f-8b72-a18e8270cc21,Electronics,1,Clearly Device
+9bf9e095-52cc-4b56-ac1f-127c2e3cc89b,1770e12e-6b47-446c-9558-078cc4bc1961,Home & Kitchen,1,Think Tool
+9cfe0496-afe4-4492-9b61-151a6e8966aa,199f347e-7fb9-4877-bb30-664f31e87ada,Electronics,1,News Gadget
+9d0704a9-3628-425b-910a-2d5695d3978e,2baca05a-86be-481e-8622-ea3f8af6e5a7,Home & Kitchen,1,Yourself Item
+9d247cdb-764d-4b51-9620-1abe988a311e,3ec3a4ec-9311-47ed-a1af-218671f896b6,Grooming,1,Free Item
+9d537090-67f1-4db9-916f-b7578ee03f89,11c24677-f9bf-4773-a5c2-af3d2946e0aa,Grooming,1,Conference Accessory
+9daa99cb-de28-4ee5-af8a-f72587610d37,4e34ba14-3ff4-4eba-95e5-172eaa39194a,Electronics,1,Develop Tool
+9db68dbb-5b31-4394-b52a-075e06e719b7,22af31c2-76e4-4a9e-ad39-dfc03c4ab7fb,Home & Kitchen,1,See Accessory
+9dbb33fc-5141-4fa7-8d39-a573497cefb7,3f722dd1-3d68-412c-8f84-3974e45711f9,Home & Kitchen,1,All Gadget
+9de2ec7a-a54e-4044-a11d-51248ca29d3a,00121514-8476-4ea7-873c-e9058eb39686,Toys & Games,1,Off Gadget
+9def1fdb-0284-4330-9d89-2d8e4cfc31a3,cf7d5049-3d17-4e88-a76a-94f02f439011,Grooming,2,Candidate Tool
+9e76b5ed-b99b-4667-999e-2df4ec42e49c,0f88006a-a8e6-4c23-929d-3be225df96c0,Home & Kitchen,1,Recently Tool
+9ebdf46f-a400-41f9-a80f-4fe77326b50f,c4e7d963-5891-4fc0-a1d6-2b51a320b1d8,Electronics,1,Your Accessory
+9ec3acc1-4e8b-4e31-b473-694c5d37f087,09f60643-2863-466b-9657-e1e610d48c55,Grooming,1,Prove Gadget
+9ee8bc57-5282-4ba2-8763-be74daf217bb,0d0ede04-5509-40ad-824c-6b892b6a24b6,Grooming,1,They Gadget
+9f4bbb46-43f7-4c3d-93ad-a439da379bc9,2acc842f-3830-4b75-87b4-2a91973722a8,Electronics,1,Form Item
+9f734b63-1be5-4d7b-94a7-dfe88ced9bc5,bdb44b26-b9a2-4796-8ff8-6dfedd2c369a,Toys & Games,1,Wonder Accessory
+9ff52b64-ea21-4a7b-b0d6-3d3e37b053fa,3e970039-0125-4c78-bef8-4a7debe91e76,Grooming,1,Fast Accessory
+9ffecdab-184d-466e-80a8-b9448a309665,38ae9354-1a41-4218-8164-e0a27b34b052,Electronics,1,Half Tool
+a0525933-0d85-47a1-b875-29789ea1b6f8,0ee6ef8a-5b0f-4f77-a01e-da8d2ac8e857,Clothing,1,Key Item
+a0777b3c-0d8f-4279-bde2-876425de3f6c,2a71b6af-8e79-4743-a320-24de972782fc,Grooming,1,Including Tool
+a0c3640b-8236-4fff-8eac-80f7693a9ad8,2a031c38-4c9e-4434-9c79-35439ecf11ad,Toys & Games,1,Role Device
+a0e89254-fcdd-4325-891d-b8a5480d5aac,e5f57bc3-eb4d-4936-9ed3-95b138249582,Grooming,1,Box Accessory
+a124211a-9d0b-4225-ab59-a97d690a74f1,2fb5bed3-812e-426b-98a1-c1c4d4cd70ae,Home & Kitchen,1,Without Item
+a1382f60-e3f5-43ce-8ec3-dfb7303eba18,1f99c737-723e-4764-9f2d-aeaf344004d3,Electronics,1,Source Tool
+a1db0c3e-2ab4-465e-8e87-ca42f0327526,2ef5fa65-a85b-4d1f-96a2-4abe59d3dbc0,Grooming,1,Somebody Gadget
+a2287241-7156-4262-afc6-8560261d42e0,19e19931-7348-406b-882a-9ae560da22bf,Electronics,1,Real Tool
+a265dcea-54fe-4ce8-8a70-88a63c7f3654,04697b66-383a-4d0f-98ad-b4cf7f1cb8fa,Electronics,1,Pretty Gadget
+a2ea7061-b458-4c5c-941d-fba64d741e51,a94c6ddb-1cc6-4ef6-b300-06567cc1b3ee,Electronics,1,Second Accessory
+a36f0386-d133-4439-af4e-6deb46417d61,2a71b6af-8e79-4743-a320-24de972782fc,Grooming,1,Including Tool
+a3bc6493-cc9a-43e5-aaa8-12d18d2baf74,695ffda2-8e43-4fa0-96bd-a6022dccdfc3,Clothing,1,Sign Item
+a3f3aff2-116d-4641-b6f2-338a20607316,0a934664-546e-4917-b701-ba9570c2a2cb,Home & Kitchen,1,And Item
+a498d4f7-eba2-43cb-a884-0c605ecd2579,1c5b5474-7394-4fa0-b49c-ddc935070585,Grooming,1,Response Item
+a4a9c6e9-9ba2-4fa7-a362-7ae3e09e6c69,0394668b-8087-428c-bf2f-1b7c967ec967,Books,1,Usually Tool
+a4d17351-723c-46aa-be73-83a099212ec4,0c29943a-65df-4023-9feb-391f2760f6f3,Clothing,1,Bring Gadget
+a5cbe8d4-d824-487c-81b9-de9a604e1d73,3b8a50bf-1491-4edc-bf48-2c04f9bf992d,Home & Kitchen,1,Forget Accessory
+a60a941c-e727-4047-8d01-247ad5ab4c93,9fa03de4-83aa-4229-8c4f-757701afa6f2,Clothing,1,Far Accessory
+a61036fe-6d91-4802-ab26-db7de85658fc,12cf8e59-3e62-42ce-83e0-c88e4c7e32c4,Home & Kitchen,1,Knowledge Tool
+a73cca52-7782-4fa3-843f-0c1835c56506,7ee5573f-2868-4718-9eef-f75bcc460ae0,Home & Kitchen,2,Method Gadget
+a76fb2ca-879b-4773-9202-0a12fd5cd298,555a2d9c-d6c4-47f6-8ef9-7eaa046f197b,Books,1,Above Tool
+a7724ff6-42b8-4710-aa79-30a14093cf11,0fc2d2c2-4810-44d5-89c0-42b084ef2eb7,Clothing,1,Director Accessory
+a78af456-f73d-47b9-abf1-a90df808f791,747efc1a-22ce-452d-89cd-02d7d10fa464,Toys & Games,1,Season Gadget
+a89adf69-df16-48df-b2b8-3e0d2d48e704,00bc0a78-2f79-4801-9e94-b99285be5962,Grooming,1,Region Accessory
+a8bd8bfa-e52c-4d35-9cb2-f3186690dc18,110d64b9-f23a-462b-a629-f70671ba09d4,Toys & Games,1,Cup Gadget
+a8e97432-c42b-4821-b675-e921332685a3,01a50166-7541-4bf8-b59e-c0262dd8790d,Clothing,1,Any Tool
+a95f0f91-88dc-46ec-839b-4ba2003ace82,1d5149ba-41de-420c-85be-6a938555d2ac,Books,1,Young Tool
+a96e33c3-2418-4459-803a-75b51928110d,6453fdd0-b5e4-4e00-80f0-aae6bd0b819c,Home & Kitchen,1,Kitchen Device
+a9b92e74-5fd9-4b57-bae1-8256258a152c,5d272a10-6758-4066-86e4-4db99e97a205,Grooming,1,Book Device
+aa04d22d-f262-41d7-b0b6-b04e5f75d001,19f6cf7e-559f-4a26-bc8c-6941650200fe,Toys & Games,1,Can Item
+aa0e9c73-1976-4194-a2c2-6369b4e7a924,0b343f7d-906d-4cf3-83fe-096b85952205,Electronics,1,Put Gadget
+aa445152-72ed-4719-a11a-cf65d0bbe1c9,3e9e1b43-707f-428c-8c38-f868746fba41,Electronics,1,Buy Gadget
+aa8224c2-7dc5-4eac-bbfa-655a45830e1d,4e34ba14-3ff4-4eba-95e5-172eaa39194a,Electronics,2,Develop Tool
+aa82bece-9dc1-4804-8c18-823f8b18855b,2f48c343-c36e-437c-9fe1-660db83478e4,Toys & Games,1,Policy Tool
+aa8f75d6-254c-4211-ba05-693b73ea76cc,34c76509-8dc5-4f2a-b43f-3f15ef33b724,Books,1,Enter Tool
+aa93228f-6522-42d8-bcf8-7b8e9e4d42cd,1ca4df27-35cc-4e4d-a207-2b7a5f02da72,Grooming,1,General Item
+ab7fe117-929a-4f3a-9020-b4b12a078f5f,2acc842f-3830-4b75-87b4-2a91973722a8,Electronics,1,Form Item
+abd9cd99-3d42-4e2d-a249-1dcde30f9631,c8ccf6de-2b6e-456e-8520-da804d6fd7c9,Clothing,1,Drug Tool
+ac75c65e-555f-401e-8b8a-3b7d6368302a,11182f56-ff77-46e0-9bd2-ab3fb6c353ee,Clothing,1,Or Accessory
+aca5066c-6777-422a-9374-56a3fdfdca27,73e76d1b-846c-4eef-987b-43ce1dabd160,Home & Kitchen,1,Mr Device
+acc80045-2d63-4e6f-83f6-7240d5e26e23,2cbf339f-cd28-4972-a9f0-f4c8aebcdcd6,Clothing,1,Collection Device
+acd0a65f-153e-40b2-bb7c-deeb0cbb8b15,304dbf79-4ffc-4c83-9022-ad4dcaa11cbb,Grooming,2,Herself Device
+ad1ca62b-c282-4159-a0ab-7b5376a19ceb,07123a50-ad84-411b-b4c6-bea85611fd01,Electronics,1,Eight Tool
+ad6f28b3-d2f5-42a5-9e53-ba9f317a3260,3b8a50bf-1491-4edc-bf48-2c04f9bf992d,Home & Kitchen,1,Forget Accessory
+ada14ff6-ddea-4d5e-81a3-60ee4491b792,1c2cee54-aecd-48dc-af63-2f13e72810e4,Books,1,Themselves Tool
+adc62cd1-65d7-4c0a-9469-330b28b85c2c,66e6ab7a-bc15-4fec-a82a-421ee7e26c0b,Clothing,1,Notice Device
+adda6f0c-f83a-4d84-9ac7-e07379df0cfd,017d7dcb-ef0f-4e20-86b1-d097637a8f04,Home & Kitchen,1,Agency Tool
+ae05cc5b-9df1-4a0f-b57d-33a776080f30,1508ff12-1ce8-482d-b014-7edcd2cc5341,Electronics,1,Near Item
+ae22e12f-bf74-4d9d-acc8-f1b33f6ec1c1,24ec6b91-cfbe-4857-afa1-4863fd88e626,Books,1,Ago Accessory
+ae2db34c-f7cc-4775-bf25-3f775635fb49,05452488-a414-4a6e-8793-2795b1a2b2ff,Home & Kitchen,1,Cause Tool
+ae3fe656-38ed-41bf-9cb1-ba851b9066ce,38faa65c-1c57-4b89-8cbd-0ed0dbd9e08a,Clothing,1,Particularly Accessory
+ae64f2dd-85e7-468b-b04b-d24dcab3f855,411a67e4-3fec-47f8-833f-67e8f6242edb,Books,1,Throughout Accessory
+aef0f40f-42e4-4c2f-871f-0e41cf3c1187,1da4805d-fa32-4668-a651-9c73346238fa,Electronics,1,Full Accessory
+afcb6c6a-182d-4d9c-9531-d52ad67019ed,023a7f7a-16ae-4de8-8a5d-942d0db11878,Toys & Games,1,Measure Item
+afe0f014-0be7-470c-a6b2-29d29722c6f2,02568189-e510-4714-84c2-4f3d551dbb80,Toys & Games,1,Bag Device
+b01f8a6f-2588-452c-8082-f573ec4d41d1,17bd8e0e-5ec1-4b92-9eab-32332cad9e80,Home & Kitchen,1,See Gadget
+b0aa9f77-ff79-43f0-bc2a-38cd9f18972c,70d0ce0f-e223-4012-a54d-3f342e5e4cce,Electronics,1,List Item
+b274c99c-cf91-4a26-9451-3d0190b1a15f,615f12b0-633b-4458-b544-84f4e7008227,Books,1,Case Gadget
+b27c0b34-287b-4b32-8335-43544686a49d,02568189-e510-4714-84c2-4f3d551dbb80,Toys & Games,1,Bag Device
+b27d6e24-0dcf-4040-a783-c6189b9de0b2,30adbf4a-35c2-4f31-901d-a3503124d79c,Toys & Games,1,Ball Accessory
+b2e7d648-6b6a-4741-a054-f57859a0a2a2,4ea23abb-8c47-432a-85c6-3d96bbabbbd2,Electronics,1,Way Accessory
+b2ec8550-9d9d-4773-b48e-5417c8779eb7,037a0c4e-ee87-45db-b16d-cd5f0615d477,Grooming,1,Pull Tool
+b30cd562-d2e6-4215-b8c2-60afab8e3c07,03fdd1ff-dac0-42d4-9ef5-bfc80ef0faeb,Grooming,1,Feeling Gadget
+b3769d7c-a955-474c-96a5-4204f4963e2a,0d7c21e0-06d3-4b44-9e6f-22fc1e8f28f6,Clothing,1,Again Accessory
+b45276ce-305e-453c-a8b9-dc8602b4bb7c,161725a4-f7cf-4725-bd7a-36252f29792e,Electronics,1,Own Device
+b479e174-6f4a-4d32-bc83-595453fab5cb,544463f2-0094-4d6c-8400-31e2ecdb8005,Toys & Games,1,Research Gadget
+b4ba049c-beb3-4a9c-bb53-975739ffe5da,1508ff12-1ce8-482d-b014-7edcd2cc5341,Electronics,1,Near Item
+b4c9ddb4-fa49-4515-ae11-536d23f10b85,01a50166-7541-4bf8-b59e-c0262dd8790d,Clothing,1,Any Tool
+b504ef79-21ef-4465-8a13-bb53994afeb6,24bbd9a8-7b74-48f8-bf14-f20226385cb8,Books,1,Past Device
+b51a04e9-892f-46a1-bd7a-c088cd813ee0,b1ae615a-0c0e-45c3-9c15-06881945cc1f,Grooming,1,Claim Device
+b5300d07-08cc-449e-87f1-48ecb54baafd,1e2ea8f5-0da3-4cac-aa62-a62b7b0612a1,Electronics,1,Listen Item
+b53a9d9a-e693-4c4b-b620-c4dd0651ecd4,0edb4e1b-4fc7-4e88-8b78-2d23dbe56326,Clothing,1,Game Gadget
+b5d7cf63-eb80-49ae-811c-049644107ca7,110d64b9-f23a-462b-a629-f70671ba09d4,Toys & Games,1,Cup Gadget
+b672b3e7-89fb-4831-ae06-7b5e42011b32,6d6b94c6-2f10-407c-b4fc-7f15a92a1297,Books,1,There Tool
+b68b375e-413d-496a-9678-5edbd4b6378b,147fcd11-5f7f-43c5-a611-cce05a9a0307,Electronics,1,Claim Item
+b6fab367-4147-4e23-9405-df4e999ceda8,1ca4df27-35cc-4e4d-a207-2b7a5f02da72,Grooming,1,General Item
+b72e9d76-e2a1-45f2-a1b8-bfff0b7c8ec9,48a6e9d7-febb-4d48-9eee-80c536616a2c,Grooming,1,Draw Accessory
+b73a35c0-e473-4fa5-b897-16ff1e687d80,45c76d4c-15d3-4956-b5d2-90beccc552e9,Clothing,1,Wind Gadget
+b74e9ec6-93d3-447e-bf5c-e80303d747d3,5bf442d0-7bbe-49ef-bc5f-29431c57c6e5,Toys & Games,1,Fear Tool
+b771f34b-76c7-4d9e-b80d-353f540ad27e,6cc56e9c-8b98-4227-b0c6-f258bcf1e1ae,Grooming,1,Table Gadget
+b7e35c98-22b8-4837-8cca-a797a7b3645c,00bc0a78-2f79-4801-9e94-b99285be5962,Grooming,1,Region Accessory
+b80f5996-4c7a-4f43-9ccd-6adfabcb09ff,2a031c38-4c9e-4434-9c79-35439ecf11ad,Toys & Games,1,Role Device
+b8fd5088-a67c-4be7-b3ad-8efd5725d1e1,01944e2a-9b1d-4efc-8d56-6949109cb29a,Home & Kitchen,1,Operation Accessory
+b9039fd1-7250-49e2-8c48-abf4dac83e29,322645cf-843e-4084-8a56-8d44da88801f,Clothing,1,Popular Accessory
+b956342e-d896-41e4-be22-503da7162960,11182f56-ff77-46e0-9bd2-ab3fb6c353ee,Clothing,1,Or Accessory
+b9723e34-2f93-402b-b82b-339598b6a727,27809ea2-f6af-4025-8604-aaa0dade0c43,Toys & Games,1,Sit Device
+b9807578-d635-4011-a9aa-33a0055752b9,85a4748c-f508-4067-a6d7-db0be711f018,Books,1,Central Accessory
+b9bc3858-4c2e-4c3a-b03d-0d844c60d15b,0ba6b90d-e5dd-44cc-923d-9ac4132b591f,Books,1,Include Accessory
+b9be49f5-a7bc-4c00-8db2-521e88dc9634,075c52c3-189f-416c-96a4-c73fb723e5a8,Books,1,Trial Tool
+ba0ece50-3e4e-4f05-9bd5-cab120dadf82,a6364719-aec3-42f7-b1fc-adfec5dd84f2,Books,1,Pass Tool
+ba32b05d-a45d-48e9-b23c-3b84c400db40,654ad114-e6e5-4592-9f76-d3fb3fe6aba4,Clothing,1,Guy Device
+ba838bcf-a484-435c-8fce-66236ec18bed,1126449a-5bc1-49e7-85d0-d5f7f5e463ac,Toys & Games,1,List Gadget
+ba8df060-a6f4-491a-bc73-96c5201cdc53,0d0ede04-5509-40ad-824c-6b892b6a24b6,Grooming,1,They Gadget
+bafc861a-aa26-4c77-88b9-2aaaedcafbf3,24791299-af5c-4edc-beca-6aabbd941e27,Home & Kitchen,1,Admit Item
+bbf367ed-2236-453f-9436-022943bc6b02,04697b66-383a-4d0f-98ad-b4cf7f1cb8fa,Electronics,1,Pretty Gadget
+bca58d89-40cc-4fa4-a5b9-b16d3a5dbd88,0a59a01f-7137-4aec-af23-1557687725ca,Clothing,1,Vote Gadget
+bcc1b71a-9c50-41b4-b779-731118366ec5,08123435-71ce-4b16-aab6-57996a1d0aae,Electronics,1,Level Tool
+bcd9d769-cbda-4ae8-b047-1c64c7a83547,00121514-8476-4ea7-873c-e9058eb39686,Toys & Games,1,Off Gadget
+bcdc999f-2853-4ef2-b810-e700286b07c7,2e5c75e5-c889-402a-86d1-423756ca9a80,Grooming,1,Big Item
+bce1c409-ecde-45a7-8f2c-eb0ecbd0a842,57cf82ad-98b4-4598-b969-9211b5eafd39,Grooming,1,Song Tool
+bd052d90-8d8b-448e-9edc-34fb6ac5cbeb,0ba6b90d-e5dd-44cc-923d-9ac4132b591f,Books,1,Include Accessory
+bd1f739b-33a0-4bd8-8ea1-e89a6e3ee61a,0394668b-8087-428c-bf2f-1b7c967ec967,Books,1,Usually Tool
+bd32623b-bd90-4c15-9b62-5aa8a1754ff9,6f188f9c-3ab7-4867-b499-baab1d55aa8e,Books,1,Indeed Gadget
+bd7b1a8c-0e2a-4be8-90be-fdcd16969c15,38a2f317-2e7e-4c6a-9022-4e8a0318964c,Electronics,1,Affect Gadget
+bd997567-f674-4aa5-b1ad-3f0b993a8a24,4708bdd2-b11d-4433-9f26-a3423aaba43d,Clothing,1,Including Item
+bde0b152-4fd3-439e-a304-1e56bf081690,03fdd1ff-dac0-42d4-9ef5-bfc80ef0faeb,Grooming,1,Feeling Gadget
+be746bde-0949-450d-af23-f2d94af1de93,1126449a-5bc1-49e7-85d0-d5f7f5e463ac,Toys & Games,1,List Gadget
+beabe0e0-e7ba-4c61-9265-12f7eb05ff56,1391b5ab-04f3-480c-9e40-9a0d05449ac8,Home & Kitchen,1,Group Device
+bec9c786-3a95-41c0-83c8-6b80341ae669,5093f145-804b-4be5-b572-f8b6ef528948,Grooming,1,Must Item
+bf2657f3-a31f-4ad7-9ef9-5bee99616237,11182f56-ff77-46e0-9bd2-ab3fb6c353ee,Clothing,1,Or Accessory
+bf5d98aa-c4de-43b8-9cd9-b160ffa23dcc,0ee6ef8a-5b0f-4f77-a01e-da8d2ac8e857,Clothing,1,Key Item
+bf6b4b2b-462d-42d7-89a9-32594998b9a2,0927a1da-7c17-4d3d-986d-8d02b11c61b1,Grooming,1,Identify Tool
+bf78f571-f8d9-46fc-82c3-43cf3c084615,1a155633-349e-4362-8f60-3874db8ca658,Home & Kitchen,1,Store Accessory
+c009f8f0-9aa4-4052-979b-453b0841ed8a,22af31c2-76e4-4a9e-ad39-dfc03c4ab7fb,Home & Kitchen,1,See Accessory
+c15dc789-76b2-4d5a-8d6a-a124cb4302b0,3a5c2ae6-0b26-4560-a84c-6e334edd40b3,Grooming,1,Lose Item
+c1c35185-425d-4671-86d7-c84c240c9cc8,46f6ed11-9d35-4627-b806-1bd73d031b0b,Toys & Games,1,Care Accessory
+c23b2366-938c-4e09-8eb3-f5325074061d,08535f38-cb03-4264-91a8-7238a65c26ce,Books,1,Perform Tool
+c24c93c2-6b6f-4a47-98c1-f0be7da12316,1508ff12-1ce8-482d-b014-7edcd2cc5341,Electronics,1,Near Item
+c2b5ac32-8e12-4c3b-af0a-8ae493732b67,1ee29065-58af-4437-b53b-81713d65cb3c,Grooming,1,Most Accessory
+c2e82c18-63c3-4881-942e-ce8091551a20,bc5dec48-0dd4-4bd7-8bb5-24a06e646c04,Toys & Games,1,Break Item
+c3282db0-46c8-4a81-8d72-63ec3718dbdb,4d88d612-4977-4077-b04c-c74c8736ee61,Clothing,1,Let Item
+c32c84ad-1cf7-491f-8625-242e79efdc04,09fe0f4c-c8a0-40ff-baba-755efb7a1201,Electronics,1,Good Accessory
+c3aff4bf-757c-4868-93f4-2820934a98bd,695ffda2-8e43-4fa0-96bd-a6022dccdfc3,Clothing,1,Sign Item
+c3bb24f0-6d3d-4ef3-aef6-5bed17293264,2ef5fa65-a85b-4d1f-96a2-4abe59d3dbc0,Grooming,1,Somebody Gadget
+c3cc5de7-b454-4fbc-a729-916ee272a5e4,48a6e9d7-febb-4d48-9eee-80c536616a2c,Grooming,1,Draw Accessory
+c3cf1b59-2349-4b3e-a2b8-2622de14b598,219459a8-b0fa-4dc4-936f-ed8c2ab5158c,Clothing,1,Community Tool
+c3ecb09e-8e8e-4146-87df-79946bd56aef,2c663b6b-0598-44ee-9b50-1334c0e5c3db,Clothing,1,Capital Tool
+c3f60141-41d7-4f99-8fca-31e3b5b46ce5,c9bf3553-03b4-465b-88bf-416b57fccda0,Books,1,Sport Device
+c40cf326-9ef6-4b69-9623-aa8b71436667,988e6ae6-d0e5-420f-a9fe-488887261e1e,Books,1,Two Item
+c423a078-72ea-4e00-955e-a4c676492673,268a9018-08d0-4eeb-a0a3-111fb8a55390,Toys & Games,1,Indeed Gadget
+c42d8eca-28c3-4277-9d17-ae917cad84be,30769eee-76cb-416c-a9a8-a87ee5bb14d1,Grooming,1,Well Accessory
+c43adffa-50d5-43bf-be8d-8cd9fd274751,f3f79b5d-6e14-4e7e-b060-0b6a5980a930,Home & Kitchen,1,Long Accessory
+c4a1ddbb-042a-48ef-8b75-c631fc2cffe8,199f347e-7fb9-4877-bb30-664f31e87ada,Electronics,1,News Gadget
+c5261033-dae3-4e80-9a15-19b487dbd7a5,2d260f81-f6a0-4eeb-80e3-4623fcab6e2d,Books,1,Read Item
+c53857ac-3676-439e-b193-3e226ffffec9,16483998-c02e-454e-8dd7-cf18f116e56e,Grooming,1,Field Tool
+c541c5a7-b2e0-4216-8aba-6944b7fa7039,1609c39a-be7b-464b-b655-e757d17b2976,Toys & Games,1,Before Item
+c5bd4d0b-f2fd-4d3a-9fef-01f9a5dc016a,776fd211-b1b5-4a43-9c9d-33174f586ea8,Toys & Games,1,Among Item
+c6167988-1e7d-442e-acdd-8fb439557167,14fc195d-feef-468e-bcc6-7bd1519798ba,Clothing,1,Century Device
+c651d712-c051-4043-ba74-9d0e7f89bb23,20e18fab-91df-4395-bec3-479bf9b2eb55,Home & Kitchen,1,Go Gadget
+c65ee54e-2b11-4d8d-bd4d-d15366882afe,0505e2b1-33cf-4f3c-bbd3-a342f90cfd3f,Clothing,1,Simply Gadget
+c66c2022-205e-4e24-84de-0f5bd48f19c7,2059d4ed-ee4a-4b64-a056-82f507dca85a,Clothing,1,Policy Accessory
+c686c126-6da5-42b5-b88f-e076e1c3cc2a,812f7595-2660-4f53-9b91-baff5b010910,Electronics,1,Hot Accessory
+c7104ac3-e468-4dfa-8da8-b6f5d9e6df6d,0a4b9d4a-8737-45da-853e-616be5642058,Electronics,1,Response Device
+c839f06f-7ef0-4f48-98d3-ee491b8d5402,1609c39a-be7b-464b-b655-e757d17b2976,Toys & Games,1,Before Item
+c8acf55e-99c0-409a-8200-93c4aec5c675,075c52c3-189f-416c-96a4-c73fb723e5a8,Books,1,Trial Tool
+c8aff5fd-ad53-4652-8c76-a2d6d2bfc10e,017b113e-2175-4ecc-aab3-aeeecf9916be,Grooming,1,Decision Tool
+c8ce57b9-602f-4feb-b89b-725d936af76a,6f188f9c-3ab7-4867-b499-baab1d55aa8e,Books,1,Indeed Gadget
+c929210a-e49d-4a5b-9977-c536de11f0d9,0b42469b-4f77-4ad9-a079-7b0ba516e843,Clothing,1,Education Tool
+c9345727-3058-4da4-a4e1-d881b00b5e1a,16f01302-d684-43b8-9e0f-02e3539a2fdf,Home & Kitchen,1,Here Accessory
+c9891c51-32d4-460d-8dd7-680ac5ac3239,040816f9-61cf-4fba-b183-20d895e22356,Grooming,1,Door Device
+c98cb938-356a-41d6-afc7-5db13599ceae,0d0ede04-5509-40ad-824c-6b892b6a24b6,Grooming,1,They Gadget
+ca05f077-0579-4573-871f-9007deffb89c,2fd07bc1-6bb6-4433-97cc-9807df31ec7e,Home & Kitchen,1,Member Accessory
+ca171f54-93ff-410d-a837-d59af56b85a4,15820f22-0da3-4f46-9ccb-05df68900e59,Books,1,Film Accessory
+ca5af3ca-c6ca-4324-9bc8-69ec9d036311,42af25da-00ff-4737-a420-d935333cd3c9,Home & Kitchen,1,Quality Gadget
+cacc7368-b968-4546-9db0-79c430f6b1fe,332ec2b6-1677-488a-a853-8473257e8e87,Home & Kitchen,1,Foreign Gadget
+cafa826a-4101-4fe4-bcbc-7d1267194dc2,0a59a01f-7137-4aec-af23-1557687725ca,Clothing,1,Vote Gadget
+cb28bd3a-044d-40c9-947f-5d32d7cf4212,0578951f-7d45-4916-973f-46d9fc7a4e78,Toys & Games,1,Language Accessory
+cb3edc5f-ef0a-40b3-886f-5446f83b0d1f,09ef1c6d-86dd-4755-8a51-56632014418a,Grooming,1,Kind Gadget
+cc5bbfd8-6189-48d0-ab1e-5911e8713020,09f60643-2863-466b-9657-e1e610d48c55,Grooming,1,Prove Gadget
+cc6aa3ab-1a7b-45ab-8beb-66fb3fb2f86f,0fb1039c-618d-4b3d-9ee7-ca0ef76cbdbd,Clothing,1,Rather Gadget
+cc856459-4c77-4609-8c44-5b93222edd36,2aa1354e-bf42-4774-894e-1725cbd63194,Grooming,1,Clearly Accessory
+ccb5480b-feae-47f7-9476-f6ad75accb7c,66a9801f-19ec-4a73-8469-b34043e42cbd,Grooming,1,Bring Item
+cd177cb8-18c0-4f89-9e5c-449cee760eaf,0f88006a-a8e6-4c23-929d-3be225df96c0,Home & Kitchen,1,Recently Tool
+cd84d9b1-fd57-4415-82ce-f7bd746b9890,05452488-a414-4a6e-8793-2795b1a2b2ff,Home & Kitchen,1,Cause Tool
+cda88b18-a931-45c4-940b-733fd6a46816,000fc69a-7739-40d4-bf11-d26a183c83fc,Electronics,1,Tree Device
+cdb72a56-43f1-4e73-86eb-e7336c271a52,0d0ede04-5509-40ad-824c-6b892b6a24b6,Grooming,1,They Gadget
+cdc24805-8cfa-41a3-90d5-20b2795151da,01a543e0-caf3-403b-bf8d-cfd8448891ea,Home & Kitchen,1,Ground Accessory
+ce99943e-2c9b-4d45-b0aa-f60be06b3562,30d1e641-77a0-4ad2-aa11-e042e3069b06,Toys & Games,1,Office Tool
+cefc53f7-8eba-4392-8ab2-55cb56a72cea,1609c39a-be7b-464b-b655-e757d17b2976,Toys & Games,1,Before Item
+cf0b6cb6-ec54-4786-94b4-f8b23f6e3285,0505e2b1-33cf-4f3c-bbd3-a342f90cfd3f,Clothing,1,Simply Gadget
+cf531819-8cf5-4c29-a359-5ec863d9d101,2f48c343-c36e-437c-9fe1-660db83478e4,Toys & Games,1,Policy Tool
+cf62abf4-c1ff-4622-b106-917857fd9699,2baca05a-86be-481e-8622-ea3f8af6e5a7,Home & Kitchen,1,Yourself Item
+cfefe4fc-d1d5-49b9-99ca-6b10e86d728e,1c5b5474-7394-4fa0-b49c-ddc935070585,Grooming,1,Response Item
+d034b80d-ea9c-442b-ba53-722ff01d1629,4c04bfb5-e9dd-4008-b69c-f2fb642d3f7e,Home & Kitchen,1,Piece Gadget
+d059530c-ae65-4e85-ac0c-4e7950c40502,099415a1-36ce-451c-83a2-810608eac402,Electronics,1,End Device
+d079f113-bc94-4dc5-806a-c16a24657967,1391b5ab-04f3-480c-9e40-9a0d05449ac8,Home & Kitchen,1,Group Device
+d12ad397-88cc-4d60-bfcc-4fab453db8e0,3edba62d-62db-4a7e-8a90-a7fe948159c4,Clothing,1,Worker Item
+d14b71d0-bbb9-4a15-a112-45b0f5ca66a1,219459a8-b0fa-4dc4-936f-ed8c2ab5158c,Clothing,1,Community Tool
+d14c2b2b-5abd-44ce-a4e1-6ba0825b8a6e,34023b27-03ec-42e4-92b1-60da5df09646,Home & Kitchen,1,Truth Item
+d1e52777-44ab-442b-872e-bbd2a92b6129,199f347e-7fb9-4877-bb30-664f31e87ada,Electronics,1,News Gadget
+d221aadf-70cb-4718-8c98-2fd6c87285ad,04697b66-383a-4d0f-98ad-b4cf7f1cb8fa,Electronics,1,Pretty Gadget
+d244d9e3-e372-46ba-a443-4d8bc95d70b6,00bc0a78-2f79-4801-9e94-b99285be5962,Grooming,1,Region Accessory
+d26ddee5-efbc-4009-ba5d-e164368791fe,3bdb5536-e109-4a6a-add5-4b74ddb14906,Home & Kitchen,1,Former Device
+d287f582-bb31-40ac-8035-29f1110625e8,03c733f1-6411-436d-84f6-f81c55b1fe85,Home & Kitchen,1,Store Accessory
+d2da2fc0-60b3-46ce-b67c-dae223054705,376cd822-69b3-4aed-bc4e-b7d5caf2807d,Home & Kitchen,1,Believe Gadget
+d2f1ad26-636d-40a5-a1c0-86898d4ff932,3dfe54a6-d49c-4f37-a74a-1148d113e708,Books,1,Smile Item
+d2ffdee5-71ed-4f0c-8ec9-68f1be88a858,17022a75-d145-46cd-878f-84ffe850c089,Toys & Games,2,Where Accessory
+d3304443-3b01-416a-98d5-1bdb53e23b19,33579555-0cc0-44d9-834b-89d0375521fb,Books,1,Peace Accessory
+d36f70be-b5d1-4759-a399-0403adf3066d,219459a8-b0fa-4dc4-936f-ed8c2ab5158c,Clothing,1,Community Tool
+d3830e9b-1a8f-4093-a975-aafd1a6dff30,0ba6b90d-e5dd-44cc-923d-9ac4132b591f,Books,1,Include Accessory
+d3ce5f24-cd28-4187-bca2-370b5d792c3e,4fd17bff-0d8f-4a53-a9d2-28c5da1e1f9d,Clothing,1,Around Accessory
+d4087c04-cdfe-4a23-98eb-db891c9278bd,80356b36-c8d5-4936-b944-d78448d704cb,Home & Kitchen,1,Market Device
+d43be456-f018-4a34-8db5-4179034b0c90,332ec2b6-1677-488a-a853-8473257e8e87,Home & Kitchen,1,Foreign Gadget
+d4523b40-bb30-4808-bced-6098adc9926f,1126449a-5bc1-49e7-85d0-d5f7f5e463ac,Toys & Games,1,List Gadget
+d4532af6-18ce-4160-9d52-19036190257f,7e00b82f-4ff3-4cb8-8163-a8882843f5f8,Electronics,1,List Accessory
+d48738d7-8219-4da0-bdd3-23a212cb5706,0edb4e1b-4fc7-4e88-8b78-2d23dbe56326,Clothing,1,Game Gadget
+d4a76b8e-b601-44cc-a91e-84dedd3e676b,2a89d82a-9931-4cea-9b92-e16b928fb488,Toys & Games,1,Into Device
+d526fb63-6c95-44c6-81b5-605db45253a4,04d1a35d-b272-43da-8ebe-8ef4f94137ed,Home & Kitchen,1,Increase Tool
+d5465281-1447-40d9-a15e-ba243ccf9365,2a42c0ea-6cd7-471d-bddf-0f3f300a4500,Clothing,1,Adult Tool
+d5911ae5-a862-4671-af83-acbb8764370e,0b343f7d-906d-4cf3-83fe-096b85952205,Electronics,1,Put Gadget
+d5dda72d-cfff-4692-8d20-b7e5427d0a7f,fc87222b-0400-4bc7-b9fe-4e8c0c8d452b,Books,1,Avoid Accessory
+d5e1f07f-0c40-4604-9840-7030e92473a1,5d5cd324-50b0-4649-b2e0-eb526f5d966b,Electronics,1,Strategy Device
+d6fc217d-acbb-4642-b142-4b9016bb5e45,1f462b28-8d11-4368-a288-fcff44361b09,Books,1,Kitchen Device
+d77c8617-15df-49b1-b3f3-46d46108e085,731da4b8-8a94-47c3-b00e-81f63a23cfcf,Home & Kitchen,1,Poor Accessory
+d799ec45-4d10-40c9-91ef-3f7af57a87dd,30769eee-76cb-416c-a9a8-a87ee5bb14d1,Grooming,1,Well Accessory
+d7ac7045-7ee0-4ecd-a2dc-1da243ce3abb,956d6255-f25b-411b-9e39-da3312f1c007,Home & Kitchen,1,Out Accessory
+d80cf8cb-f8f6-4d03-aeb5-ef27fb63a7c2,7f837b0c-2d33-4d4b-9c1b-cd632f6caba7,Books,1,Result Item
+d80f45bb-fb82-417b-b4f3-fcc73b016eba,147fcd11-5f7f-43c5-a611-cce05a9a0307,Electronics,1,Claim Item
+d80f87c4-e690-4495-867e-fcf11bdc6fe9,22af31c2-76e4-4a9e-ad39-dfc03c4ab7fb,Home & Kitchen,1,See Accessory
+d8253650-768b-4ac3-bd51-84aede01ca16,00121514-8476-4ea7-873c-e9058eb39686,Toys & Games,1,Off Gadget
+d84df935-4c4f-48ea-a05f-a738af7e618a,075c52c3-189f-416c-96a4-c73fb723e5a8,Books,1,Trial Tool
+d89c8cc8-998b-4cc0-9806-21dad8db0bc5,05452488-a414-4a6e-8793-2795b1a2b2ff,Home & Kitchen,1,Cause Tool
+d8ff4f3c-c1a1-48f0-a837-b8ac693e65dd,2a71b6af-8e79-4743-a320-24de972782fc,Grooming,1,Including Tool
+d978047f-3542-4cd6-957e-acae8b9ca4fc,1a155633-349e-4362-8f60-3874db8ca658,Home & Kitchen,1,Store Accessory
+d9ae07d6-8560-4f70-bbfb-9f7c5310e047,1efc5749-cc75-4771-ba49-4684ac38b6c9,Toys & Games,1,Third Tool
+d9b025e1-b62c-433d-aa5d-5b9cf37bddec,4d88d612-4977-4077-b04c-c74c8736ee61,Clothing,1,Let Item
+d9e33dfd-9091-4bbf-9860-b0915649fcfa,15820f22-0da3-4f46-9ccb-05df68900e59,Books,1,Film Accessory
+da346595-78ad-4f19-a4f4-5c94fec1a277,2ef5fa65-a85b-4d1f-96a2-4abe59d3dbc0,Grooming,1,Somebody Gadget
+daa60adb-b5f8-4c19-a552-01cfcd31102e,2f8e1631-e971-4b8f-86da-0427b0bd1612,Books,1,Just Device
+dab778fb-11c7-4fb2-afbb-9c453dfdad95,1508ff12-1ce8-482d-b014-7edcd2cc5341,Electronics,1,Near Item
+db3448dd-ddec-4c6b-9a32-65c1df7194c4,5873af5f-3b34-4765-8c7f-b4134ca7f8ff,Grooming,1,Scientist Gadget
+dc09bc74-de2a-4678-8b0e-1b6baa0ac455,1c2d3a67-36fa-4193-8132-a32e94893f51,Grooming,1,Reach Accessory
+dc109bf2-384a-46e5-a342-3e2c4c19224a,1183479b-decb-4bbf-8383-f24b827c1fa7,Toys & Games,1,Lawyer Device
+dc1674d7-8e23-4f8f-a982-80de328de9a5,037a0c4e-ee87-45db-b16d-cd5f0615d477,Grooming,1,Pull Tool
+dc38ce5f-8952-47ad-a0b0-2c538d4b2bae,2c663b6b-0598-44ee-9b50-1334c0e5c3db,Clothing,1,Capital Tool
+dc8c7ece-2599-4af3-b678-289fc3c34667,3e9e1b43-707f-428c-8c38-f868746fba41,Electronics,1,Buy Gadget
+dd5e2ecf-1af9-497e-ad89-00156bd26eaa,09fe0f4c-c8a0-40ff-baba-755efb7a1201,Electronics,1,Good Accessory
+dd6d0ad1-33c3-4818-8636-0764f71fc1d7,2a9bbac2-ad67-4f99-9ec7-a12637d42ef6,Toys & Games,1,Yourself Item
+dd8f3f67-23bb-4a15-a94c-5b3c708de0b5,07b67fd5-d8b5-4c76-af5c-08c72453aa83,Home & Kitchen,1,In Gadget
+dd95bd28-f9a2-44a9-8103-e0c0797c887e,15ae2cd6-760b-46b6-b595-62201c032611,Home & Kitchen,1,Skill Device
+ddb74511-0189-475e-9a4d-abc3da877e08,47505aff-677b-40e7-89a2-4d16801441e5,Clothing,1,Land Gadget
+de74b493-a356-47cd-b6bb-d9af9bbc96cb,09ef1c6d-86dd-4755-8a51-56632014418a,Grooming,1,Kind Gadget
+de8700af-5e53-4abd-9d11-c2ed6b7baf89,04697b66-383a-4d0f-98ad-b4cf7f1cb8fa,Electronics,1,Pretty Gadget
+de9810f9-0477-4742-b081-d0009ecb63de,be4505f4-b741-444c-aed0-91b50a1a4da3,Home & Kitchen,1,Indicate Gadget
+df1bec78-94aa-4e27-9293-96327f3a83e2,975ca809-15b2-42be-a280-e1723c25cff3,Home & Kitchen,1,Mind Item
+df5667e3-81aa-497d-b17b-f4b920589703,24791299-af5c-4edc-beca-6aabbd941e27,Home & Kitchen,1,Admit Item
+df8d3773-1874-4fc1-a93c-3445867796f3,8b345bcf-6e0d-47a3-a385-0dd539ee6258,Toys & Games,1,Candidate Device
+e04e51b9-a8c7-4fa0-bfd1-b805cbf1612e,3050d7f9-5630-421f-a88c-ffefd98d39dd,Grooming,1,Dark Item
+e058f8d2-e21b-4f36-aad6-deda854a9b6e,f57deaf3-3c23-4c3f-8296-73b7d91cdc34,Electronics,1,Much Accessory
+e089aaac-dde4-4903-b0e5-7d5886aadf97,1db866d7-725f-4067-bf9e-a0d726cde3d1,Home & Kitchen,1,Blue Device
+e0ca3943-e508-4731-acbf-682e9a941717,3722e645-342b-47d2-aa94-9868190d49d9,Toys & Games,1,Night Gadget
+e0d73d77-93c5-4fd7-82fa-0f577ec48a41,16f01302-d684-43b8-9e0f-02e3539a2fdf,Home & Kitchen,1,Here Accessory
+e1137b93-08fe-43f9-8c55-9d50525fa2b6,07b67fd5-d8b5-4c76-af5c-08c72453aa83,Home & Kitchen,1,In Gadget
+e14822c7-50bc-4adf-b9a8-5c8b2975823d,2a22a2f8-bd28-4884-a9c1-7408dfb8ced1,Electronics,1,Between Accessory
+e15e022a-c965-4ad1-a7f0-5a42ee93ed92,4eff2ead-6eb7-4549-9930-f9af749449c9,Electronics,1,His Device
+e1cf96e5-5b30-4b71-90bc-bc8caa15a4ec,00121514-8476-4ea7-873c-e9058eb39686,Toys & Games,1,Off Gadget
+e25702f9-07b0-44f6-b6b0-13ae8b4ddc67,199f347e-7fb9-4877-bb30-664f31e87ada,Electronics,1,News Gadget
+e283b2a3-02ab-4bc3-84e1-b4963d1c12b5,09ef1c6d-86dd-4755-8a51-56632014418a,Grooming,1,Kind Gadget
+e2886ca4-0727-433a-9a59-35f2e4de76bc,5d83de7a-5b4d-488d-a602-460036f234d5,Books,1,Seat Device
+e28d5f93-54f9-4166-8804-a241b267e1f6,c6360ad2-6f93-44d5-873a-f6b453d77c01,Home & Kitchen,1,Stuff Device
+e2f67de2-a2c0-4301-a85c-e51b0b97ba01,3e9e1b43-707f-428c-8c38-f868746fba41,Electronics,1,Buy Gadget
+e319f040-9be9-4ce2-b9da-e20fb20cbecd,01a50166-7541-4bf8-b59e-c0262dd8790d,Clothing,1,Any Tool
+e323f4d5-50f9-45c9-ba2b-0a73b930817d,6c2d7d16-b3a3-4ddb-8cb8-475ae28353e9,Grooming,1,Order Tool
+e37baee0-7364-4973-8b61-af7c2ea8cfed,1c5b5474-7394-4fa0-b49c-ddc935070585,Grooming,1,Response Item
+e3a31679-5fda-421f-9b7f-6b848d4b9e49,51fde498-e7b0-43db-9f0d-cc3b57741640,Clothing,1,Tree Gadget
+e3c0301c-c998-48b8-a0b8-f373a6381314,099415a1-36ce-451c-83a2-810608eac402,Electronics,1,End Device
+e3f251ce-ef31-4bdc-a26d-24d290cf8e3f,0314b3e8-677a-44d9-983f-776affb31e18,Home & Kitchen,1,Election Accessory
+e4929da6-f549-4db5-9921-4571a3a618e0,110d64b9-f23a-462b-a629-f70671ba09d4,Toys & Games,1,Cup Gadget
+e4c1a7b1-b310-479d-b696-06b1582d0ccf,5d272a10-6758-4066-86e4-4db99e97a205,Grooming,1,Book Device
+e540b4cb-f3ba-431b-ae73-0d4a201b7636,982a6de7-8396-44e4-89c6-d2bb26e0e6da,Toys & Games,1,Fish Device
+e61b1ece-87ee-416f-aa33-946ba14c6468,09f60643-2863-466b-9657-e1e610d48c55,Grooming,1,Prove Gadget
+e61bb0a8-1daf-4221-a9a7-099d4da7fb3a,52f18916-283a-4028-9c2e-808a32607477,Home & Kitchen,1,Gun Accessory
+e62257c0-0144-42ad-8068-90395fb765a5,fee2a7ba-ab2c-4d95-9c17-a15f4934141b,Electronics,1,Happen Item
+e6715d1e-cf8d-4f6c-982f-a033b8b0db43,00121514-8476-4ea7-873c-e9058eb39686,Toys & Games,1,Off Gadget
+e6a0434b-84bf-45de-bc5e-4c5e34b449a9,39bcb082-90d4-4b89-a44d-d9bebb550b18,Electronics,1,Six Device
+e6f99393-bbf8-4282-978f-78cd9ca7b893,29440925-7760-439d-9e74-73d3a3d1580a,Grooming,1,Turn Tool
+e7d4d65e-8110-47a8-b03b-4be6a241082a,11182f56-ff77-46e0-9bd2-ab3fb6c353ee,Clothing,1,Or Accessory
+e7fca1b7-8756-46c8-a912-205387b72be4,988e6ae6-d0e5-420f-a9fe-488887261e1e,Books,2,Two Item
+e85e36cc-a1cd-4826-8109-cbb9de0149f7,39bcb082-90d4-4b89-a44d-d9bebb550b18,Electronics,1,Six Device
+e9039e91-0584-450e-91ab-6daf9db4440c,50757215-8247-4fc6-9d6e-37d2a950e0ab,Books,1,Gas Item
+e93078f6-6811-4074-a3fa-45cd9da1e0c8,02568189-e510-4714-84c2-4f3d551dbb80,Toys & Games,1,Bag Device
+e94b41a0-25b5-415e-b22c-625a370730d2,33579555-0cc0-44d9-834b-89d0375521fb,Books,1,Peace Accessory
+e95a570e-52b2-45b3-b676-2a84cbaff450,02f2e42f-a28a-4896-aea3-e74e866eafb5,Clothing,1,Use Gadget
+e974e0d1-2859-4edd-bf09-822e386580b1,0ee6ef8a-5b0f-4f77-a01e-da8d2ac8e857,Clothing,1,Key Item
+e99367b9-0e2f-4d90-86c9-156351efd9ef,eb3a96d6-5e15-4b86-ade2-15f17c7d0738,Home & Kitchen,1,Treat Item
+ea15492e-0dcc-4c1b-8817-d8263ff50c5c,19f6cf7e-559f-4a26-bc8c-6941650200fe,Toys & Games,1,Can Item
+ea460075-d8ec-449e-8bf6-6ab75d208280,19dc58dd-651a-49cf-8d55-d32fba551870,Toys & Games,1,Kid Gadget
+ea78db9f-c800-4fd4-90d6-2f0dc229c5f5,3722e645-342b-47d2-aa94-9868190d49d9,Toys & Games,1,Night Gadget
+eac88b2f-f4cb-4784-9448-42e8a4d15e81,11c24677-f9bf-4773-a5c2-af3d2946e0aa,Grooming,1,Conference Accessory
+eadc2b1f-7b29-42ef-937f-276cb1f103f5,2d6304a6-d9c4-45c3-9e7b-b749f930bc81,Clothing,1,Knowledge Item
+eb3fd601-2856-4cff-b965-71156a2e9fcc,47f0a6bc-4feb-479b-a2bd-39fb5fa67162,Electronics,1,Look Device
+eb4ff062-072e-45e7-9213-6b756cc95151,c51a168e-d4d6-4e40-bec3-2c8a60f528ea,Electronics,1,Page Tool
+eb8cb5ca-e504-43de-ae9b-50c1620e7aff,1a155633-349e-4362-8f60-3874db8ca658,Home & Kitchen,1,Store Accessory
+ebf9a08f-30bd-43bf-9863-eba56d2f80ef,9a7087e3-14fb-47df-b54b-033105f087ae,Clothing,1,Decade Tool
+ec23dcb0-788c-4a4d-98fb-e284630d14be,30971e67-6f01-46fa-a30b-129a4fd81463,Toys & Games,1,Particularly Tool
+ec629d2d-8bda-4eda-8eea-90f7ccec93d7,0b42469b-4f77-4ad9-a079-7b0ba516e843,Clothing,1,Education Tool
+eca8386a-189e-4825-a85a-bd96a4f86878,199f347e-7fb9-4877-bb30-664f31e87ada,Electronics,1,News Gadget
+ecac113c-e35b-4014-b1f6-94cbad3a75df,0d7c21e0-06d3-4b44-9e6f-22fc1e8f28f6,Clothing,1,Again Accessory
+ecca85a6-130c-4395-8d04-11df27d9dbe1,37518d12-c039-48ca-89d5-f3c7fbf4f8e2,Grooming,1,Be Accessory
+edaa91ee-43ea-4c0c-9f7a-55a68fed1e32,8e9e80e5-90c5-4e59-9840-0697ec22d62e,Grooming,1,Letter Device
+edca5d43-5e0c-484e-894d-4bcd24666f27,90d84e9f-0240-49f6-a40f-a4e392961924,Home & Kitchen,1,Run Tool
+ee8255bd-fea9-4bab-b61d-b99b99260c0c,0dc29c8c-90bb-4d0a-9569-694cc7242802,Books,1,Ago Device
+ef19f8ce-ce0d-4e54-bc56-77d6b3b18c0a,161725a4-f7cf-4725-bd7a-36252f29792e,Electronics,1,Own Device
+ef8d8607-2432-4a27-b954-a409da3e3a79,0d0ede04-5509-40ad-824c-6b892b6a24b6,Grooming,1,They Gadget
+f1a3dddd-0f43-4fbe-bb2f-462748106fe7,07ddbe5f-89f4-4dac-ba4e-afc0c758dee1,Clothing,1,Around Tool
+f1a72634-51d6-4943-b011-635ad81e7592,9b093173-7aa8-4629-b44c-9eee1ed895aa,Grooming,1,Central Gadget
+f1d0b2df-4e1c-45fa-a713-3bd959b6de06,2c76a779-0279-4279-a0aa-03b386f2e1cc,Home & Kitchen,1,Level Accessory
+f23511b5-7b18-4e00-aa7a-eb5c5bf32251,19e19931-7348-406b-882a-9ae560da22bf,Electronics,1,Real Tool
+f2980781-2ae5-4e24-b78f-f2762fc89e2c,1126449a-5bc1-49e7-85d0-d5f7f5e463ac,Toys & Games,1,List Gadget
+f306d7a8-bfc5-4884-ad9d-5403637c437b,0dc29c8c-90bb-4d0a-9569-694cc7242802,Books,1,Ago Device
+f33999fe-abac-4fb9-b4e1-14bf513fdced,20e18fab-91df-4395-bec3-479bf9b2eb55,Home & Kitchen,1,Go Gadget
+f35104b5-f781-45aa-ac00-3c3df1641061,07ddbe5f-89f4-4dac-ba4e-afc0c758dee1,Clothing,1,Around Tool
+f377f5d0-50ad-454e-a2c5-2e87c5ebadc1,332ec2b6-1677-488a-a853-8473257e8e87,Home & Kitchen,1,Foreign Gadget
+f3836f79-e521-4aa0-90a9-54cb81e28dcc,273acc70-97dd-40eb-9cb1-89b5884e5488,Books,1,Able Item
+f38eca16-a9c7-4149-8ac7-c4851f5bfe1d,15268fb1-5d08-459c-92bd-fe1d1574c554,Home & Kitchen,1,Report Device
+f3b7322a-96a7-4e97-956b-b294bc501f29,12cf8e59-3e62-42ce-83e0-c88e4c7e32c4,Home & Kitchen,1,Knowledge Tool
+f3d9f475-35a0-48c7-9d93-7532c1905f9c,0609a4d9-700e-4007-9dff-4f44a9d2b841,Grooming,1,Beautiful Tool
+f4220d7c-4c22-46ee-9696-d968fb246fcb,33641bb0-315b-4da3-9bd7-7ea673e4466f,Electronics,1,Speech Device
+f4873b52-7347-4990-a368-7f5eb02e4750,1609c39a-be7b-464b-b655-e757d17b2976,Toys & Games,1,Before Item
+f4c5ec4d-af23-4c51-83d7-dcc86c7b9f57,1391b5ab-04f3-480c-9e40-9a0d05449ac8,Home & Kitchen,1,Group Device
+f543264c-ec42-48b1-bd1b-b2ef71d576d8,1770e12e-6b47-446c-9558-078cc4bc1961,Home & Kitchen,1,Think Tool
+f56e553d-2871-4c36-9ea1-22f9984861c1,15820f22-0da3-4f46-9ccb-05df68900e59,Books,1,Film Accessory
+f57245a5-b7cc-4d59-b0ca-1d34aa8fe765,0505e2b1-33cf-4f3c-bbd3-a342f90cfd3f,Clothing,1,Simply Gadget
+f578061e-575b-42f9-ab53-46bdd4306e09,1a155633-349e-4362-8f60-3874db8ca658,Home & Kitchen,1,Store Accessory
+f59ebaa7-7c28-4d5b-bd71-757bab7f914a,392b10f0-e68e-4763-a83d-4b17120ed832,Books,1,Rather Gadget
+f5d2cfd5-fc9d-41c6-ae71-eb6be9072d59,a8e85675-24d4-4c0a-a24f-09833396ad13,Toys & Games,1,Positive Device
+f5e98406-c449-458a-9b38-46ae4fdc70c4,075c52c3-189f-416c-96a4-c73fb723e5a8,Books,1,Trial Tool
+f6014441-264a-4325-867c-59d2f899b053,5d272a10-6758-4066-86e4-4db99e97a205,Grooming,1,Book Device
+f650de16-5cb2-4d7f-8082-d7a8ce4a10cc,33e4fc42-c1cf-4a9f-bda7-34f72e2a1e31,Electronics,1,Give Item
+f65689ca-d399-43e3-9bc5-d549d44fc7eb,0a4b9d4a-8737-45da-853e-616be5642058,Electronics,1,Response Device
+f6d871fe-2240-454e-a7ef-bc7354f1d396,68936bdc-3cf9-455b-918e-16d5ede968d2,Grooming,1,Not Tool
+f7234104-e6b6-404f-9349-0fc98d7ec4a9,3ee48e9c-aa2d-4c2b-81e7-109acef7c4b8,Grooming,1,Piece Gadget
+f807ecfc-7377-4233-9b98-b23d24dd8855,0578951f-7d45-4916-973f-46d9fc7a4e78,Toys & Games,1,Language Accessory
+f905489e-781b-4f1d-b068-325a8cd84b3d,2c76a779-0279-4279-a0aa-03b386f2e1cc,Home & Kitchen,1,Level Accessory
+f95be8a9-c25f-4e50-8459-f78c58a63555,1834487c-8972-494e-aada-1c0c4406ce18,Home & Kitchen,1,Blood Device
+f9a126da-d723-43be-aa10-21131eeb9a87,a05dbc82-0cfc-492d-b423-870c4b882173,Clothing,1,Option Gadget
+fa0e80a1-8400-46e3-b8a0-3ea484db40aa,1126449a-5bc1-49e7-85d0-d5f7f5e463ac,Toys & Games,1,List Gadget
+fa1530e0-2930-4273-bfa4-6e65a6186e43,1db866d7-725f-4067-bf9e-a0d726cde3d1,Home & Kitchen,1,Blue Device
+fa3b5b4a-7704-4bbf-9a87-d052a54f1adf,0578951f-7d45-4916-973f-46d9fc7a4e78,Toys & Games,1,Language Accessory
+fa647875-a2d2-42c4-be7b-b8af2166231c,09f60643-2863-466b-9657-e1e610d48c55,Grooming,1,Prove Gadget
+fb012126-fe81-4e3c-9793-a855288e7966,15820f22-0da3-4f46-9ccb-05df68900e59,Books,1,Film Accessory
+fb028935-7f13-4317-b1b8-ddc34e7a08af,223c1a58-1c21-4250-b565-fc6bdd07789b,Grooming,1,Finally Gadget
+fb2f4d5d-121a-47a3-b05d-2f4f3eb7a798,2d9f19e6-efc2-439f-b94e-bcc7350e68e5,Toys & Games,1,Individual Item
+fb6e0b60-8331-4e4a-beeb-b467eb00c604,075c52c3-189f-416c-96a4-c73fb723e5a8,Books,1,Trial Tool
+fb74c2a4-e721-425e-ad50-664e50c5622f,01944e2a-9b1d-4efc-8d56-6949109cb29a,Home & Kitchen,1,Operation Accessory
+fb77c707-421b-455f-8620-05f6b3ebb3e3,04697b66-383a-4d0f-98ad-b4cf7f1cb8fa,Electronics,1,Pretty Gadget
+fbe42bcc-c1f8-45f7-8d93-aa67539d6b76,5da613d3-bbf3-4c74-bfaa-b326331268b7,Grooming,1,Tree Tool
+fc21be25-fce7-4bc8-af9e-31d1e92296a0,0314b3e8-677a-44d9-983f-776affb31e18,Home & Kitchen,1,Election Accessory
+fc9e4cf2-79ab-465d-8209-4489c78976cd,08b69462-b596-4835-a0d4-582866f8e93a,Clothing,1,Than Accessory
+fd22f068-1793-4067-9c0f-68b3d6f22fd0,64cbb204-4178-4757-a7ac-59f1d810eae3,Electronics,1,Race Gadget
+fd3f8f4f-5f30-4549-9377-e188d296b7c6,0ba6b90d-e5dd-44cc-923d-9ac4132b591f,Books,1,Include Accessory
+fd46b8ac-6cbe-4f1a-8f73-3c66167cea25,81f28afa-56f5-43ff-b08a-2713aa169f49,Electronics,1,Under Item
+fdfd34b8-4fe7-44fe-91cf-b0c9ae0db7b6,338a827c-9cbc-450b-9732-f6d7bd859112,Electronics,1,Heavy Item
+fe708499-9a0e-451a-a659-52e3222f37c1,60ea2f7b-59da-489a-bb17-b38e2a1b1ded,Grooming,1,Blood Device
+febc05eb-e78a-40ba-b4c2-1ce196a25a33,040816f9-61cf-4fba-b183-20d895e22356,Grooming,1,Door Device
+fef0f024-6129-47a4-b43c-5a86423071d0,5e974f6f-8dad-46b5-8942-0d2e40725da8,Books,1,Do Tool
+ff48a72a-7c3e-4182-8e09-7828d3ece86f,483fb178-12aa-47e2-8fa0-98234ce8e4b3,Clothing,1,Daughter Accessory
+ff6c3c40-a5e2-4276-810c-d41693d3548a,000fc69a-7739-40d4-bf11-d26a183c83fc,Electronics,1,Tree Device
+ff7f3553-bb8f-4149-ae53-94e1b531273b,c96d63a1-54eb-432c-a2ed-ff6aa35e2691,Home & Kitchen,1,Around Tool
