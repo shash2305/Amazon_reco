@@ -82,7 +82,9 @@ if st.button("🔍 Predict Subscription Probability"):
 
             # Display extracted customer details
             st.subheader("📋 Extracted Customer Details")
-            st.dataframe(user_df.T.rename(columns={0: "Value"}))  # Transpose for readability
+            display_df = user_df.T.rename(columns={0: "Value"}).astype(str)
+            st.dataframe(display_df)
+ # Transpose for readability
 
             # Preprocess and predict
             processed = preprocessor.transform(user_df)
